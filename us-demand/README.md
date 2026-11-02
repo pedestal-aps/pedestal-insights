@@ -1,21 +1,24 @@
-# Pedestal — US Market Opportunity
+# Pedestal: US Market Opportunity
 
-A 26-month snapshot of **US demand** (almost entirely organic) across all 11 Pedestal Shopify
-storefronts (Jun 2024 – Jul 2026). Pedestal has no US-localized store and no
-US-targeted ad spend, yet US visitor sessions are substantial and growing fast.
+A 29-month snapshot of **US demand** across Pedestal's Shopify storefronts (Jun 2024 to
+Oct 2026): the 11 European storefronts for the whole period, plus the US store
+(us.pedestal.com) from its launch on **23 September 2026**. Before launch there was no
+US-localized store and no US-targeted ad spend, yet US visitor sessions were substantial
+and growing fast, almost entirely organically.
 Bot & AI-agent traffic is flagged out so the headline reflects **real people**.
 
 ## Start here
-Open **`index.html`** in any browser — it's the one-page summary with the
+Open **`index.html`** in any browser: it's the one-page summary with the
 animated maps, growth chart, top markets, and method notes.
 
 ## The numbers (real customers, bots/AI agents removed)
-- **172,506** real US visitor sessions over 26 months
-- **+71% year-over-year** (last 12 months vs the prior 12: ~104,000 vs ~60,700 sessions); a log-linear trend implies ≈64%/yr
-- **~9,000 real sessions/month** at the current rate (Jun 2026: 9,222 · Jul 2026: 8,921)
-- Top states: **California (31.9k) › New York (20.7k) › Texas (15.0k) › Washington › Florida › Illinois**
-- Top cities: **Los Angeles › New York › Brooklyn › San Jose › Chicago › Fort Worth › San Antonio › Seattle**
-- California + New York + Texas ≈ **39%** of US demand
+- **US store live 23 September 2026** (us.pedestal.com)
+- **213,212** real US visitor sessions over 29 months (182,838 of them in the 27 months before launch)
+- **+86% year-over-year** (last 12 months vs the prior 12: ~125,000 vs ~67,200 sessions); a log-linear trend implies ≈71%/yr
+- **19,508 real sessions in October 2026**, the first full month with the US store open (US store 9,093 · European storefronts 10,415), roughly double the summer level (Jun 9,222 · Jul 8,920 · Aug 10,350)
+- Top states: **California (40.4k) › New York (27.6k) › Texas (18.5k) › Washington › Florida › Illinois**
+- Top cities: **New York › Los Angeles › Brooklyn › Chicago › San Jose › Fort Worth › Seattle › Dallas**
+- California + New York + Texas ≈ **40%** of US demand
 
 ## What's in the box
 ```
@@ -35,10 +38,13 @@ The maps are interactive and embedded in `index.html`; the charting library load
 from a CDN, so viewing needs an internet connection.
 
 ## Method & the bot/AI caveat
-- **Source:** Shopify "Sessions by location" report, all 11 storefronts, United
-  States only, monthly. Figures are **website sessions (visits), not orders.**
-- **Why filter bots/AI agents:** ~50% of raw "US sessions" originate from cloud
-  datacenters — Council Bluffs IA (Google), Ashburn VA (AWS), North Bergen NJ,
+- **Source:** Shopify "Sessions by location" report, United States only, monthly:
+  the 11 European storefronts (10 consumer stores + B2B) for the whole period and
+  the US store from 23 Sep 2026. US visitors still reach the European storefronts
+  after launch, so both are counted to keep the series comparable. Figures are
+  **website sessions (visits), not orders.**
+- **Why filter bots/AI agents:** ~49% of raw "US sessions" originate from cloud
+  datacenters: Council Bluffs IA (Google), Ashburn VA (AWS), North Bergen NJ,
   Forest City NC (Meta), Prineville OR. These are search/AI crawlers, on-demand
   AI fetchers (ChatGPT, Perplexity, Google AI) and uptime/monitoring bots. They
   geolocate to the **server**, not a person, so including them would put the
@@ -47,18 +53,23 @@ from a CDN, so viewing needs an internet connection.
   preserved in the `all-traffic_*` files.
 - **The filter follows the bots.** During 2026 the older hubs went quiet and new
   ones ramped up, mostly Meta's newer datacenter sites. The exclusion list was
-  extended in Aug 2026 — Social Circle GA, Gallatin TN, DeKalb IL, Huntsville AL,
-  Eagle Mountain UT (all Meta), plus Hillsboro OR, St Louis MO, Columbus OH,
-  Springfield NE, Sandston VA — and re-applied to the full series so every month
+  extended in Aug 2026 (Social Circle GA, Gallatin TN, DeKalb IL, Huntsville AL,
+  Eagle Mountain UT, all Meta, plus Hillsboro OR, St Louis MO, Columbus OH,
+  Springfield NE, Sandston VA) and re-applied to the full series so every month
   is stated on the same basis (this trimmed previously published history by ~3%).
+  Nov 2026: Eatonton GA and Los Lunas NM (Meta) added; bot bursts removed from
+  two real metros on the European storefronts only, San Jose CA (Aug to Oct 2026)
+  and Kansas City MO (Sep 2026), where the extra traffic was spread evenly over
+  all 11 stores. US-store sessions from those cities are kept. Earlier months
+  moved by fewer than 20 sessions (172,506 to 172,488 for Jun 2024 to Jul 2026).
   New datacenter towns are identified by an even session spread across all 11
   storefronts (real US visitors concentrate heavily on the EN-language stores)
   plus a step-ramp from near zero.
 - **AI-driven *human* visits are still counted.** When a person reads a ChatGPT
   or Google-AI answer that cites Pedestal and clicks through, that's a normal
-  session at their real location — already in the real-customer numbers.
+  session at their real location, already in the real-customer numbers.
 - Mixed metro/datacenter cities (e.g. Fort Worth TX, Des Moines IA) are kept in
   the real-customer view when the store-mix looks predominantly human; a finer
   user-agent-level split remains a logical next step.
 
-*Prepared June 2026 · updated August 2026 · data through July 2026.*
+*Prepared June 2026 · updated August 2026 and November 2026 · data through October 2026.*

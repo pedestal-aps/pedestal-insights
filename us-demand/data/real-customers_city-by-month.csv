@@ -2676,7 +2676,6 @@ month,state,city,sessions
 2024-10,New Jersey,Willingboro,5
 2024-10,New Mexico,Albuquerque,25
 2024-10,New Mexico,Anthony,1
-2024-10,New Mexico,Los Lunas,4
 2024-10,New York,Amsterdam,1
 2024-10,New York,Blauvelt,1
 2024-10,New York,Brooklyn,141
@@ -3254,7 +3253,6 @@ month,state,city,sessions
 2024-11,New Jersey,Weehawken,1
 2024-11,New Jersey,Willingboro,2
 2024-11,New Mexico,Albuquerque,8
-2024-11,New Mexico,Los Lunas,1
 2024-11,New Mexico,Santa Fe,3
 2024-11,New York,Altamont,1
 2024-11,New York,Bellmore,2
@@ -4800,7 +4798,6 @@ month,state,city,sessions
 2025-01,New Jersey,Wayne,2
 2025-01,New Mexico,Albuquerque,10
 2025-01,New Mexico,Chaparral,2
-2025-01,New Mexico,Los Lunas,1
 2025-01,New Mexico,Santa Fe,2
 2025-01,New York,Albany,2
 2025-01,New York,Bronxville,2
@@ -5392,7 +5389,6 @@ month,state,city,sessions
 2025-02,New Jersey,Upper Saddle River,1
 2025-02,New Jersey,Westfield,1
 2025-02,New Mexico,Albuquerque,5
-2025-02,New Mexico,Los Lunas,6
 2025-02,New Mexico,Roswell,1
 2025-02,New Mexico,Santa Fe,2
 2025-02,New Mexico,Unknown,1
@@ -7807,7 +7803,6 @@ month,state,city,sessions
 2025-05,New Mexico,Albuquerque,39
 2025-05,New Mexico,Carlsbad,2
 2025-05,New Mexico,Las Cruces,2
-2025-05,New Mexico,Los Lunas,2
 2025-05,New Mexico,Mescalero,2
 2025-05,New Mexico,Santa Fe,8
 2025-05,New Mexico,Taos,1
@@ -21590,7 +21585,6 @@ month,state,city,sessions
 2026-04,Georgia,Douglasville,1
 2026-04,Georgia,Duluth,2
 2026-04,Georgia,East Point,1
-2026-04,Georgia,Eatonton,2
 2026-04,Georgia,Ellenwood,3
 2026-04,Georgia,Fairburn,2
 2026-04,Georgia,Fayetteville,1
@@ -22693,7 +22687,6 @@ month,state,city,sessions
 2026-05,Georgia,Douglasville,5
 2026-05,Georgia,Dublin,1
 2026-05,Georgia,East Point,2
-2026-05,Georgia,Eatonton,1
 2026-05,Georgia,Griffin,1
 2026-05,Georgia,Homerville,1
 2026-05,Georgia,Hoschton,1
@@ -26045,7 +26038,6 @@ month,state,city,sessions
 2026-07,New Mexico,Clovis,1
 2026-07,New Mexico,Hobbs,1
 2026-07,New Mexico,Las Cruces,3
-2026-07,New Mexico,Los Lunas,1
 2026-07,New Mexico,Roswell,3
 2026-07,New Mexico,Santa Fe,7
 2026-07,New York,Albany,3
@@ -26626,3 +26618,5285 @@ month,state,city,sessions
 2026-07,Wisconsin,Wausau,1
 2026-07,Wisconsin,West Bend,1
 2026-07,Wyoming,Sheridan,5
+2026-08,Alabama,Abbeville,1
+2026-08,Alabama,Birmingham,13
+2026-08,Alabama,Center Point,1
+2026-08,Alabama,Flat Rock,1
+2026-08,Alabama,Foley,1
+2026-08,Alabama,Gardendale,1
+2026-08,Alabama,Hoover,1
+2026-08,Alabama,Lincoln,1
+2026-08,Alabama,Mobile,4
+2026-08,Alabama,Monroeville,1
+2026-08,Alabama,Montgomery,3
+2026-08,Alabama,Northport,1
+2026-08,Alabama,Opelika,1
+2026-08,Alabama,Talladega,1
+2026-08,Alabama,Unknown,15
+2026-08,Alabama,Wetumpka,1
+2026-08,Alaska,Anchorage,7
+2026-08,Alaska,Juneau,3
+2026-08,Arizona,Chandler,6
+2026-08,Arizona,Flagstaff,1
+2026-08,Arizona,Glendale,1
+2026-08,Arizona,Globe,1
+2026-08,Arizona,Goodyear,1
+2026-08,Arizona,Lake Havasu City,1
+2026-08,Arizona,Mesa,6
+2026-08,Arizona,Peoria,5
+2026-08,Arizona,Phoenix,148
+2026-08,Arizona,Queen Creek,1
+2026-08,Arizona,Scottsdale,5
+2026-08,Arizona,Sedona,1
+2026-08,Arizona,Sun City West,1
+2026-08,Arizona,Tempe,2
+2026-08,Arizona,Tucson,15
+2026-08,Arizona,Unknown,14
+2026-08,Arizona,Willcox,1
+2026-08,Arizona,Yuma,4
+2026-08,Arkansas,Benton,1
+2026-08,Arkansas,Bentonville,3
+2026-08,Arkansas,Fayetteville,6
+2026-08,Arkansas,Little Rock,7
+2026-08,Arkansas,Marion,1
+2026-08,Arkansas,North Little Rock,3
+2026-08,Arkansas,Prairie Grove,1
+2026-08,Arkansas,Springdale,1
+2026-08,Arkansas,Unknown,3
+2026-08,California,Alameda,5
+2026-08,California,Alhambra,2
+2026-08,California,Aliso Viejo,4
+2026-08,California,Altadena,1
+2026-08,California,Anaheim,9
+2026-08,California,Antioch,18
+2026-08,California,Anza,1
+2026-08,California,Arcadia,4
+2026-08,California,Arroyo Grande,2
+2026-08,California,Atwater,2
+2026-08,California,Auburn,1
+2026-08,California,Bakersfield,9
+2026-08,California,Baldwin Park,2
+2026-08,California,Berkeley,5
+2026-08,California,Brea,2
+2026-08,California,Brentwood,3
+2026-08,California,Buena Park,1
+2026-08,California,Burbank,2
+2026-08,California,Burlingame,5
+2026-08,California,Camarillo,1
+2026-08,California,Campbell,2
+2026-08,California,Canoga Park,2
+2026-08,California,Canyon Country,3
+2026-08,California,Carlsbad,2
+2026-08,California,Carson,2
+2026-08,California,Cathedral City,2
+2026-08,California,Cerritos,1
+2026-08,California,Chico,1
+2026-08,California,Chino,3
+2026-08,California,Chino Hills,3
+2026-08,California,Chula Vista,3
+2026-08,California,Citrus Heights,1
+2026-08,California,Colton,1
+2026-08,California,Concord,3
+2026-08,California,Corona,2
+2026-08,California,Costa Mesa,2
+2026-08,California,Covina,3
+2026-08,California,Crestline,1
+2026-08,California,Culver City,4
+2026-08,California,Cupertino,3
+2026-08,California,Cypress,5
+2026-08,California,Daly City,6
+2026-08,California,Danville,2
+2026-08,California,Downey,1
+2026-08,California,East Los Angeles,8
+2026-08,California,El Cerrito,1
+2026-08,California,El Monte,7
+2026-08,California,El Segundo,4
+2026-08,California,Elk Grove,6
+2026-08,California,Encinitas,3
+2026-08,California,Encino,1
+2026-08,California,Escondido,4
+2026-08,California,Eureka,1
+2026-08,California,Fairfield,4
+2026-08,California,Fontana,9
+2026-08,California,Fremont,2
+2026-08,California,Fresno,10
+2026-08,California,Fullerton,3
+2026-08,California,Galt,1
+2026-08,California,Gardena,12
+2026-08,California,Glendale,5
+2026-08,California,Glendora,1
+2026-08,California,Hacienda Heights,1
+2026-08,California,Hayward,11
+2026-08,California,Hollister,1
+2026-08,California,Huntington Beach,6
+2026-08,California,Huntington Park,2
+2026-08,California,Inglewood,23
+2026-08,California,Irvine,13
+2026-08,California,La Habra,1
+2026-08,California,La Jolla,7
+2026-08,California,La Mesa,3
+2026-08,California,La Mirada,1
+2026-08,California,La Puente,3
+2026-08,California,La Quinta,1
+2026-08,California,La Verne,1
+2026-08,California,Ladera Ranch,2
+2026-08,California,Lake Forest,2
+2026-08,California,Lakeside,1
+2026-08,California,Lakewood,4
+2026-08,California,Lancaster,2
+2026-08,California,Lawndale,1
+2026-08,California,Livermore,1
+2026-08,California,Lodi,1
+2026-08,California,Lompoc,1
+2026-08,California,Long Beach,17
+2026-08,California,Los Angeles,743
+2026-08,California,Los Banos,1
+2026-08,California,Madera,1
+2026-08,California,Martinez,1
+2026-08,California,Menlo Park,2
+2026-08,California,Mill Valley,1
+2026-08,California,Milpitas,3
+2026-08,California,Mira Loma,3
+2026-08,California,Mission Viejo,1
+2026-08,California,Monrovia,3
+2026-08,California,Montebello,1
+2026-08,California,Monterey Park,1
+2026-08,California,Moreno Valley,7
+2026-08,California,Mountain View,12
+2026-08,California,Murrieta,4
+2026-08,California,Napa,1
+2026-08,California,National City,2
+2026-08,California,Newbury Park,1
+2026-08,California,North Hollywood,5
+2026-08,California,Norwalk,5
+2026-08,California,Oak Park,1
+2026-08,California,Oakland,25
+2026-08,California,Oceanside,5
+2026-08,California,Ojai,1
+2026-08,California,Ontario,7
+2026-08,California,Orange,1
+2026-08,California,Oxnard,1
+2026-08,California,Pacifica,2
+2026-08,California,Pacoima,3
+2026-08,California,Palm Springs,1
+2026-08,California,Palmdale,2
+2026-08,California,Palo Alto,5
+2026-08,California,Palos Verdes Estates,3
+2026-08,California,Panorama City,4
+2026-08,California,Paramount,4
+2026-08,California,Pasadena,11
+2026-08,California,Paso Robles,7
+2026-08,California,Perris,1
+2026-08,California,Petaluma,1
+2026-08,California,Pittsburg,9
+2026-08,California,Placentia,3
+2026-08,California,Playa Vista,1
+2026-08,California,Pleasant Hill,2
+2026-08,California,Pleasanton,5
+2026-08,California,Porter Ranch,2
+2026-08,California,Porterville,2
+2026-08,California,Portola,2
+2026-08,California,Rancho Cordova,4
+2026-08,California,Rancho Cucamonga,4
+2026-08,California,Rancho Mirage,3
+2026-08,California,Rancho Murieta,6
+2026-08,California,Rancho Santa Margarita,1
+2026-08,California,Redlands,3
+2026-08,California,Redondo Beach,2
+2026-08,California,Redwood City,6
+2026-08,California,Reseda,1
+2026-08,California,Rialto,1
+2026-08,California,Richmond,1
+2026-08,California,Riverside,10
+2026-08,California,Rocklin,5
+2026-08,California,Rohnert Park,5
+2026-08,California,Roseville,6
+2026-08,California,Sacramento,24
+2026-08,California,San Bernardino,7
+2026-08,California,San Clemente,2
+2026-08,California,San Diego,43
+2026-08,California,San Francisco,137
+2026-08,California,San Leandro,2
+2026-08,California,San Lorenzo,1
+2026-08,California,San Luis Obispo,1
+2026-08,California,San Marcos,5
+2026-08,California,San Mateo,6
+2026-08,California,San Pedro,1
+2026-08,California,San Rafael,4
+2026-08,California,San Ramon,4
+2026-08,California,Santa Ana,11
+2026-08,California,Santa Barbara,7
+2026-08,California,Santa Clara,210
+2026-08,California,Santa Maria,1
+2026-08,California,Santa Monica,11
+2026-08,California,Santa Rosa,7
+2026-08,California,Scotts Valley,2
+2026-08,California,Sherman Oaks,3
+2026-08,California,Simi Valley,1
+2026-08,California,South Gate,1
+2026-08,California,South Lake Tahoe,4
+2026-08,California,South Pasadena,3
+2026-08,California,South San Francisco,5
+2026-08,California,Stanford,4
+2026-08,California,Stanton,2
+2026-08,California,Stockton,11
+2026-08,California,Studio City,1
+2026-08,California,Sunnyvale,6
+2026-08,California,Sylmar,2
+2026-08,California,Tehachapi,1
+2026-08,California,Temple City,1
+2026-08,California,The Sea Ranch,1
+2026-08,California,Thousand Oaks,7
+2026-08,California,Torrance,2
+2026-08,California,Tracy,1
+2026-08,California,Tujunga,2
+2026-08,California,Tulare,1
+2026-08,California,Tustin,5
+2026-08,California,Union City,3
+2026-08,California,Unknown,37
+2026-08,California,Upland,2
+2026-08,California,Vacaville,2
+2026-08,California,Valencia,1
+2026-08,California,Vallejo,8
+2026-08,California,Van Nuys,9
+2026-08,California,Venice,1
+2026-08,California,Ventura,3
+2026-08,California,Visalia,5
+2026-08,California,Vista,3
+2026-08,California,Walnut,1
+2026-08,California,West Covina,4
+2026-08,California,Westminster,1
+2026-08,California,Whittier,4
+2026-08,California,Woodland,1
+2026-08,California,Woodland Hills,9
+2026-08,California,Yorba Linda,1
+2026-08,Colorado,Arvada,1
+2026-08,Colorado,Aurora,11
+2026-08,Colorado,Breckenridge,1
+2026-08,Colorado,Broomfield,1
+2026-08,Colorado,Centennial,1
+2026-08,Colorado,Colorado Springs,10
+2026-08,Colorado,Delta,1
+2026-08,Colorado,Denver,112
+2026-08,Colorado,Dillon,1
+2026-08,Colorado,Englewood,2
+2026-08,Colorado,Erie,1
+2026-08,Colorado,Fort Collins,1
+2026-08,Colorado,Greeley,3
+2026-08,Colorado,Greenwood Village,1
+2026-08,Colorado,Lafayette,1
+2026-08,Colorado,Lakewood,2
+2026-08,Colorado,Littleton,5
+2026-08,Colorado,Parker,1
+2026-08,Colorado,Pueblo,1
+2026-08,Colorado,Thornton,2
+2026-08,Colorado,Unknown,90
+2026-08,Colorado,Westminster,1
+2026-08,Connecticut,Berlin,1
+2026-08,Connecticut,Bridgeport,5
+2026-08,Connecticut,Bristol,2
+2026-08,Connecticut,Columbia,2
+2026-08,Connecticut,Danbury,1
+2026-08,Connecticut,Enfield,2
+2026-08,Connecticut,Fairfield,2
+2026-08,Connecticut,Guilford,1
+2026-08,Connecticut,Hamden,1
+2026-08,Connecticut,Hartford,12
+2026-08,Connecticut,Ledyard Center,4
+2026-08,Connecticut,Madison,1
+2026-08,Connecticut,Manchester,3
+2026-08,Connecticut,Meriden,1
+2026-08,Connecticut,Middlebury,1
+2026-08,Connecticut,Middletown,1
+2026-08,Connecticut,Milford,1
+2026-08,Connecticut,New Britain,3
+2026-08,Connecticut,New Haven,8
+2026-08,Connecticut,New London,1
+2026-08,Connecticut,New Milford,1
+2026-08,Connecticut,Newtown,6
+2026-08,Connecticut,North Haven,1
+2026-08,Connecticut,Norwalk,4
+2026-08,Connecticut,Norwich,2
+2026-08,Connecticut,Southington,3
+2026-08,Connecticut,Stafford Springs,1
+2026-08,Connecticut,Torrington,1
+2026-08,Connecticut,Wallingford,2
+2026-08,Connecticut,Waterbury,8
+2026-08,Connecticut,Winsted,1
+2026-08,Delaware,Bridgeville,1
+2026-08,Delaware,Dover,1
+2026-08,Delaware,Middletown,2
+2026-08,Delaware,Millsboro,3
+2026-08,Delaware,New Castle,1
+2026-08,Delaware,Smyrna,2
+2026-08,Delaware,Unknown,1
+2026-08,Delaware,Wilmington,11
+2026-08,District of Columbia,Unknown,2
+2026-08,District of Columbia,Washington,81
+2026-08,Florida,Apollo Beach,1
+2026-08,Florida,Boca Raton,4
+2026-08,Florida,Bonita Springs,2
+2026-08,Florida,Bradenton,2
+2026-08,Florida,Brandon,1
+2026-08,Florida,Cape Coral,1
+2026-08,Florida,Casselberry,2
+2026-08,Florida,Clearwater,2
+2026-08,Florida,Clermont,3
+2026-08,Florida,Coral Gables,1
+2026-08,Florida,Coral Springs,4
+2026-08,Florida,Crestview,1
+2026-08,Florida,Davenport,4
+2026-08,Florida,Deerfield Beach,1
+2026-08,Florida,Delray Beach,2
+2026-08,Florida,Deltona,3
+2026-08,Florida,Destin,1
+2026-08,Florida,Edgewater,1
+2026-08,Florida,Englewood,1
+2026-08,Florida,Fort Lauderdale,14
+2026-08,Florida,Gainesville,5
+2026-08,Florida,Haines City,2
+2026-08,Florida,Hialeah,10
+2026-08,Florida,Hobe Sound,1
+2026-08,Florida,Hollywood,2
+2026-08,Florida,Homestead,1
+2026-08,Florida,Jacksonville,24
+2026-08,Florida,Jupiter,1
+2026-08,Florida,Key Biscayne,1
+2026-08,Florida,Keystone Heights,1
+2026-08,Florida,Kissimmee,5
+2026-08,Florida,Lake Mary,1
+2026-08,Florida,Lake Worth,3
+2026-08,Florida,Land O' Lakes,1
+2026-08,Florida,Leesburg,1
+2026-08,Florida,Lehigh Acres,1
+2026-08,Florida,Longwood,1
+2026-08,Florida,Loxahatchee Groves,1
+2026-08,Florida,Lutz,1
+2026-08,Florida,Maitland,5
+2026-08,Florida,Marianna,1
+2026-08,Florida,Melbourne,4
+2026-08,Florida,Merritt Island,1
+2026-08,Florida,Miami,91
+2026-08,Florida,Miami Beach,7
+2026-08,Florida,Miramar,2
+2026-08,Florida,Ocala,2
+2026-08,Florida,Orange Park,1
+2026-08,Florida,Orlando,44
+2026-08,Florida,Palm Coast,1
+2026-08,Florida,Panama City,1
+2026-08,Florida,Pembroke Pines,1
+2026-08,Florida,Pensacola,3
+2026-08,Florida,Pinellas Park,1
+2026-08,Florida,Plantation,1
+2026-08,Florida,Pompano Beach,6
+2026-08,Florida,Ponte Vedra,2
+2026-08,Florida,Port Charlotte,1
+2026-08,Florida,Port Orange,2
+2026-08,Florida,Port Saint Lucie,3
+2026-08,Florida,Quincy,1
+2026-08,Florida,Ruskin,2
+2026-08,Florida,Saint Augustine,2
+2026-08,Florida,Sanford,1
+2026-08,Florida,Sarasota,1
+2026-08,Florida,Satellite Beach,1
+2026-08,Florida,Seminole,1
+2026-08,Florida,Spring Hill,3
+2026-08,Florida,St. Petersburg,7
+2026-08,Florida,Tallahassee,5
+2026-08,Florida,Tampa,21
+2026-08,Florida,Unknown,22
+2026-08,Florida,Valrico,1
+2026-08,Florida,Venice,2
+2026-08,Florida,Wesley Chapel,2
+2026-08,Florida,West Palm Beach,4
+2026-08,Florida,Windermere,1
+2026-08,Florida,Winter Garden,1
+2026-08,Florida,Winter Haven,2
+2026-08,Florida,Winter Park,1
+2026-08,Georgia,Albany,2
+2026-08,Georgia,Alpharetta,4
+2026-08,Georgia,Athens,3
+2026-08,Georgia,Atlanta,128
+2026-08,Georgia,Austell,3
+2026-08,Georgia,Bonaire,1
+2026-08,Georgia,Braselton,1
+2026-08,Georgia,Brunswick,1
+2026-08,Georgia,Byron,1
+2026-08,Georgia,Canton,2
+2026-08,Georgia,Cedartown,3
+2026-08,Georgia,Columbus,1
+2026-08,Georgia,Commerce,2
+2026-08,Georgia,Covington,3
+2026-08,Georgia,Cumming,1
+2026-08,Georgia,Dahlonega,1
+2026-08,Georgia,Dalton,3
+2026-08,Georgia,Decatur,3
+2026-08,Georgia,Duluth,5
+2026-08,Georgia,Fairburn,1
+2026-08,Georgia,Fargo,1
+2026-08,Georgia,Gainesville,1
+2026-08,Georgia,Griffin,1
+2026-08,Georgia,Grovetown,1
+2026-08,Georgia,Hampton,1
+2026-08,Georgia,Jonesboro,2
+2026-08,Georgia,Kennesaw,9
+2026-08,Georgia,Lawrenceville,2
+2026-08,Georgia,Lilburn,2
+2026-08,Georgia,Lithonia,11
+2026-08,Georgia,Loganville,20
+2026-08,Georgia,Mableton,4
+2026-08,Georgia,Macon,5
+2026-08,Georgia,Marietta,6
+2026-08,Georgia,McDonough,3
+2026-08,Georgia,Morrow,1
+2026-08,Georgia,Peachtree City,1
+2026-08,Georgia,Peachtree Corners,2
+2026-08,Georgia,Sandy Springs,1
+2026-08,Georgia,Savannah,4
+2026-08,Georgia,Smyrna,2
+2026-08,Georgia,Snellville,7
+2026-08,Georgia,Soperton,3
+2026-08,Georgia,South Fulton,7
+2026-08,Georgia,Stockbridge,3
+2026-08,Georgia,Stone Mountain,6
+2026-08,Georgia,Trenton,1
+2026-08,Georgia,Tucker,1
+2026-08,Georgia,Unknown,7
+2026-08,Georgia,Valdosta,1
+2026-08,Georgia,Woodstock,2
+2026-08,Hawaii,Honolulu,13
+2026-08,Hawaii,Makawao,1
+2026-08,Hawaii,Mililani Town,1
+2026-08,Hawaii,Pearl City,2
+2026-08,Hawaii,Wahiawa,1
+2026-08,Hawaii,Waipahu,2
+2026-08,Idaho,Boise,6
+2026-08,Idaho,Bonners Ferry,2
+2026-08,Idaho,Coeur d'Alene,2
+2026-08,Idaho,Coolin,1
+2026-08,Idaho,Driggs,1
+2026-08,Idaho,Hope,1
+2026-08,Idaho,Kuna,1
+2026-08,Idaho,Lewiston,1
+2026-08,Idaho,Meridian,1
+2026-08,Idaho,Nampa,2
+2026-08,Idaho,Rexburg,1
+2026-08,Idaho,Rigby,1
+2026-08,Idaho,Twin Falls,3
+2026-08,Idaho,Unknown,2
+2026-08,Illinois,Arlington Heights,3
+2026-08,Illinois,Bartlett,1
+2026-08,Illinois,Belleville,3
+2026-08,Illinois,Bellwood,2
+2026-08,Illinois,Berwyn,2
+2026-08,Illinois,Bolingbrook,1
+2026-08,Illinois,Carbondale,1
+2026-08,Illinois,Carpentersville,1
+2026-08,Illinois,Champaign,10
+2026-08,Illinois,Charleston,1
+2026-08,Illinois,Chicago,284
+2026-08,Illinois,Cicero,4
+2026-08,Illinois,Danville,1
+2026-08,Illinois,Decatur,1
+2026-08,Illinois,Des Plaines,2
+2026-08,Illinois,Effingham,1
+2026-08,Illinois,Elgin,1
+2026-08,Illinois,Elk Grove Village,6
+2026-08,Illinois,Evanston,1
+2026-08,Illinois,Evergreen Park,1
+2026-08,Illinois,Franklin Park,2
+2026-08,Illinois,Glen Ellyn,1
+2026-08,Illinois,Godfrey,1
+2026-08,Illinois,Granite City,1
+2026-08,Illinois,Grayslake,1
+2026-08,Illinois,Gurnee,1
+2026-08,Illinois,Highland Park,2
+2026-08,Illinois,Homer Glen,1
+2026-08,Illinois,Huntley,1
+2026-08,Illinois,Joliet,5
+2026-08,Illinois,Kewanee,1
+2026-08,Illinois,La Grange,1
+2026-08,Illinois,Lemont,1
+2026-08,Illinois,Lombard,10
+2026-08,Illinois,Morton Grove,7
+2026-08,Illinois,Naperville,3
+2026-08,Illinois,Normal,2
+2026-08,Illinois,Norridge,3
+2026-08,Illinois,Northbrook,2
+2026-08,Illinois,Oak Brook,1
+2026-08,Illinois,Oak Lawn,3
+2026-08,Illinois,Orland Park,1
+2026-08,Illinois,Palatine,1
+2026-08,Illinois,Park Ridge,3
+2026-08,Illinois,Plainfield,1
+2026-08,Illinois,Quincy,12
+2026-08,Illinois,Round Lake Beach,1
+2026-08,Illinois,Salem,1
+2026-08,Illinois,Schaumburg,3
+2026-08,Illinois,Skokie,2
+2026-08,Illinois,Springfield,5
+2026-08,Illinois,Streamwood,1
+2026-08,Illinois,Unknown,14
+2026-08,Illinois,Warrenville,2
+2026-08,Illinois,Washington,1
+2026-08,Illinois,Waukegan,2
+2026-08,Illinois,Wheaton,2
+2026-08,Illinois,Wheeling,1
+2026-08,Illinois,Zion,3
+2026-08,Indiana,Anderson,1
+2026-08,Indiana,Angola,1
+2026-08,Indiana,Bloomington,2
+2026-08,Indiana,Carmel,1
+2026-08,Indiana,Clayton,1
+2026-08,Indiana,Columbia City,2
+2026-08,Indiana,Corydon,1
+2026-08,Indiana,Elkhart,2
+2026-08,Indiana,Fishers,2
+2026-08,Indiana,Fort Wayne,7
+2026-08,Indiana,Gary,2
+2026-08,Indiana,Hammond,1
+2026-08,Indiana,Indianapolis,2
+2026-08,Indiana,Indpls,38
+2026-08,Indiana,Lafayette,1
+2026-08,Indiana,Marion,1
+2026-08,Indiana,Mooresville,1
+2026-08,Indiana,Rensselaer,1
+2026-08,Indiana,Salem,2
+2026-08,Indiana,South Bend,2
+2026-08,Indiana,Terre Haute,1
+2026-08,Indiana,Unknown,5
+2026-08,Indiana,Valparaiso,1
+2026-08,Indiana,Van Buren,1
+2026-08,Iowa,Clear Lake,1
+2026-08,Iowa,Des Moines,20
+2026-08,Iowa,Iowa City,1
+2026-08,Iowa,Johnston,1
+2026-08,Iowa,Maquoketa,1
+2026-08,Iowa,Sioux City,2
+2026-08,Iowa,Waukee,1
+2026-08,Iowa,West Des Moines,4
+2026-08,Kansas,Atwood,1
+2026-08,Kansas,Emporia,2
+2026-08,Kansas,Kansas City,7
+2026-08,Kansas,Lawrence,5
+2026-08,Kansas,Olathe,1
+2026-08,Kansas,Shawnee,1
+2026-08,Kansas,Spring Hill,2
+2026-08,Kansas,Topeka,2
+2026-08,Kansas,Wichita,6
+2026-08,Kansas,Winfield,1
+2026-08,Kentucky,Burlington,1
+2026-08,Kentucky,Danville,1
+2026-08,Kentucky,Florence,2
+2026-08,Kentucky,Fort Campbell North,1
+2026-08,Kentucky,Hazard,1
+2026-08,Kentucky,La Grange,1
+2026-08,Kentucky,Lexington,6
+2026-08,Kentucky,Louisville,24
+2026-08,Kentucky,Mayfield,1
+2026-08,Kentucky,Nicholasville,1
+2026-08,Kentucky,Radcliff,1
+2026-08,Kentucky,Somerset,1
+2026-08,Kentucky,Unknown,4
+2026-08,Kentucky,Waynesburg,1
+2026-08,Louisiana,Alexandria,1
+2026-08,Louisiana,Baton Rouge,8
+2026-08,Louisiana,Greenwell Springs,1
+2026-08,Louisiana,Lafayette,6
+2026-08,Louisiana,Lake Charles,1
+2026-08,Louisiana,Mandeville,1
+2026-08,Louisiana,Metairie,6
+2026-08,Louisiana,New Iberia,1
+2026-08,Louisiana,New Orleans,19
+2026-08,Louisiana,Ruston,1
+2026-08,Louisiana,Shreveport,1
+2026-08,Louisiana,Unknown,4
+2026-08,Maine,Augusta,1
+2026-08,Maine,Bangor,1
+2026-08,Maine,Caribou,2
+2026-08,Maine,Cumberland Center,2
+2026-08,Maine,Ellsworth,1
+2026-08,Maine,Falmouth,1
+2026-08,Maine,Kennebunkport,1
+2026-08,Maine,Milbridge,1
+2026-08,Maine,Portland,2
+2026-08,Maine,Raymond,1
+2026-08,Maine,Rockland,2
+2026-08,Maine,Scarborough,2
+2026-08,Maine,Standish,1
+2026-08,Maine,Warren,1
+2026-08,Maine,Waterville,3
+2026-08,Maine,Westbrook,6
+2026-08,Maryland,Abingdon,1
+2026-08,Maryland,Annapolis,1
+2026-08,Maryland,Baltimore,27
+2026-08,Maryland,Beltsville,1
+2026-08,Maryland,Bethesda,2
+2026-08,Maryland,Bowie,1
+2026-08,Maryland,Clinton,1
+2026-08,Maryland,College Park,1
+2026-08,Maryland,Columbia,2
+2026-08,Maryland,Crofton,3
+2026-08,Maryland,Damascus,1
+2026-08,Maryland,District Heights,3
+2026-08,Maryland,Easton,1
+2026-08,Maryland,Edgewood,1
+2026-08,Maryland,Ellicott City,9
+2026-08,Maryland,Essex,1
+2026-08,Maryland,Frederick,3
+2026-08,Maryland,Gaithersburg,1
+2026-08,Maryland,Germantown,1
+2026-08,Maryland,Glen Burnie,1
+2026-08,Maryland,Greenbelt,2
+2026-08,Maryland,Hagerstown,1
+2026-08,Maryland,Hyattsville,5
+2026-08,Maryland,Lanham,2
+2026-08,Maryland,Laurel,4
+2026-08,Maryland,Lexington Park,1
+2026-08,Maryland,New Market,1
+2026-08,Maryland,Nottingham,1
+2026-08,Maryland,Odenton,1
+2026-08,Maryland,Owings Mills,4
+2026-08,Maryland,Oxon Hill,3
+2026-08,Maryland,Parkton,1
+2026-08,Maryland,Parkville,1
+2026-08,Maryland,Pasadena,1
+2026-08,Maryland,Pikesville,1
+2026-08,Maryland,Potomac,2
+2026-08,Maryland,Princess Anne,1
+2026-08,Maryland,Randallstown,3
+2026-08,Maryland,Rockville,2
+2026-08,Maryland,Severn,1
+2026-08,Maryland,Silver Spring,27
+2026-08,Maryland,Sunderland,1
+2026-08,Maryland,Upper Marlboro,1
+2026-08,Maryland,Waldorf,6
+2026-08,Maryland,Windsor Mill,2
+2026-08,Massachusetts,Agawam,1
+2026-08,Massachusetts,Allston,1
+2026-08,Massachusetts,Amesbury,2
+2026-08,Massachusetts,Amherst,2
+2026-08,Massachusetts,Arlington,1
+2026-08,Massachusetts,Athol,1
+2026-08,Massachusetts,Avon,1
+2026-08,Massachusetts,Boston,97
+2026-08,Massachusetts,Brighton,2
+2026-08,Massachusetts,Brookline,2
+2026-08,Massachusetts,Burlington,3
+2026-08,Massachusetts,Cambridge,4
+2026-08,Massachusetts,Charlestown,1
+2026-08,Massachusetts,Chestnut Hill,2
+2026-08,Massachusetts,Chicopee,9
+2026-08,Massachusetts,Dorchester,1
+2026-08,Massachusetts,East Longmeadow,1
+2026-08,Massachusetts,Everett,2
+2026-08,Massachusetts,Fall River,1
+2026-08,Massachusetts,Gloucester,1
+2026-08,Massachusetts,Holyoke,1
+2026-08,Massachusetts,Ipswich,4
+2026-08,Massachusetts,Jamaica Plain,2
+2026-08,Massachusetts,Lowell,4
+2026-08,Massachusetts,Ludlow,1
+2026-08,Massachusetts,Malden,4
+2026-08,Massachusetts,Marblehead,1
+2026-08,Massachusetts,Mattapan,1
+2026-08,Massachusetts,Medford,1
+2026-08,Massachusetts,Medway,1
+2026-08,Massachusetts,Melrose,1
+2026-08,Massachusetts,Methuen,1
+2026-08,Massachusetts,Milton,1
+2026-08,Massachusetts,Natick,1
+2026-08,Massachusetts,Needham,7
+2026-08,Massachusetts,New Bedford,3
+2026-08,Massachusetts,Newton,3
+2026-08,Massachusetts,Norton,1
+2026-08,Massachusetts,Norwell,1
+2026-08,Massachusetts,Norwood,2
+2026-08,Massachusetts,Onset,1
+2026-08,Massachusetts,Pembroke,1
+2026-08,Massachusetts,Randolph,3
+2026-08,Massachusetts,Revere,1
+2026-08,Massachusetts,Roslindale,1
+2026-08,Massachusetts,Saugus,1
+2026-08,Massachusetts,Somerville,12
+2026-08,Massachusetts,Springfield,2
+2026-08,Massachusetts,Stoneham,1
+2026-08,Massachusetts,Unknown,4
+2026-08,Massachusetts,Walpole,1
+2026-08,Massachusetts,Waltham,10
+2026-08,Massachusetts,Watertown,1
+2026-08,Massachusetts,Webster,1
+2026-08,Massachusetts,West Newton,2
+2026-08,Massachusetts,Wilmington,3
+2026-08,Massachusetts,Woburn,3
+2026-08,Massachusetts,Worcester,3
+2026-08,Michigan,Allendale,1
+2026-08,Michigan,Ann Arbor,8
+2026-08,Michigan,Auburn Hills,1
+2026-08,Michigan,Battle Creek,1
+2026-08,Michigan,Bloomfield Hills,1
+2026-08,Michigan,Brighton,1
+2026-08,Michigan,Cadillac,1
+2026-08,Michigan,Canton,1
+2026-08,Michigan,Coldwater,1
+2026-08,Michigan,Dearborn,1
+2026-08,Michigan,Dearborn Heights,1
+2026-08,Michigan,Detroit,26
+2026-08,Michigan,Fenton,1
+2026-08,Michigan,Flushing,1
+2026-08,Michigan,Franklin,3
+2026-08,Michigan,Grand Rapids,10
+2026-08,Michigan,Hale,1
+2026-08,Michigan,Holland,1
+2026-08,Michigan,Howell,2
+2026-08,Michigan,Inkster,2
+2026-08,Michigan,Kalamazoo,2
+2026-08,Michigan,Lansing,1
+2026-08,Michigan,Lincoln Park,1
+2026-08,Michigan,Livonia,2
+2026-08,Michigan,Manistee,1
+2026-08,Michigan,McBain,1
+2026-08,Michigan,Mount Pleasant,2
+2026-08,Michigan,Muskegon,1
+2026-08,Michigan,Novi,1
+2026-08,Michigan,Oak Park,1
+2026-08,Michigan,Pontiac,2
+2026-08,Michigan,Redford,3
+2026-08,Michigan,Rochester,1
+2026-08,Michigan,Roseville,1
+2026-08,Michigan,Royal Oak,1
+2026-08,Michigan,Saginaw,2
+2026-08,Michigan,Sault Ste. Marie,2
+2026-08,Michigan,Stevensville,1
+2026-08,Michigan,Sturgis,1
+2026-08,Michigan,Trenton,2
+2026-08,Michigan,Troy,1
+2026-08,Michigan,Unknown,1
+2026-08,Michigan,Warren,2
+2026-08,Michigan,Waterford,1
+2026-08,Michigan,West Branch,1
+2026-08,Michigan,Westland,1
+2026-08,Michigan,Ypsilanti,6
+2026-08,Minnesota,Eden Prairie,1
+2026-08,Minnesota,Elk River,1
+2026-08,Minnesota,Mankato,3
+2026-08,Minnesota,Minneapolis,53
+2026-08,Minnesota,Rochester,4
+2026-08,Minnesota,Saint Joseph,1
+2026-08,Minnesota,Saint Paul,15
+2026-08,Minnesota,Shakopee,3
+2026-08,Minnesota,Unknown,1
+2026-08,Mississippi,Bay Saint Louis,1
+2026-08,Mississippi,Biloxi,1
+2026-08,Mississippi,Corinth,1
+2026-08,Mississippi,De Kalb,1
+2026-08,Mississippi,Hattiesburg,1
+2026-08,Mississippi,Jackson,3
+2026-08,Mississippi,Moss Point,1
+2026-08,Mississippi,Natchez,1
+2026-08,Mississippi,Olive Branch,2
+2026-08,Mississippi,Oxford,2
+2026-08,Mississippi,Senatobia,1
+2026-08,Mississippi,Tupelo,3
+2026-08,Mississippi,Unknown,3
+2026-08,Mississippi,Walnut,1
+2026-08,Missouri,Blue Springs,3
+2026-08,Missouri,Chesterfield,1
+2026-08,Missouri,Columbia,1
+2026-08,Missouri,Creve Coeur,1
+2026-08,Missouri,Fulton,1
+2026-08,Missouri,Hannibal,1
+2026-08,Missouri,Independence,5
+2026-08,Missouri,Kansas City,18
+2026-08,Missouri,Kirkwood,1
+2026-08,Missouri,Lee's Summit,4
+2026-08,Missouri,O'Fallon,1
+2026-08,Missouri,Springfield,2
+2026-08,Missouri,Unknown,5
+2026-08,Montana,Bozeman,3
+2026-08,Montana,Columbia Falls,1
+2026-08,Montana,Dillon,1
+2026-08,Montana,Kalispell,5
+2026-08,Montana,Livingston,3
+2026-08,Nebraska,Aurora,1
+2026-08,Nebraska,Bennington,1
+2026-08,Nebraska,Columbus,1
+2026-08,Nebraska,Grand Island,1
+2026-08,Nebraska,La Vista,1
+2026-08,Nebraska,Lincoln,6
+2026-08,Nebraska,Omaha,8
+2026-08,Nebraska,Unknown,2
+2026-08,Nevada,Henderson,4
+2026-08,Nevada,Las Vegas,43
+2026-08,Nevada,North Las Vegas,1
+2026-08,Nevada,Reno,2
+2026-08,Nevada,Sparks,2
+2026-08,New Hampshire,Concord,2
+2026-08,New Hampshire,Conway,1
+2026-08,New Hampshire,Enfield,2
+2026-08,New Hampshire,Hampton,1
+2026-08,New Hampshire,Manchester,6
+2026-08,New Hampshire,Merrimack,1
+2026-08,New Hampshire,Unknown,4
+2026-08,New Hampshire,Windham,2
+2026-08,New Jersey,Basking Ridge,1
+2026-08,New Jersey,Bayonne,4
+2026-08,New Jersey,Bayville,1
+2026-08,New Jersey,Belleville,4
+2026-08,New Jersey,Bergenfield,3
+2026-08,New Jersey,Bernardsville,1
+2026-08,New Jersey,Beverly,1
+2026-08,New Jersey,Bloomfield,1
+2026-08,New Jersey,Boonton,1
+2026-08,New Jersey,Bound Brook,1
+2026-08,New Jersey,Bridgewater,4
+2026-08,New Jersey,Burlington,1
+2026-08,New Jersey,Caldwell,1
+2026-08,New Jersey,Camden,2
+2026-08,New Jersey,Cedar Knolls,7
+2026-08,New Jersey,Chatham,1
+2026-08,New Jersey,Clarksboro,1
+2026-08,New Jersey,Clementon,1
+2026-08,New Jersey,Clifton,12
+2026-08,New Jersey,Closter,4
+2026-08,New Jersey,Dayton,2
+2026-08,New Jersey,East Orange,2
+2026-08,New Jersey,Edison,2
+2026-08,New Jersey,Elizabeth,3
+2026-08,New Jersey,Englewood,1
+2026-08,New Jersey,Ewing,1
+2026-08,New Jersey,Fair Lawn,5
+2026-08,New Jersey,Fort Lee,1
+2026-08,New Jersey,Freehold,2
+2026-08,New Jersey,Garfield,1
+2026-08,New Jersey,Hackensack,1
+2026-08,New Jersey,Harrison,5
+2026-08,New Jersey,Hazlet,1
+2026-08,New Jersey,Hoboken,9
+2026-08,New Jersey,Hoffman,5
+2026-08,New Jersey,Jersey City,42
+2026-08,New Jersey,Kearny,1
+2026-08,New Jersey,Little Falls,2
+2026-08,New Jersey,Long Branch,1
+2026-08,New Jersey,Lyndhurst,1
+2026-08,New Jersey,Madison,1
+2026-08,New Jersey,Mahwah,2
+2026-08,New Jersey,Manasquan,1
+2026-08,New Jersey,Maplewood,2
+2026-08,New Jersey,Montclair,1
+2026-08,New Jersey,Morristown,3
+2026-08,New Jersey,Mount Laurel,6
+2026-08,New Jersey,Neptune City,1
+2026-08,New Jersey,New Brunswick,4
+2026-08,New Jersey,Newark,28
+2026-08,New Jersey,North Brunswick,1
+2026-08,New Jersey,Northvale,1
+2026-08,New Jersey,Nutley,1
+2026-08,New Jersey,Park Ridge,1
+2026-08,New Jersey,Parsippany,2
+2026-08,New Jersey,Paterson,1
+2026-08,New Jersey,Pennsauken,3
+2026-08,New Jersey,Perth Amboy,2
+2026-08,New Jersey,Plainfield,4
+2026-08,New Jersey,Pompton Lakes,2
+2026-08,New Jersey,Princeton,2
+2026-08,New Jersey,Rahway,2
+2026-08,New Jersey,Randolph Township,2
+2026-08,New Jersey,Red Bank,1
+2026-08,New Jersey,Rockaway,1
+2026-08,New Jersey,Sicklerville,2
+2026-08,New Jersey,Somerset,3
+2026-08,New Jersey,South Orange,1
+2026-08,New Jersey,South Plainfield,1
+2026-08,New Jersey,Sparta,1
+2026-08,New Jersey,Thorofare,1
+2026-08,New Jersey,Toms River,1
+2026-08,New Jersey,Trenton,2
+2026-08,New Jersey,Union,2
+2026-08,New Jersey,Union City,8
+2026-08,New Jersey,Unknown,4
+2026-08,New Jersey,Vineland,1
+2026-08,New Jersey,Wayne,2
+2026-08,New Jersey,West New York,1
+2026-08,New Jersey,West Orange,1
+2026-08,New Jersey,Westfield,1
+2026-08,New Jersey,Whiting,1
+2026-08,New Jersey,Williamstown,1
+2026-08,New Mexico,Albuquerque,4
+2026-08,New Mexico,Carlsbad,1
+2026-08,New Mexico,Clovis,1
+2026-08,New Mexico,Farmington,3
+2026-08,New Mexico,Hobbs,1
+2026-08,New Mexico,Las Cruces,4
+2026-08,New Mexico,Lovington,1
+2026-08,New Mexico,Rio Rancho,1
+2026-08,New Mexico,Santa Fe,6
+2026-08,New York,Albany,4
+2026-08,New York,Amityville,1
+2026-08,New York,Babylon,4
+2026-08,New York,Ballston Spa,1
+2026-08,New York,Binghamton,1
+2026-08,New York,Brentwood,6
+2026-08,New York,Bronxville,1
+2026-08,New York,Brooklyn,385
+2026-08,New York,Buffalo,58
+2026-08,New York,Catskill,1
+2026-08,New York,Chatham,1
+2026-08,New York,Clayton,1
+2026-08,New York,Cortlandt Manor,1
+2026-08,New York,Deer Park,1
+2026-08,New York,East Hampton,1
+2026-08,New York,East Northport,1
+2026-08,New York,East Setauket,1
+2026-08,New York,East Syracuse,2
+2026-08,New York,Elmira,1
+2026-08,New York,Elmont,2
+2026-08,New York,Floral Park,1
+2026-08,New York,Freeport,1
+2026-08,New York,Ghent,1
+2026-08,New York,Grand Island,2
+2026-08,New York,Great Neck,1
+2026-08,New York,Hempstead,3
+2026-08,New York,Hicksville,1
+2026-08,New York,Huntington,1
+2026-08,New York,Islip,1
+2026-08,New York,Ithaca,1
+2026-08,New York,Kingston,1
+2026-08,New York,Liverpool,1
+2026-08,New York,Lockport,2
+2026-08,New York,Lynbrook,2
+2026-08,New York,Malone,2
+2026-08,New York,Marlboro,1
+2026-08,New York,Massapequa,2
+2026-08,New York,Mastic,1
+2026-08,New York,Mastic Beach,1
+2026-08,New York,Mattituck,1
+2026-08,New York,Middletown,2
+2026-08,New York,Mineola,1
+2026-08,New York,New Hartford,1
+2026-08,New York,New Hyde Park,1
+2026-08,New York,New Paltz,1
+2026-08,New York,New York,736
+2026-08,New York,Newark,24
+2026-08,New York,North Tonawanda,3
+2026-08,New York,Oceanside,1
+2026-08,New York,Oneonta,1
+2026-08,New York,Orchard Park,2
+2026-08,New York,Oyster Bay,5
+2026-08,New York,Peekskill,1
+2026-08,New York,Poughkeepsie,1
+2026-08,New York,Queens,105
+2026-08,New York,Rexford,2
+2026-08,New York,Rochester,10
+2026-08,New York,Rome,3
+2026-08,New York,Saint Johnsville,1
+2026-08,New York,Saratoga Springs,1
+2026-08,New York,Sayville,1
+2026-08,New York,Scarsdale,2
+2026-08,New York,Schenectady,1
+2026-08,New York,Southampton,1
+2026-08,New York,Staten Island,6
+2026-08,New York,Syracuse,8
+2026-08,New York,The Bronx,47
+2026-08,New York,Tonawanda,2
+2026-08,New York,Troy,2
+2026-08,New York,Unknown,11
+2026-08,New York,Utica,1
+2026-08,New York,Watertown,2
+2026-08,New York,West Babylon,1
+2026-08,New York,Yonkers,6
+2026-08,North Carolina,Angier,1
+2026-08,North Carolina,Apex,7
+2026-08,North Carolina,Asheboro,1
+2026-08,North Carolina,Asheville,5
+2026-08,North Carolina,Bolivia,1
+2026-08,North Carolina,Brevard,1
+2026-08,North Carolina,Burlington,1
+2026-08,North Carolina,Calabash,1
+2026-08,North Carolina,Candler,5
+2026-08,North Carolina,Cary,5
+2026-08,North Carolina,Charlotte,67
+2026-08,North Carolina,Clayton,1
+2026-08,North Carolina,Concord,2
+2026-08,North Carolina,Dudley,1
+2026-08,North Carolina,Durham,17
+2026-08,North Carolina,Fayetteville,2
+2026-08,North Carolina,Fuquay-Varina,1
+2026-08,North Carolina,Greensboro,4
+2026-08,North Carolina,Greenville,1
+2026-08,North Carolina,Hertford,2
+2026-08,North Carolina,Hickory,1
+2026-08,North Carolina,High Point,1
+2026-08,North Carolina,Kernersville,1
+2026-08,North Carolina,Kill Devil Hills,2
+2026-08,North Carolina,Knightdale,1
+2026-08,North Carolina,Laurinburg,1
+2026-08,North Carolina,Lincolnton,1
+2026-08,North Carolina,Littleton,1
+2026-08,North Carolina,Lumberton,1
+2026-08,North Carolina,Morganton,29
+2026-08,North Carolina,Mount Airy,2
+2026-08,North Carolina,Mount Olive,1
+2026-08,North Carolina,Raeford,1
+2026-08,North Carolina,Raleigh,27
+2026-08,North Carolina,Reidsville,1
+2026-08,North Carolina,Richlands,1
+2026-08,North Carolina,Roxboro,1
+2026-08,North Carolina,Siler City,1
+2026-08,North Carolina,Unknown,4
+2026-08,North Carolina,Waxhaw,1
+2026-08,North Carolina,Wendell,2
+2026-08,North Carolina,Willow Springs,1
+2026-08,North Carolina,Wilmington,3
+2026-08,North Carolina,Wilson,2
+2026-08,North Carolina,Winston-Salem,2
+2026-08,North Carolina,Zebulon,1
+2026-08,Ohio,Akron,11
+2026-08,Ohio,Amelia,1
+2026-08,Ohio,Ashtabula,1
+2026-08,Ohio,Athens,1
+2026-08,Ohio,Bath,1
+2026-08,Ohio,Beachwood,1
+2026-08,Ohio,Blacklick,1
+2026-08,Ohio,Brunswick,2
+2026-08,Ohio,Canton,4
+2026-08,Ohio,Chagrin Falls,1
+2026-08,Ohio,Cincinnati,17
+2026-08,Ohio,Cleveland,26
+2026-08,Ohio,Cleveland Heights,2
+2026-08,Ohio,Dayton,16
+2026-08,Ohio,Fairfield,1
+2026-08,Ohio,Hamilton,1
+2026-08,Ohio,Hilliard,1
+2026-08,Ohio,Hudson,1
+2026-08,Ohio,Lakewood,2
+2026-08,Ohio,Lebanon,3
+2026-08,Ohio,Lima,1
+2026-08,Ohio,Lorain,1
+2026-08,Ohio,Macedonia,1
+2026-08,Ohio,Marion,1
+2026-08,Ohio,Middletown,1
+2026-08,Ohio,Minster,1
+2026-08,Ohio,Newark,1
+2026-08,Ohio,North Ridgeville,1
+2026-08,Ohio,Oxford,1
+2026-08,Ohio,Painesville,3
+2026-08,Ohio,Reynoldsburg,2
+2026-08,Ohio,Springfield,2
+2026-08,Ohio,Steubenville,1
+2026-08,Ohio,Stow,2
+2026-08,Ohio,Streetsboro,2
+2026-08,Ohio,Toledo,2
+2026-08,Ohio,Troy,1
+2026-08,Ohio,Unknown,2
+2026-08,Ohio,Vandalia,2
+2026-08,Ohio,Westerville,3
+2026-08,Ohio,Youngstown,3
+2026-08,Oklahoma,Bartlesville,1
+2026-08,Oklahoma,Edmond,1
+2026-08,Oklahoma,Grove,1
+2026-08,Oklahoma,Guthrie,1
+2026-08,Oklahoma,Jay,1
+2026-08,Oklahoma,Norman,5
+2026-08,Oklahoma,Oklahoma City,17
+2026-08,Oklahoma,Sapulpa,1
+2026-08,Oklahoma,Tulsa,34
+2026-08,Oklahoma,Unknown,2
+2026-08,Oklahoma,Wagoner,1
+2026-08,Oklahoma,Weatherford,1
+2026-08,Oregon,Astoria,1
+2026-08,Oregon,Beaverton,8
+2026-08,Oregon,Bend,4
+2026-08,Oregon,Brookings,1
+2026-08,Oregon,Clackamas,1
+2026-08,Oregon,Coos Bay,2
+2026-08,Oregon,Corvallis,1
+2026-08,Oregon,Eugene,2
+2026-08,Oregon,Gresham,5
+2026-08,Oregon,Halfway,1
+2026-08,Oregon,Heppner,1
+2026-08,Oregon,Hood River,1
+2026-08,Oregon,La Grande,2
+2026-08,Oregon,Lake Oswego,1
+2026-08,Oregon,Molalla,1
+2026-08,Oregon,Newport,2
+2026-08,Oregon,Oregon City,3
+2026-08,Oregon,Pleasant Hill,1
+2026-08,Oregon,Portland,115
+2026-08,Oregon,Roseburg,3
+2026-08,Oregon,Troutdale,6
+2026-08,Oregon,Tualatin,1
+2026-08,Oregon,Unknown,4
+2026-08,Oregon,West Linn,2
+2026-08,Pennsylvania,Allentown,1
+2026-08,Pennsylvania,Allison Park,1
+2026-08,Pennsylvania,Bangor,1
+2026-08,Pennsylvania,Bensalem,3
+2026-08,Pennsylvania,Bethel Park,2
+2026-08,Pennsylvania,Bethlehem,3
+2026-08,Pennsylvania,Blue Bell,1
+2026-08,Pennsylvania,Boyertown,1
+2026-08,Pennsylvania,Branchdale,1
+2026-08,Pennsylvania,Brownsville,1
+2026-08,Pennsylvania,Camp Hill,3
+2026-08,Pennsylvania,Carnegie,1
+2026-08,Pennsylvania,Chambersburg,2
+2026-08,Pennsylvania,Chester,2
+2026-08,Pennsylvania,Clarks Summit,1
+2026-08,Pennsylvania,Coatesville,1
+2026-08,Pennsylvania,Columbia,2
+2026-08,Pennsylvania,Coraopolis,1
+2026-08,Pennsylvania,Dallas,1
+2026-08,Pennsylvania,Dallastown,1
+2026-08,Pennsylvania,Downingtown,1
+2026-08,Pennsylvania,Doylestown,1
+2026-08,Pennsylvania,Easton,2
+2026-08,Pennsylvania,Ephrata,2
+2026-08,Pennsylvania,Erie,1
+2026-08,Pennsylvania,Exton,1
+2026-08,Pennsylvania,Glenolden,1
+2026-08,Pennsylvania,Greensburg,2
+2026-08,Pennsylvania,Harrisburg,7
+2026-08,Pennsylvania,Hatboro,1
+2026-08,Pennsylvania,Hatfield,3
+2026-08,Pennsylvania,Indiana,1
+2026-08,Pennsylvania,Irwin,1
+2026-08,Pennsylvania,Johnstown,1
+2026-08,Pennsylvania,Kennett Square,2
+2026-08,Pennsylvania,King of Prussia,2
+2026-08,Pennsylvania,Lake Ariel,1
+2026-08,Pennsylvania,Lancaster,1
+2026-08,Pennsylvania,Lansdale,3
+2026-08,Pennsylvania,Lansdowne,3
+2026-08,Pennsylvania,Malvern,2
+2026-08,Pennsylvania,Mechanicsburg,4
+2026-08,Pennsylvania,Media,3
+2026-08,Pennsylvania,Middleburg,1
+2026-08,Pennsylvania,Milford,1
+2026-08,Pennsylvania,Narberth,2
+2026-08,Pennsylvania,New Hope,2
+2026-08,Pennsylvania,Newtown Square,1
+2026-08,Pennsylvania,Norristown,4
+2026-08,Pennsylvania,Northampton,1
+2026-08,Pennsylvania,Palmerton,1
+2026-08,Pennsylvania,Philadelphia,76
+2026-08,Pennsylvania,Phoenixville,1
+2026-08,Pennsylvania,Pittsburgh,33
+2026-08,Pennsylvania,Pottstown,1
+2026-08,Pennsylvania,Pottsville,1
+2026-08,Pennsylvania,Reading,2
+2026-08,Pennsylvania,Slippery Rock,1
+2026-08,Pennsylvania,Southampton,2
+2026-08,Pennsylvania,Springfield,1
+2026-08,Pennsylvania,Tobyhanna,1
+2026-08,Pennsylvania,West Chester,3
+2026-08,Pennsylvania,West Mifflin,1
+2026-08,Pennsylvania,Wilkes-Barre,1
+2026-08,Pennsylvania,Williamsport,1
+2026-08,Pennsylvania,York,4
+2026-08,Rhode Island,East Greenwich,1
+2026-08,Rhode Island,East Providence,1
+2026-08,Rhode Island,Pawtucket,6
+2026-08,Rhode Island,Providence,10
+2026-08,Rhode Island,Warwick,1
+2026-08,South Carolina,Anderson,1
+2026-08,South Carolina,Beaufort,1
+2026-08,South Carolina,Bluffton,4
+2026-08,South Carolina,Boiling Springs,2
+2026-08,South Carolina,Charleston,33
+2026-08,South Carolina,Columbia,7
+2026-08,South Carolina,Cottageville,1
+2026-08,South Carolina,Florence,1
+2026-08,South Carolina,Fort Mill,3
+2026-08,South Carolina,Greenville,18
+2026-08,South Carolina,Greer,1
+2026-08,South Carolina,Johnston,1
+2026-08,South Carolina,Lancaster,1
+2026-08,South Carolina,Laurens,1
+2026-08,South Carolina,Liberty,1
+2026-08,South Carolina,Little River,1
+2026-08,South Carolina,Mt. Pleasant,2
+2026-08,South Carolina,Myrtle Beach,1
+2026-08,South Carolina,Orangeburg,1
+2026-08,South Carolina,Rock Hill,2
+2026-08,South Carolina,Simpsonville,4
+2026-08,South Carolina,Summerville,3
+2026-08,South Carolina,Sumter,2
+2026-08,South Carolina,Unknown,3
+2026-08,South Dakota,Brookings,1
+2026-08,South Dakota,Pierre,3
+2026-08,South Dakota,Rapid City,4
+2026-08,South Dakota,Sioux Falls,3
+2026-08,Tennessee,Antioch,1
+2026-08,Tennessee,Bartlett,1
+2026-08,Tennessee,Chattanooga,1
+2026-08,Tennessee,Clarksville,2
+2026-08,Tennessee,Cordova,2
+2026-08,Tennessee,Dayton,1
+2026-08,Tennessee,Dyersburg,1
+2026-08,Tennessee,Germantown,2
+2026-08,Tennessee,Johnson City,4
+2026-08,Tennessee,Kingsport,2
+2026-08,Tennessee,Knoxville,6
+2026-08,Tennessee,Lebanon,3
+2026-08,Tennessee,Maryville,1
+2026-08,Tennessee,Memphis,15
+2026-08,Tennessee,Murfreesboro,4
+2026-08,Tennessee,Nashville,17
+2026-08,Tennessee,Shelbyville,1
+2026-08,Tennessee,Smyrna,1
+2026-08,Tennessee,Unknown,15
+2026-08,Tennessee,Whites Creek,1
+2026-08,Texas,Allen,4
+2026-08,Texas,Arlington,2
+2026-08,Texas,Athens,1
+2026-08,Texas,Aubrey,1
+2026-08,Texas,Austin,85
+2026-08,Texas,Baytown,1
+2026-08,Texas,Beaumont,2
+2026-08,Texas,Bellaire,2
+2026-08,Texas,Belton,1
+2026-08,Texas,Brenham,1
+2026-08,Texas,Bryan,1
+2026-08,Texas,Carrollton,4
+2026-08,Texas,Cedar Park,1
+2026-08,Texas,Clifton,1
+2026-08,Texas,College Station,2
+2026-08,Texas,Coppell,1
+2026-08,Texas,Corpus Christi,1
+2026-08,Texas,Crosby,3
+2026-08,Texas,Cypress,5
+2026-08,Texas,Dallas,301
+2026-08,Texas,Del Valle,5
+2026-08,Texas,Denton,4
+2026-08,Texas,Eagle Pass,1
+2026-08,Texas,Edinburg,10
+2026-08,Texas,El Paso,7
+2026-08,Texas,Elgin,2
+2026-08,Texas,Farmers Branch,1
+2026-08,Texas,Flower Mound,12
+2026-08,Texas,Fort Worth,327
+2026-08,Texas,Fredericksburg,2
+2026-08,Texas,Fulshear,1
+2026-08,Texas,Garland,9
+2026-08,Texas,Georgetown,2
+2026-08,Texas,Grand Prairie,3
+2026-08,Texas,Grapevine,1
+2026-08,Texas,Haslet,1
+2026-08,Texas,Houston,136
+2026-08,Texas,Iowa Colony,1
+2026-08,Texas,Irving,11
+2026-08,Texas,Katy,14
+2026-08,Texas,Killeen,1
+2026-08,Texas,La Grange,1
+2026-08,Texas,Lago Vista,1
+2026-08,Texas,Lancaster,1
+2026-08,Texas,Laredo,2
+2026-08,Texas,Lavon,1
+2026-08,Texas,League City,3
+2026-08,Texas,Lewisville,9
+2026-08,Texas,Liberty Hill,2
+2026-08,Texas,Lubbock,2
+2026-08,Texas,Manor,1
+2026-08,Texas,Mansfield,3
+2026-08,Texas,McAllen,1
+2026-08,Texas,Mesquite,1
+2026-08,Texas,Midland,6
+2026-08,Texas,Midlothian,1
+2026-08,Texas,Mission,2
+2026-08,Texas,Missouri City,3
+2026-08,Texas,Navasota,1
+2026-08,Texas,New Braunfels,3
+2026-08,Texas,Pasadena,1
+2026-08,Texas,Pearland,5
+2026-08,Texas,Pflugerville,1
+2026-08,Texas,Plainview,1
+2026-08,Texas,Plano,5
+2026-08,Texas,Prosper,6
+2026-08,Texas,Richardson,8
+2026-08,Texas,Richmond,5
+2026-08,Texas,Round Rock,2
+2026-08,Texas,Rowlett,1
+2026-08,Texas,San Antonio,59
+2026-08,Texas,San Marcos,1
+2026-08,Texas,Seguin,1
+2026-08,Texas,Slaton,1
+2026-08,Texas,Southlake,5
+2026-08,Texas,Spring,4
+2026-08,Texas,Sugar Land,2
+2026-08,Texas,Temple,1
+2026-08,Texas,The Colony,5
+2026-08,Texas,Tomball,1
+2026-08,Texas,Tyler,2
+2026-08,Texas,Unknown,14
+2026-08,Texas,Vernon,1
+2026-08,Texas,Waco,1
+2026-08,Texas,Waxahachie,2
+2026-08,Texas,Weatherford,6
+2026-08,Texas,Weslaco,1
+2026-08,Texas,Wichita Falls,1
+2026-08,Unknown,Unknown,961
+2026-08,Utah,American Fork,1
+2026-08,Utah,Bluffdale,2
+2026-08,Utah,Cedar City,2
+2026-08,Utah,Draper,1
+2026-08,Utah,Ephraim,2
+2026-08,Utah,Grantsville,1
+2026-08,Utah,Gunnison,1
+2026-08,Utah,Herriman,2
+2026-08,Utah,Lehi,3
+2026-08,Utah,Ogden,2
+2026-08,Utah,Orem,12
+2026-08,Utah,Provo,5
+2026-08,Utah,Salt Lake City,46
+2026-08,Utah,Sandy,1
+2026-08,Utah,Saratoga Springs,3
+2026-08,Utah,South Jordan,2
+2026-08,Utah,Spanish Fork,1
+2026-08,Utah,St. George,1
+2026-08,Utah,Unknown,4
+2026-08,Utah,West Jordan,2
+2026-08,Vermont,Bennington,1
+2026-08,Vermont,Bristol,1
+2026-08,Vermont,Burlington,1
+2026-08,Vermont,Essex Junction,1
+2026-08,Vermont,Jericho,1
+2026-08,Vermont,Milton,1
+2026-08,Vermont,Windsor,1
+2026-08,Virginia,Abingdon,1
+2026-08,Virginia,Alexandria,26
+2026-08,Virginia,Annandale,2
+2026-08,Virginia,Arlington,14
+2026-08,Virginia,Bristow,1
+2026-08,Virginia,Centreville,2
+2026-08,Virginia,Charlottesville,3
+2026-08,Virginia,Chesapeake,3
+2026-08,Virginia,Colonial Heights,1
+2026-08,Virginia,Danville,2
+2026-08,Virginia,Falls Church,2
+2026-08,Virginia,Farmville,1
+2026-08,Virginia,Fredericksburg,4
+2026-08,Virginia,Hampton,3
+2026-08,Virginia,Henrico,2
+2026-08,Virginia,Leesburg,1
+2026-08,Virginia,Lynchburg,4
+2026-08,Virginia,Manassas,5
+2026-08,Virginia,Martinsville,1
+2026-08,Virginia,McLean,2
+2026-08,Virginia,Midlothian,1
+2026-08,Virginia,Newport News,3
+2026-08,Virginia,Norfolk,2
+2026-08,Virginia,Parksley,1
+2026-08,Virginia,Petersburg,1
+2026-08,Virginia,Portsmouth,1
+2026-08,Virginia,Powhatan,1
+2026-08,Virginia,Reston,4
+2026-08,Virginia,Richmond,25
+2026-08,Virginia,Roanoke,5
+2026-08,Virginia,Round Hill,1
+2026-08,Virginia,Stafford,1
+2026-08,Virginia,Staunton,2
+2026-08,Virginia,Unknown,2
+2026-08,Virginia,Vienna,1
+2026-08,Virginia,Virginia Beach,11
+2026-08,Virginia,Williamsburg,3
+2026-08,Virginia,Woodbridge,2
+2026-08,Washington,Auburn,3
+2026-08,Washington,Bainbridge Island,1
+2026-08,Washington,Bellevue,4
+2026-08,Washington,Bonney Lake,1
+2026-08,Washington,Bothell,7
+2026-08,Washington,Bremerton,1
+2026-08,Washington,Edmonds,1
+2026-08,Washington,Everett,4
+2026-08,Washington,Federal Way,4
+2026-08,Washington,Issaquah,2
+2026-08,Washington,Kenmore,1
+2026-08,Washington,Kent,9
+2026-08,Washington,Kirkland,5
+2026-08,Washington,Lacey,1
+2026-08,Washington,Lynnwood,2
+2026-08,Washington,Oak Harbor,3
+2026-08,Washington,Olympia,7
+2026-08,Washington,Omak,2
+2026-08,Washington,Pasco,2
+2026-08,Washington,Port Orchard,1
+2026-08,Washington,Puyallup,1
+2026-08,Washington,Redmond,3
+2026-08,Washington,Renton,9
+2026-08,Washington,Seattle,197
+2026-08,Washington,Sedro-Woolley,1
+2026-08,Washington,Shelton,1
+2026-08,Washington,Snohomish,2
+2026-08,Washington,Spokane,5
+2026-08,Washington,Springdale,1
+2026-08,Washington,Sumner,1
+2026-08,Washington,Sunnyside,1
+2026-08,Washington,Tacoma,22
+2026-08,Washington,Tieton,1
+2026-08,Washington,Tukwila,4
+2026-08,Washington,Unknown,40
+2026-08,Washington,Vancouver,3
+2026-08,Washington,Wenatchee,2
+2026-08,Washington,Westport,1
+2026-08,Washington,Woodinville,1
+2026-08,Washington,Yakima,2
+2026-08,West Virginia,Charleston,1
+2026-08,West Virginia,Hedgesville,1
+2026-08,West Virginia,Parkersburg,1
+2026-08,West Virginia,Summersville,2
+2026-08,Wisconsin,Amherst,1
+2026-08,Wisconsin,Appleton,1
+2026-08,Wisconsin,Dodgeville,3
+2026-08,Wisconsin,Fall Creek,1
+2026-08,Wisconsin,Hartland,4
+2026-08,Wisconsin,Holmen,1
+2026-08,Wisconsin,Hudson,1
+2026-08,Wisconsin,Lancaster,1
+2026-08,Wisconsin,Madison,5
+2026-08,Wisconsin,Milwaukee,24
+2026-08,Wisconsin,New Berlin,1
+2026-08,Wisconsin,Salem,1
+2026-08,Wisconsin,Sheboygan,1
+2026-08,Wisconsin,Sheboygan Falls,1
+2026-08,Wisconsin,Sparta,2
+2026-08,Wisconsin,Sturgeon Bay,1
+2026-08,Wisconsin,Sun Prairie,1
+2026-08,Wisconsin,Verona,2
+2026-08,Wisconsin,Waukesha,1
+2026-09,Alabama,Andalusia,1
+2026-09,Alabama,Anniston,2
+2026-09,Alabama,Birmingham,20
+2026-09,Alabama,Daleville,1
+2026-09,Alabama,Fayette,1
+2026-09,Alabama,Heflin,1
+2026-09,Alabama,Hoover,2
+2026-09,Alabama,Jacksonville,1
+2026-09,Alabama,Meridianville,1
+2026-09,Alabama,Mobile,7
+2026-09,Alabama,Montgomery,6
+2026-09,Alabama,Owens Cross Roads,1
+2026-09,Alabama,Pinson,1
+2026-09,Alabama,Talladega,1
+2026-09,Alabama,Unknown,14
+2026-09,Alaska,Anchorage,6
+2026-09,Alaska,Palmer,1
+2026-09,Alaska,Wasilla,1
+2026-09,Arizona,Chandler,5
+2026-09,Arizona,Flagstaff,1
+2026-09,Arizona,Gilbert,9
+2026-09,Arizona,Glendale,2
+2026-09,Arizona,Globe,2
+2026-09,Arizona,Goodyear,3
+2026-09,Arizona,Lake Havasu City,2
+2026-09,Arizona,Maricopa,1
+2026-09,Arizona,Mesa,4
+2026-09,Arizona,Peoria,1
+2026-09,Arizona,Phoenix,65
+2026-09,Arizona,Queen Creek,2
+2026-09,Arizona,Scottsdale,7
+2026-09,Arizona,Sells,1
+2026-09,Arizona,Surprise,2
+2026-09,Arizona,Tempe,5
+2026-09,Arizona,Tucson,10
+2026-09,Arizona,Unknown,24
+2026-09,Arizona,Yuma,1
+2026-09,Arkansas,Benton,1
+2026-09,Arkansas,Bentonville,3
+2026-09,Arkansas,Bryant,1
+2026-09,Arkansas,Conway,1
+2026-09,Arkansas,Farmington,1
+2026-09,Arkansas,Fort Smith,2
+2026-09,Arkansas,Heber Springs,1
+2026-09,Arkansas,Little Rock,1
+2026-09,Arkansas,Unknown,1
+2026-09,California,Alameda,8
+2026-09,California,Albany,1
+2026-09,California,Alhambra,3
+2026-09,California,Aliso Viejo,5
+2026-09,California,Anaheim,12
+2026-09,California,Anderson,1
+2026-09,California,Antelope,3
+2026-09,California,Antioch,3
+2026-09,California,Apple Valley,2
+2026-09,California,Aptos,2
+2026-09,California,Arcadia,1
+2026-09,California,Azusa,1
+2026-09,California,Bakersfield,6
+2026-09,California,Baldwin Park,12
+2026-09,California,Bell Gardens,1
+2026-09,California,Bellflower,1
+2026-09,California,Belmont,1
+2026-09,California,Berkeley,17
+2026-09,California,Beverly Hills,3
+2026-09,California,Bloomington,3
+2026-09,California,Bolinas,4
+2026-09,California,Brea,9
+2026-09,California,Buena Park,2
+2026-09,California,Burbank,4
+2026-09,California,Burlingame,6
+2026-09,California,Calabasas,1
+2026-09,California,Camarillo,3
+2026-09,California,Cameron Park,1
+2026-09,California,Canoga Park,2
+2026-09,California,Canyon Country,1
+2026-09,California,Carlsbad,7
+2026-09,California,Carmel,1
+2026-09,California,Carmichael,1
+2026-09,California,Carson,1
+2026-09,California,Cathedral City,5
+2026-09,California,Century City,4
+2026-09,California,Ceres,2
+2026-09,California,Chatsworth,2
+2026-09,California,Chino,2
+2026-09,California,Chino Hills,3
+2026-09,California,Chula Vista,10
+2026-09,California,Claremont,1
+2026-09,California,Coarsegold,1
+2026-09,California,Compton,5
+2026-09,California,Concord,3
+2026-09,California,Corona,4
+2026-09,California,Coronado,1
+2026-09,California,Costa Mesa,1
+2026-09,California,Culver City,6
+2026-09,California,Cupertino,4
+2026-09,California,Cypress,3
+2026-09,California,Daly City,18
+2026-09,California,Dana Point,2
+2026-09,California,Danville,1
+2026-09,California,Davis,1
+2026-09,California,Desert Hot Springs,2
+2026-09,California,Downey,2
+2026-09,California,Dublin,3
+2026-09,California,East Los Angeles,7
+2026-09,California,El Cajon,1
+2026-09,California,El Monte,2
+2026-09,California,El Segundo,5
+2026-09,California,Elk Grove,3
+2026-09,California,Encino,1
+2026-09,California,Fair Oaks,3
+2026-09,California,Fairfield,5
+2026-09,California,Folsom,6
+2026-09,California,Fontana,11
+2026-09,California,Foster City,1
+2026-09,California,Fowler,1
+2026-09,California,Fremont,16
+2026-09,California,Fresno,3
+2026-09,California,Fullerton,1
+2026-09,California,Garden Grove,4
+2026-09,California,Gardena,3
+2026-09,California,Glendale,17
+2026-09,California,Grand Terrace,1
+2026-09,California,Hacienda Heights,4
+2026-09,California,Half Moon Bay,1
+2026-09,California,Hanford,1
+2026-09,California,Hawthorne,4
+2026-09,California,Hayward,11
+2026-09,California,Hermosa Beach,1
+2026-09,California,Hesperia,1
+2026-09,California,Huntington Beach,13
+2026-09,California,Huntington Park,2
+2026-09,California,Imperial,1
+2026-09,California,Indio,1
+2026-09,California,Inglewood,26
+2026-09,California,Irvine,11
+2026-09,California,Jamul,1
+2026-09,California,La Habra,2
+2026-09,California,La Jolla,4
+2026-09,California,La Puente,2
+2026-09,California,Ladera Ranch,5
+2026-09,California,Laguna Niguel,2
+2026-09,California,Lake Forest,2
+2026-09,California,Lakewood,2
+2026-09,California,Lancaster,8
+2026-09,California,Loma Linda,1
+2026-09,California,Lompoc,1
+2026-09,California,Long Beach,23
+2026-09,California,Los Alamitos,1
+2026-09,California,Los Angeles,821
+2026-09,California,Los Gatos,1
+2026-09,California,Lynwood,2
+2026-09,California,Manhattan Beach,4
+2026-09,California,Manteca,1
+2026-09,California,Marina del Rey,3
+2026-09,California,Martinez,3
+2026-09,California,Menlo Park,2
+2026-09,California,Merced,2
+2026-09,California,Mill Valley,2
+2026-09,California,Millbrae,2
+2026-09,California,Milpitas,3
+2026-09,California,Mira Loma,2
+2026-09,California,Mission Hills,1
+2026-09,California,Mission Viejo,2
+2026-09,California,Modesto,1
+2026-09,California,Montclair,1
+2026-09,California,Montebello,1
+2026-09,California,Moorpark,1
+2026-09,California,Moraga,1
+2026-09,California,Moreno Valley,2
+2026-09,California,Morro Bay,1
+2026-09,California,Mountain View,7
+2026-09,California,Murrieta,2
+2026-09,California,Newport Beach,5
+2026-09,California,Norco,2
+2026-09,California,North Hills,3
+2026-09,California,North Hollywood,15
+2026-09,California,Northridge,3
+2026-09,California,Norwalk,1
+2026-09,California,Oakland,50
+2026-09,California,Ojai,1
+2026-09,California,Ontario,8
+2026-09,California,Orange,9
+2026-09,California,Oxnard,1
+2026-09,California,Pacifica,1
+2026-09,California,Pacoima,4
+2026-09,California,Palmdale,1
+2026-09,California,Palo Alto,13
+2026-09,California,Palos Verdes Estates,1
+2026-09,California,Panorama City,2
+2026-09,California,Paramount,3
+2026-09,California,Pasadena,15
+2026-09,California,Petaluma,2
+2026-09,California,Pittsburg,5
+2026-09,California,Placentia,1
+2026-09,California,Pleasant Hill,4
+2026-09,California,Pleasanton,30
+2026-09,California,Pomona,1
+2026-09,California,Porter Ranch,1
+2026-09,California,Poway,3
+2026-09,California,Quincy,1
+2026-09,California,Rancho Cucamonga,3
+2026-09,California,Rancho Mirage,2
+2026-09,California,Rancho Palos Verdes,1
+2026-09,California,Rancho Santa Fe,1
+2026-09,California,Rancho Santa Margarita,3
+2026-09,California,Redondo Beach,2
+2026-09,California,Redwood City,7
+2026-09,California,Reseda,5
+2026-09,California,Rialto,3
+2026-09,California,Richmond,7
+2026-09,California,Riverside,24
+2026-09,California,Rohnert Park,2
+2026-09,California,Roseville,4
+2026-09,California,Rowland Heights,3
+2026-09,California,Sacramento,21
+2026-09,California,Salinas,1
+2026-09,California,San Bernardino,4
+2026-09,California,San Bruno,1
+2026-09,California,San Carlos,1
+2026-09,California,San Clemente,2
+2026-09,California,San Diego,70
+2026-09,California,San Fernando,2
+2026-09,California,San Francisco,205
+2026-09,California,San Jacinto,9
+2026-09,California,San Jose,36
+2026-09,California,San Juan Capistrano,1
+2026-09,California,San Leandro,4
+2026-09,California,San Luis Obispo,4
+2026-09,California,San Mateo,4
+2026-09,California,San Pedro,11
+2026-09,California,San Rafael,2
+2026-09,California,San Ramon,2
+2026-09,California,Santa Ana,10
+2026-09,California,Santa Barbara,4
+2026-09,California,Santa Clara,117
+2026-09,California,Santa Cruz,5
+2026-09,California,Santa Fe Springs,2
+2026-09,California,Santa Monica,8
+2026-09,California,Santa Rosa,4
+2026-09,California,Sebastopol,1
+2026-09,California,Sherman Oaks,1
+2026-09,California,Simi Valley,1
+2026-09,California,Sonoma,1
+2026-09,California,South Gate,1
+2026-09,California,South Lake Tahoe,1
+2026-09,California,South Pasadena,1
+2026-09,California,South San Francisco,2
+2026-09,California,Stanton,3
+2026-09,California,Stockton,5
+2026-09,California,Sun Valley,4
+2026-09,California,Sunnyvale,9
+2026-09,California,Sylmar,3
+2026-09,California,Temecula,2
+2026-09,California,Temple City,1
+2026-09,California,Thousand Oaks,4
+2026-09,California,Torrance,7
+2026-09,California,Tracy,2
+2026-09,California,Truckee,1
+2026-09,California,Tujunga,4
+2026-09,California,Tulare,1
+2026-09,California,Turlock,2
+2026-09,California,Union City,6
+2026-09,California,Unknown,52
+2026-09,California,Vallejo,2
+2026-09,California,Valley Village,1
+2026-09,California,Van Nuys,5
+2026-09,California,Ventura,7
+2026-09,California,Victorville,3
+2026-09,California,Vista,2
+2026-09,California,Walnut,5
+2026-09,California,Walnut Creek,8
+2026-09,California,Weott,1
+2026-09,California,West Covina,3
+2026-09,California,West Hills,5
+2026-09,California,West Hollywood,3
+2026-09,California,Westminster,1
+2026-09,California,Whittier,2
+2026-09,California,Wilmington,1
+2026-09,California,Winnetka,1
+2026-09,California,Woodland Hills,2
+2026-09,California,Yorba Linda,1
+2026-09,California,Yuba City,1
+2026-09,California,Yucca Valley,2
+2026-09,Colorado,Aurora,2
+2026-09,Colorado,Boulder,1
+2026-09,Colorado,Brighton,1
+2026-09,Colorado,Buena Vista,1
+2026-09,Colorado,Colorado Springs,3
+2026-09,Colorado,Denver,91
+2026-09,Colorado,Fort Collins,3
+2026-09,Colorado,Grand Junction,2
+2026-09,Colorado,Greenwood Village,1
+2026-09,Colorado,Littleton,4
+2026-09,Colorado,Longmont,1
+2026-09,Colorado,Loveland,1
+2026-09,Colorado,Mesa,1
+2026-09,Colorado,Unknown,17
+2026-09,Colorado,Wheat Ridge,1
+2026-09,Connecticut,Berlin,1
+2026-09,Connecticut,Branford,2
+2026-09,Connecticut,Bridgeport,12
+2026-09,Connecticut,Brookfield,3
+2026-09,Connecticut,Danbury,1
+2026-09,Connecticut,Fairfield,2
+2026-09,Connecticut,Glastonbury,3
+2026-09,Connecticut,Guilford,1
+2026-09,Connecticut,Hartford,4
+2026-09,Connecticut,Kent,2
+2026-09,Connecticut,Ledyard Center,2
+2026-09,Connecticut,Madison,1
+2026-09,Connecticut,Manchester,2
+2026-09,Connecticut,Meriden,1
+2026-09,Connecticut,Milford,3
+2026-09,Connecticut,New Canaan,4
+2026-09,Connecticut,New Hartford,1
+2026-09,Connecticut,New Haven,9
+2026-09,Connecticut,Newington,1
+2026-09,Connecticut,North Haven,3
+2026-09,Connecticut,Norwalk,4
+2026-09,Connecticut,Norwich,1
+2026-09,Connecticut,Plainville,1
+2026-09,Connecticut,Putnam,1
+2026-09,Connecticut,Ridgefield,2
+2026-09,Connecticut,Southbury,1
+2026-09,Connecticut,Southington,1
+2026-09,Connecticut,Stamford,3
+2026-09,Connecticut,Storrs,1
+2026-09,Connecticut,Torrington,1
+2026-09,Connecticut,Uncasville,1
+2026-09,Connecticut,Unknown,9
+2026-09,Connecticut,Waterbury,2
+2026-09,Connecticut,West Hartford,2
+2026-09,Connecticut,West Haven,3
+2026-09,Connecticut,Westport,1
+2026-09,Connecticut,Windsor,1
+2026-09,Connecticut,Woodbury,5
+2026-09,Delaware,Dover,2
+2026-09,Delaware,Middletown,2
+2026-09,Delaware,New Castle,1
+2026-09,Delaware,Newark,1
+2026-09,Delaware,Wilmington,7
+2026-09,District of Columbia,Washington,86
+2026-09,Florida,Apopka,2
+2026-09,Florida,Boca Raton,11
+2026-09,Florida,Boynton Beach,2
+2026-09,Florida,Bradenton,2
+2026-09,Florida,Brandon,1
+2026-09,Florida,Coral Gables,1
+2026-09,Florida,Daytona Beach,1
+2026-09,Florida,De Leon Springs,1
+2026-09,Florida,Delray Beach,4
+2026-09,Florida,Dunedin,2
+2026-09,Florida,Eustis,1
+2026-09,Florida,Fort Lauderdale,31
+2026-09,Florida,Fort Myers,1
+2026-09,Florida,Gainesville,1
+2026-09,Florida,Haines City,1
+2026-09,Florida,Havana,1
+2026-09,Florida,Hialeah,5
+2026-09,Florida,Hollywood,5
+2026-09,Florida,Jacksonville,18
+2026-09,Florida,Jacksonville Beach,2
+2026-09,Florida,Jupiter,1
+2026-09,Florida,Key West,1
+2026-09,Florida,Kissimmee,2
+2026-09,Florida,Lake Worth,6
+2026-09,Florida,Leesburg,1
+2026-09,Florida,Lutz,2
+2026-09,Florida,Maitland,2
+2026-09,Florida,Marco Island,1
+2026-09,Florida,Miami,121
+2026-09,Florida,Miami Beach,6
+2026-09,Florida,Miami Gardens,3
+2026-09,Florida,Miramar,1
+2026-09,Florida,Naples,2
+2026-09,Florida,New Port Richey,1
+2026-09,Florida,North Port,2
+2026-09,Florida,Ocoee,6
+2026-09,Florida,Odessa,2
+2026-09,Florida,Orange City,1
+2026-09,Florida,Orlando,30
+2026-09,Florida,Palm Bay,2
+2026-09,Florida,Palm Beach Gardens,1
+2026-09,Florida,Palm Coast,1
+2026-09,Florida,Panama City,2
+2026-09,Florida,Panama City Beach,1
+2026-09,Florida,Pensacola,1
+2026-09,Florida,Plant City,1
+2026-09,Florida,Port Charlotte,2
+2026-09,Florida,Port Orange,1
+2026-09,Florida,Port Richey,2
+2026-09,Florida,Port Saint Lucie,1
+2026-09,Florida,Riverview,1
+2026-09,Florida,Ruskin,1
+2026-09,Florida,Saint Augustine,2
+2026-09,Florida,Sanford,1
+2026-09,Florida,Santa Rosa Beach,8
+2026-09,Florida,Sarasota,4
+2026-09,Florida,St. Cloud,1
+2026-09,Florida,St. Petersburg,7
+2026-09,Florida,Tallahassee,1
+2026-09,Florida,Tampa,14
+2026-09,Florida,Unknown,11
+2026-09,Florida,Vero Beach,2
+2026-09,Florida,Wesley Chapel,1
+2026-09,Florida,West Palm Beach,3
+2026-09,Florida,Weston,1
+2026-09,Florida,Windermere,2
+2026-09,Florida,Winter Haven,1
+2026-09,Florida,Winter Park,2
+2026-09,Florida,Zephyrhills,1
+2026-09,Georgia,Acworth,2
+2026-09,Georgia,Albany,1
+2026-09,Georgia,Alpharetta,3
+2026-09,Georgia,Athens,1
+2026-09,Georgia,Atlanta,85
+2026-09,Georgia,Augusta,1
+2026-09,Georgia,Buford,3
+2026-09,Georgia,Calhoun,1
+2026-09,Georgia,Canton,1
+2026-09,Georgia,Carrollton,1
+2026-09,Georgia,Chamblee,3
+2026-09,Georgia,Claxton,1
+2026-09,Georgia,Columbus,3
+2026-09,Georgia,Conyers,1
+2026-09,Georgia,Covington,7
+2026-09,Georgia,Cumming,3
+2026-09,Georgia,Dallas,1
+2026-09,Georgia,Dalton,2
+2026-09,Georgia,Decatur,3
+2026-09,Georgia,Douglasville,2
+2026-09,Georgia,Duluth,1
+2026-09,Georgia,Ellenwood,1
+2026-09,Georgia,Fairburn,2
+2026-09,Georgia,Fayetteville,1
+2026-09,Georgia,Guyton,1
+2026-09,Georgia,Hampton,1
+2026-09,Georgia,Helen,1
+2026-09,Georgia,Hogansville,1
+2026-09,Georgia,Hoschton,1
+2026-09,Georgia,Jackson,1
+2026-09,Georgia,Jefferson,1
+2026-09,Georgia,Jonesboro,3
+2026-09,Georgia,Kennesaw,18
+2026-09,Georgia,Lawrenceville,4
+2026-09,Georgia,Lithonia,1
+2026-09,Georgia,Loganville,1
+2026-09,Georgia,Mableton,4
+2026-09,Georgia,Marietta,10
+2026-09,Georgia,Norcross,3
+2026-09,Georgia,Peachtree City,3
+2026-09,Georgia,Powder Springs,4
+2026-09,Georgia,Rome,1
+2026-09,Georgia,Savannah,2
+2026-09,Georgia,Smyrna,6
+2026-09,Georgia,South Fulton,2
+2026-09,Georgia,Stockbridge,1
+2026-09,Georgia,Stone Mountain,4
+2026-09,Georgia,Suwanee,2
+2026-09,Georgia,Unknown,11
+2026-09,Hawaii,Honolulu,21
+2026-09,Hawaii,Kailua,1
+2026-09,Hawaii,Kailua-Kona,1
+2026-09,Hawaii,Kaneohe,2
+2026-09,Hawaii,Makawao,4
+2026-09,Hawaii,Mililani Town,1
+2026-09,Hawaii,Unknown,1
+2026-09,Hawaii,Waianae,1
+2026-09,Hawaii,Waipahu,2
+2026-09,Hawaii,‘Aiea,1
+2026-09,Idaho,Boise,1
+2026-09,Idaho,Bonners Ferry,1
+2026-09,Idaho,Coeur d'Alene,1
+2026-09,Idaho,Coolin,1
+2026-09,Idaho,Montpelier,1
+2026-09,Idaho,Nampa,1
+2026-09,Idaho,Unknown,1
+2026-09,Illinois,Arlington Heights,1
+2026-09,Illinois,Aurora,3
+2026-09,Illinois,Barrington,1
+2026-09,Illinois,Batavia,2
+2026-09,Illinois,Belleville,1
+2026-09,Illinois,Bensenville,1
+2026-09,Illinois,Berkeley,2
+2026-09,Illinois,Berwyn,2
+2026-09,Illinois,Bourbonnais,1
+2026-09,Illinois,Calumet City,1
+2026-09,Illinois,Carpentersville,1
+2026-09,Illinois,Champaign,1
+2026-09,Illinois,Channahon,1
+2026-09,Illinois,Charleston,2
+2026-09,Illinois,Chicago,290
+2026-09,Illinois,Cicero,4
+2026-09,Illinois,Darien,2
+2026-09,Illinois,Decatur,1
+2026-09,Illinois,Des Plaines,1
+2026-09,Illinois,Downers Grove,2
+2026-09,Illinois,Elgin,1
+2026-09,Illinois,Elk Grove Village,5
+2026-09,Illinois,Elmwood Park,1
+2026-09,Illinois,Evanston,2
+2026-09,Illinois,Glenview,1
+2026-09,Illinois,Hazel Crest,1
+2026-09,Illinois,Homer Glen,1
+2026-09,Illinois,La Grange,1
+2026-09,Illinois,La Grange Park,3
+2026-09,Illinois,Lake Bluff,2
+2026-09,Illinois,Lake in the Hills,1
+2026-09,Illinois,Lombard,2
+2026-09,Illinois,Milan,1
+2026-09,Illinois,Morton Grove,9
+2026-09,Illinois,Naperville,4
+2026-09,Illinois,North Chicago,6
+2026-09,Illinois,Oak Brook,1
+2026-09,Illinois,Oak Forest,1
+2026-09,Illinois,Oak Park,5
+2026-09,Illinois,Ottawa,1
+2026-09,Illinois,Palatine,2
+2026-09,Illinois,Palos Hills,1
+2026-09,Illinois,Park Ridge,2
+2026-09,Illinois,Peoria,2
+2026-09,Illinois,Peru,3
+2026-09,Illinois,Princeville,1
+2026-09,Illinois,Rantoul,1
+2026-09,Illinois,Rockford,2
+2026-09,Illinois,Romeoville,1
+2026-09,Illinois,Round Lake,1
+2026-09,Illinois,Schaumburg,4
+2026-09,Illinois,Springfield,1
+2026-09,Illinois,Unknown,9
+2026-09,Illinois,Urbana,1
+2026-09,Illinois,Waterloo,1
+2026-09,Illinois,Waukegan,2
+2026-09,Illinois,Wheaton,4
+2026-09,Illinois,Wheeling,2
+2026-09,Illinois,Woodridge,1
+2026-09,Illinois,Woodstock,2
+2026-09,Indiana,Avon,1
+2026-09,Indiana,Bloomington,4
+2026-09,Indiana,Carmel,2
+2026-09,Indiana,Coal City,1
+2026-09,Indiana,Columbus,2
+2026-09,Indiana,Elkhart,2
+2026-09,Indiana,Fishers,1
+2026-09,Indiana,Goshen,1
+2026-09,Indiana,Greenwood,5
+2026-09,Indiana,Hammond,2
+2026-09,Indiana,Highland,1
+2026-09,Indiana,Indianapolis,27
+2026-09,Indiana,Kokomo,4
+2026-09,Indiana,La Porte,2
+2026-09,Indiana,Merrillville,1
+2026-09,Indiana,New Albany,2
+2026-09,Indiana,Sellersburg,1
+2026-09,Indiana,Seymour,1
+2026-09,Indiana,South Bend,1
+2026-09,Indiana,Unknown,2
+2026-09,Indiana,Valparaiso,3
+2026-09,Indiana,West Lafayette,1
+2026-09,Indiana,Westfield,2
+2026-09,Iowa,Ankeny,1
+2026-09,Iowa,Cedar Falls,1
+2026-09,Iowa,Cedar Rapids,1
+2026-09,Iowa,Charles City,1
+2026-09,Iowa,Des Moines,20
+2026-09,Iowa,Iowa City,1
+2026-09,Iowa,Johnston,2
+2026-09,Iowa,Monticello,1
+2026-09,Iowa,Muscatine,1
+2026-09,Iowa,Panora,1
+2026-09,Iowa,Waterloo,1
+2026-09,Kansas,Dodge City,1
+2026-09,Kansas,Lawrence,4
+2026-09,Kansas,Leavenworth,1
+2026-09,Kansas,Olathe,4
+2026-09,Kansas,Overland Park,6
+2026-09,Kansas,Palmer,1
+2026-09,Kansas,Shawnee,3
+2026-09,Kansas,Wichita,6
+2026-09,Kentucky,Bowling Green,2
+2026-09,Kentucky,Covington,1
+2026-09,Kentucky,Edgewood,2
+2026-09,Kentucky,Elizabethtown,2
+2026-09,Kentucky,Erlanger,3
+2026-09,Kentucky,Georgetown,1
+2026-09,Kentucky,Lexington,9
+2026-09,Kentucky,London,1
+2026-09,Kentucky,Louisville,17
+2026-09,Kentucky,Madisonville,1
+2026-09,Kentucky,Murray,1
+2026-09,Kentucky,Newport,1
+2026-09,Kentucky,Owensboro,1
+2026-09,Kentucky,Shepherdsville,2
+2026-09,Kentucky,Unknown,1
+2026-09,Kentucky,Versailles,1
+2026-09,Louisiana,Abbeville,3
+2026-09,Louisiana,Baton Rouge,3
+2026-09,Louisiana,Chalmette,1
+2026-09,Louisiana,Covington,2
+2026-09,Louisiana,DeRidder,2
+2026-09,Louisiana,Gonzales,1
+2026-09,Louisiana,Haughton,1
+2026-09,Louisiana,Lafayette,4
+2026-09,Louisiana,Lake Charles,1
+2026-09,Louisiana,Metairie,1
+2026-09,Louisiana,New Orleans,12
+2026-09,Louisiana,Shreveport,2
+2026-09,Louisiana,Unknown,3
+2026-09,Maine,Bar Harbor,1
+2026-09,Maine,Caribou,2
+2026-09,Maine,Cumberland Center,1
+2026-09,Maine,Holden,6
+2026-09,Maine,Houlton,1
+2026-09,Maine,Lewiston,1
+2026-09,Maine,Portland,4
+2026-09,Maine,Raymond,3
+2026-09,Maine,Saco,2
+2026-09,Maine,Sanford,1
+2026-09,Maine,Southwest Harbor,1
+2026-09,Maine,Topsham,1
+2026-09,Maine,Westbrook,3
+2026-09,Maryland,Abingdon,1
+2026-09,Maryland,Accokeek,1
+2026-09,Maryland,Annapolis,2
+2026-09,Maryland,Baltimore,26
+2026-09,Maryland,Bel Air,3
+2026-09,Maryland,Beltsville,2
+2026-09,Maryland,Berlin,1
+2026-09,Maryland,Bethesda,1
+2026-09,Maryland,Cambridge,3
+2026-09,Maryland,Capitol Heights,2
+2026-09,Maryland,Catonsville,2
+2026-09,Maryland,Church Hill,1
+2026-09,Maryland,Clinton,1
+2026-09,Maryland,Columbia,3
+2026-09,Maryland,Damascus,1
+2026-09,Maryland,District Heights,1
+2026-09,Maryland,Easton,5
+2026-09,Maryland,Ellicott City,3
+2026-09,Maryland,Essex,1
+2026-09,Maryland,Frederick,2
+2026-09,Maryland,Ft. Washington,2
+2026-09,Maryland,Gaithersburg,2
+2026-09,Maryland,Germantown,1
+2026-09,Maryland,Hagerstown,2
+2026-09,Maryland,Halethorpe,1
+2026-09,Maryland,Hyattsville,6
+2026-09,Maryland,Lanham,1
+2026-09,Maryland,Laurel,3
+2026-09,Maryland,Oxon Hill,1
+2026-09,Maryland,Pasadena,3
+2026-09,Maryland,Pikesville,2
+2026-09,Maryland,Potomac,2
+2026-09,Maryland,Rockville,2
+2026-09,Maryland,Rosedale,1
+2026-09,Maryland,Salisbury,1
+2026-09,Maryland,Severn,1
+2026-09,Maryland,Severna Park,1
+2026-09,Maryland,Silver Spring,20
+2026-09,Maryland,Suitland,1
+2026-09,Maryland,Temple Hills,1
+2026-09,Maryland,Upper Marlboro,6
+2026-09,Maryland,Waldorf,2
+2026-09,Massachusetts,Abington,1
+2026-09,Massachusetts,Agawam,1
+2026-09,Massachusetts,Allston,4
+2026-09,Massachusetts,Amherst,1
+2026-09,Massachusetts,Auburn,4
+2026-09,Massachusetts,Billerica,1
+2026-09,Massachusetts,Boston,102
+2026-09,Massachusetts,Brighton,4
+2026-09,Massachusetts,Brockton,4
+2026-09,Massachusetts,Cambridge,13
+2026-09,Massachusetts,Canton,1
+2026-09,Massachusetts,Chelsea,1
+2026-09,Massachusetts,Chicopee,2
+2026-09,Massachusetts,Cohasset,1
+2026-09,Massachusetts,Dorchester,4
+2026-09,Massachusetts,Everett,3
+2026-09,Massachusetts,Fall River,2
+2026-09,Massachusetts,Falmouth,2
+2026-09,Massachusetts,Franklin,1
+2026-09,Massachusetts,Great Barrington,1
+2026-09,Massachusetts,Greenfield,2
+2026-09,Massachusetts,Hanover,1
+2026-09,Massachusetts,Haverhill,1
+2026-09,Massachusetts,Holyoke,1
+2026-09,Massachusetts,Hudson,1
+2026-09,Massachusetts,Indian Orchard,4
+2026-09,Massachusetts,Ipswich,8
+2026-09,Massachusetts,Jamaica Plain,4
+2026-09,Massachusetts,Lee,3
+2026-09,Massachusetts,Ludlow,1
+2026-09,Massachusetts,Malden,2
+2026-09,Massachusetts,Medway,2
+2026-09,Massachusetts,Middleboro,1
+2026-09,Massachusetts,Milford,1
+2026-09,Massachusetts,Millbury,1
+2026-09,Massachusetts,Needham,4
+2026-09,Massachusetts,New Bedford,1
+2026-09,Massachusetts,Newton,2
+2026-09,Massachusetts,North Adams,4
+2026-09,Massachusetts,Northborough,4
+2026-09,Massachusetts,Norwood,1
+2026-09,Massachusetts,Plymouth,1
+2026-09,Massachusetts,Quincy,3
+2026-09,Massachusetts,Randolph,1
+2026-09,Massachusetts,Revere,4
+2026-09,Massachusetts,Rochester,1
+2026-09,Massachusetts,Scituate,1
+2026-09,Massachusetts,Somerville,6
+2026-09,Massachusetts,Springfield,92
+2026-09,Massachusetts,Taunton,1
+2026-09,Massachusetts,Unknown,6
+2026-09,Massachusetts,Wakefield,1
+2026-09,Massachusetts,Waltham,6
+2026-09,Massachusetts,West Roxbury,1
+2026-09,Massachusetts,Weymouth,2
+2026-09,Massachusetts,Wilbraham,1
+2026-09,Massachusetts,Woburn,3
+2026-09,Massachusetts,Worcester,2
+2026-09,Massachusetts,Yarmouth Port,1
+2026-09,Michigan,Ann Arbor,1
+2026-09,Michigan,Auburn Hills,3
+2026-09,Michigan,Battle Creek,1
+2026-09,Michigan,Birmingham,5
+2026-09,Michigan,Bloomfield Hills,1
+2026-09,Michigan,Caledonia,2
+2026-09,Michigan,Calumet,1
+2026-09,Michigan,Canton,1
+2026-09,Michigan,Clarkston,1
+2026-09,Michigan,Clinton Township,1
+2026-09,Michigan,Commerce,1
+2026-09,Michigan,Davison,1
+2026-09,Michigan,Dearborn,2
+2026-09,Michigan,Detroit,29
+2026-09,Michigan,Gaylord,1
+2026-09,Michigan,Grand Haven,2
+2026-09,Michigan,Grand Rapids,14
+2026-09,Michigan,Grosse Pointe,1
+2026-09,Michigan,Harper Woods,1
+2026-09,Michigan,Houghton,1
+2026-09,Michigan,Inkster,1
+2026-09,Michigan,Jackson,1
+2026-09,Michigan,Kalamazoo,5
+2026-09,Michigan,Lansing,3
+2026-09,Michigan,Lincoln Park,1
+2026-09,Michigan,Livonia,1
+2026-09,Michigan,Midland,1
+2026-09,Michigan,Mount Pleasant,1
+2026-09,Michigan,Oak Park,1
+2026-09,Michigan,Redford,2
+2026-09,Michigan,Rockford,1
+2026-09,Michigan,Romulus,2
+2026-09,Michigan,Royal Oak,2
+2026-09,Michigan,Saint Joseph,1
+2026-09,Michigan,Southfield,2
+2026-09,Michigan,St. Clair Shores,1
+2026-09,Michigan,Troy,1
+2026-09,Michigan,Unknown,4
+2026-09,Michigan,Utica,4
+2026-09,Michigan,Warren,1
+2026-09,Michigan,Waterford,1
+2026-09,Michigan,Wyoming,1
+2026-09,Michigan,Ypsilanti,4
+2026-09,Minnesota,Burnsville,1
+2026-09,Minnesota,Cottage Grove,1
+2026-09,Minnesota,Duluth,8
+2026-09,Minnesota,Eagan,1
+2026-09,Minnesota,Eden Prairie,2
+2026-09,Minnesota,Edina,1
+2026-09,Minnesota,Granite Falls,1
+2026-09,Minnesota,Harmony,1
+2026-09,Minnesota,Hopkins,2
+2026-09,Minnesota,Maple Grove,1
+2026-09,Minnesota,Minneapolis,55
+2026-09,Minnesota,New Ulm,1
+2026-09,Minnesota,Saint Paul,15
+2026-09,Minnesota,Sartell,1
+2026-09,Minnesota,Stillwater,3
+2026-09,Minnesota,Unknown,6
+2026-09,Minnesota,Winona,1
+2026-09,Minnesota,Winsted,1
+2026-09,Minnesota,Woodbury,1
+2026-09,Mississippi,Clinton,1
+2026-09,Mississippi,Foxworth,1
+2026-09,Mississippi,Gulfport,1
+2026-09,Mississippi,Jackson,3
+2026-09,Mississippi,Madison,2
+2026-09,Mississippi,Olive Branch,2
+2026-09,Mississippi,Southaven,1
+2026-09,Mississippi,Starkville,1
+2026-09,Missouri,Ballwin,2
+2026-09,Missouri,Brookfield,1
+2026-09,Missouri,Columbia,1
+2026-09,Missouri,Independence,1
+2026-09,Missouri,Kansas City,16
+2026-09,Missouri,Lee's Summit,2
+2026-09,Missouri,Park Hills,1
+2026-09,Missouri,Republic,2
+2026-09,Missouri,Richmond,1
+2026-09,Missouri,Saint Joseph,1
+2026-09,Missouri,Unknown,7
+2026-09,Missouri,Warrenton,1
+2026-09,Montana,Big Sky,2
+2026-09,Montana,Billings,1
+2026-09,Montana,Bozeman,2
+2026-09,Montana,Great Falls,3
+2026-09,Montana,Hamilton,1
+2026-09,Montana,Helena,1
+2026-09,Montana,Kalispell,1
+2026-09,Montana,Libby,1
+2026-09,Montana,Missoula,1
+2026-09,Montana,Scobey,2
+2026-09,Montana,Unknown,2
+2026-09,Nebraska,Elkhorn,1
+2026-09,Nebraska,Lincoln,5
+2026-09,Nebraska,Mitchell,2
+2026-09,Nebraska,Omaha,5
+2026-09,Nebraska,Unknown,1
+2026-09,Nebraska,Wayne,1
+2026-09,Nevada,Ely,1
+2026-09,Nevada,Henderson,2
+2026-09,Nevada,Incline Village,2
+2026-09,Nevada,Las Vegas,56
+2026-09,Nevada,North Las Vegas,1
+2026-09,Nevada,Reno,6
+2026-09,Nevada,Sparks,1
+2026-09,Nevada,Unknown,3
+2026-09,New Hampshire,Dover,1
+2026-09,New Hampshire,Hanover,1
+2026-09,New Hampshire,Henniker,2
+2026-09,New Hampshire,Manchester,3
+2026-09,New Hampshire,Nashua,5
+2026-09,New Hampshire,Newmarket,1
+2026-09,New Hampshire,Pelham,1
+2026-09,New Hampshire,Suncook,1
+2026-09,New Hampshire,Unknown,1
+2026-09,New Hampshire,Weare,1
+2026-09,New Jersey,Asbury Park,4
+2026-09,New Jersey,Atlantic City,1
+2026-09,New Jersey,Barnegat,1
+2026-09,New Jersey,Bayonne,6
+2026-09,New Jersey,Belleville,1
+2026-09,New Jersey,Bergenfield,2
+2026-09,New Jersey,Bloomfield,2
+2026-09,New Jersey,Bogota,1
+2026-09,New Jersey,Bricktown,1
+2026-09,New Jersey,Bridgewater,2
+2026-09,New Jersey,Caldwell,1
+2026-09,New Jersey,Camden,6
+2026-09,New Jersey,Cedar Knolls,4
+2026-09,New Jersey,Cherry Hill,8
+2026-09,New Jersey,Cliffside Park,1
+2026-09,New Jersey,Clifton,11
+2026-09,New Jersey,Closter,1
+2026-09,New Jersey,Collingswood,2
+2026-09,New Jersey,Cranford,1
+2026-09,New Jersey,Cresskill,1
+2026-09,New Jersey,Dayton,1
+2026-09,New Jersey,East Brunswick,1
+2026-09,New Jersey,East Hanover,2
+2026-09,New Jersey,East Orange,7
+2026-09,New Jersey,East Windsor,3
+2026-09,New Jersey,Edison,10
+2026-09,New Jersey,Egg Harbor Township,1
+2026-09,New Jersey,Elizabeth,1
+2026-09,New Jersey,Englewood,2
+2026-09,New Jersey,Fair Lawn,4
+2026-09,New Jersey,Florence,1
+2026-09,New Jersey,Forked River,1
+2026-09,New Jersey,Fort Lee,5
+2026-09,New Jersey,Freehold,1
+2026-09,New Jersey,Hackensack,1
+2026-09,New Jersey,Hackettstown,1
+2026-09,New Jersey,Hillsborough,1
+2026-09,New Jersey,Hillsdale,1
+2026-09,New Jersey,Hillside,1
+2026-09,New Jersey,Hoboken,4
+2026-09,New Jersey,Jersey City,22
+2026-09,New Jersey,Kearny,2
+2026-09,New Jersey,Lafayette,1
+2026-09,New Jersey,Lakewood,1
+2026-09,New Jersey,Lavallette,1
+2026-09,New Jersey,Lawrenceville,1
+2026-09,New Jersey,Linden,2
+2026-09,New Jersey,Lodi,1
+2026-09,New Jersey,Maplewood,1
+2026-09,New Jersey,Marlboro,1
+2026-09,New Jersey,Marlton,2
+2026-09,New Jersey,Medford,1
+2026-09,New Jersey,Montclair,12
+2026-09,New Jersey,Morganville,1
+2026-09,New Jersey,Morristown,1
+2026-09,New Jersey,Mount Arlington,1
+2026-09,New Jersey,Mount Holly,3
+2026-09,New Jersey,Mount Laurel,8
+2026-09,New Jersey,Mountainside,3
+2026-09,New Jersey,Neptune City,2
+2026-09,New Jersey,New Providence,2
+2026-09,New Jersey,Newark,56
+2026-09,New Jersey,Newfoundland,1
+2026-09,New Jersey,North Arlington,1
+2026-09,New Jersey,Nutley,2
+2026-09,New Jersey,Palisades Park,1
+2026-09,New Jersey,Paramus,1
+2026-09,New Jersey,Park Ridge,1
+2026-09,New Jersey,Passaic,4
+2026-09,New Jersey,Paterson,3
+2026-09,New Jersey,Perth Amboy,6
+2026-09,New Jersey,Piscataway,2
+2026-09,New Jersey,Plainfield,2
+2026-09,New Jersey,Point Pleasant Beach,1
+2026-09,New Jersey,Port Monmouth,1
+2026-09,New Jersey,Princeton,1
+2026-09,New Jersey,Ridgefield Park,2
+2026-09,New Jersey,Ridgewood,2
+2026-09,New Jersey,Runnemede,1
+2026-09,New Jersey,Short Hills,1
+2026-09,New Jersey,Sicklerville,1
+2026-09,New Jersey,Somerville,1
+2026-09,New Jersey,South Plainfield,1
+2026-09,New Jersey,Sparta,1
+2026-09,New Jersey,Spotswood,1
+2026-09,New Jersey,Springfield,2
+2026-09,New Jersey,Summit,2
+2026-09,New Jersey,Sussex,3
+2026-09,New Jersey,Tabor,2
+2026-09,New Jersey,Toms River,4
+2026-09,New Jersey,Trenton,6
+2026-09,New Jersey,Union,4
+2026-09,New Jersey,Union City,4
+2026-09,New Jersey,Unknown,2
+2026-09,New Jersey,Verona,1
+2026-09,New Jersey,Wallington,2
+2026-09,New Jersey,Wayne,1
+2026-09,New Jersey,Weehawken,2
+2026-09,New Jersey,Wenonah,1
+2026-09,New Jersey,West New York,4
+2026-09,New Jersey,West Orange,2
+2026-09,New Jersey,Westwood,1
+2026-09,New Jersey,Willingboro,3
+2026-09,New Jersey,Woodbury,1
+2026-09,New Mexico,Albuquerque,13
+2026-09,New Mexico,Deming,1
+2026-09,New Mexico,Roswell,3
+2026-09,New Mexico,Santa Fe,2
+2026-09,New Mexico,Unknown,2
+2026-09,New York,Albany,6
+2026-09,New York,Auburn,1
+2026-09,New York,Averill Park,1
+2026-09,New York,Babylon,3
+2026-09,New York,Bay Shore,2
+2026-09,New York,Beacon,1
+2026-09,New York,Bedford,3
+2026-09,New York,Bellmore,1
+2026-09,New York,Brentwood,2
+2026-09,New York,Bronxville,3
+2026-09,New York,Brooklyn,517
+2026-09,New York,Buffalo,79
+2026-09,New York,Castleton-on-Hudson,2
+2026-09,New York,Catskill,3
+2026-09,New York,Central Islip,1
+2026-09,New York,Chatham,2
+2026-09,New York,Chaumont,1
+2026-09,New York,Clarksville,1
+2026-09,New York,Clifton Park,1
+2026-09,New York,Delmar,1
+2026-09,New York,East Hampton,4
+2026-09,New York,East Islip,1
+2026-09,New York,East Syracuse,1
+2026-09,New York,Elmont,4
+2026-09,New York,Elmsford,1
+2026-09,New York,Fairport,1
+2026-09,New York,Farmingdale,2
+2026-09,New York,Floral Park,1
+2026-09,New York,Garrison,2
+2026-09,New York,Grand Island,1
+2026-09,New York,Great Neck,1
+2026-09,New York,Hamburg,1
+2026-09,New York,Hempstead,1
+2026-09,New York,Hicksville,1
+2026-09,New York,Honeoye Falls,1
+2026-09,New York,Hudson,5
+2026-09,New York,Huntington,1
+2026-09,New York,Huntington Station,1
+2026-09,New York,Kingston,6
+2026-09,New York,Larchmont,1
+2026-09,New York,Latham,2
+2026-09,New York,Lindenhurst,1
+2026-09,New York,Lockport,1
+2026-09,New York,Long Beach,2
+2026-09,New York,Lynbrook,4
+2026-09,New York,Mamaroneck,2
+2026-09,New York,Manhasset,1
+2026-09,New York,Massapequa,1
+2026-09,New York,Mastic Beach,1
+2026-09,New York,Middletown,1
+2026-09,New York,Millbrook,1
+2026-09,New York,Mohawk,1
+2026-09,New York,Mohegan Lake,1
+2026-09,New York,Monroe,3
+2026-09,New York,Monticello,1
+2026-09,New York,Nanuet,1
+2026-09,New York,New City,1
+2026-09,New York,New Rochelle,4
+2026-09,New York,New York,1001
+2026-09,New York,Newark,11
+2026-09,New York,Newburgh,3
+2026-09,New York,Niagara Falls,1
+2026-09,New York,Oceanside,1
+2026-09,New York,Patchogue,1
+2026-09,New York,Pennellville,1
+2026-09,New York,Plattsburgh,1
+2026-09,New York,Port Chester,2
+2026-09,New York,Poughkeepsie,6
+2026-09,New York,Queens,196
+2026-09,New York,Rensselaer,1
+2026-09,New York,Ridge,2
+2026-09,New York,Rochester,12
+2026-09,New York,Rockville Centre,1
+2026-09,New York,Rome,3
+2026-09,New York,Ronkonkoma,1
+2026-09,New York,Saint James,1
+2026-09,New York,Saranac Lake,1
+2026-09,New York,Saratoga Springs,3
+2026-09,New York,Saugerties,1
+2026-09,New York,Savannah,1
+2026-09,New York,Shrub Oak,1
+2026-09,New York,Smithtown,2
+2026-09,New York,Somers,3
+2026-09,New York,Southampton,1
+2026-09,New York,Spring Valley,2
+2026-09,New York,Staten Island,6
+2026-09,New York,Syosset,3
+2026-09,New York,Syracuse,5
+2026-09,New York,The Bronx,37
+2026-09,New York,Troy,1
+2026-09,New York,Unknown,4
+2026-09,New York,Utica,1
+2026-09,New York,Wading River,1
+2026-09,New York,Wappingers Falls,2
+2026-09,New York,West Babylon,1
+2026-09,New York,Westbury,1
+2026-09,New York,White Plains,3
+2026-09,New York,Woodmere,1
+2026-09,New York,Woodstock,3
+2026-09,New York,Yonkers,1
+2026-09,New York,Yorktown Heights,1
+2026-09,North Carolina,Asheville,2
+2026-09,North Carolina,Belmont,1
+2026-09,North Carolina,Carolina Beach,1
+2026-09,North Carolina,Cary,1
+2026-09,North Carolina,Catawba,5
+2026-09,North Carolina,Charlotte,51
+2026-09,North Carolina,Connelly Springs,1
+2026-09,North Carolina,Dallas,1
+2026-09,North Carolina,Denver,3
+2026-09,North Carolina,Durham,17
+2026-09,North Carolina,Fayetteville,5
+2026-09,North Carolina,Fletcher,1
+2026-09,North Carolina,Franklin,1
+2026-09,North Carolina,Fuquay-Varina,3
+2026-09,North Carolina,Goldsboro,2
+2026-09,North Carolina,Greensboro,5
+2026-09,North Carolina,High Point,1
+2026-09,North Carolina,Highlands,1
+2026-09,North Carolina,Indian Trail,3
+2026-09,North Carolina,Jamestown,1
+2026-09,North Carolina,Leland,1
+2026-09,North Carolina,Lillington,2
+2026-09,North Carolina,Matthews,1
+2026-09,North Carolina,Midland,1
+2026-09,North Carolina,Morganton,21
+2026-09,North Carolina,Pembroke,1
+2026-09,North Carolina,Pinehurst,1
+2026-09,North Carolina,Raleigh,16
+2026-09,North Carolina,Rockingham,1
+2026-09,North Carolina,Snow Hill,1
+2026-09,North Carolina,Sylva,1
+2026-09,North Carolina,Unknown,9
+2026-09,North Carolina,Wendell,2
+2026-09,North Carolina,Wilmington,5
+2026-09,North Carolina,Wilson,1
+2026-09,North Carolina,Winston-Salem,2
+2026-09,North Dakota,Bismarck,2
+2026-09,North Dakota,Fullerton,1
+2026-09,Ohio,Akron,18
+2026-09,Ohio,Amelia,1
+2026-09,Ohio,Beachwood,2
+2026-09,Ohio,Brunswick,1
+2026-09,Ohio,Chesterland,1
+2026-09,Ohio,Cincinnati,13
+2026-09,Ohio,Cleveland,10
+2026-09,Ohio,Cleveland Heights,2
+2026-09,Ohio,Copley,1
+2026-09,Ohio,Dayton,5
+2026-09,Ohio,Dover,1
+2026-09,Ohio,Dublin,6
+2026-09,Ohio,Franklin,1
+2026-09,Ohio,Grove City,2
+2026-09,Ohio,Lakewood,1
+2026-09,Ohio,Lewis Center,1
+2026-09,Ohio,Mansfield,1
+2026-09,Ohio,McConnelsville,2
+2026-09,Ohio,Moraine,1
+2026-09,Ohio,Mount Vernon,1
+2026-09,Ohio,Mount Washington,2
+2026-09,Ohio,Powell,1
+2026-09,Ohio,Springfield,1
+2026-09,Ohio,Unknown,4
+2026-09,Ohio,Van Wert,2
+2026-09,Ohio,Vermilion,1
+2026-09,Ohio,Washington Court House,1
+2026-09,Ohio,Westlake,1
+2026-09,Ohio,Xenia,1
+2026-09,Oklahoma,Bartlesville,1
+2026-09,Oklahoma,Guthrie,3
+2026-09,Oklahoma,Jenks,1
+2026-09,Oklahoma,Norman,1
+2026-09,Oklahoma,Oklahoma City,14
+2026-09,Oklahoma,Tulsa,27
+2026-09,Oregon,Beaverton,17
+2026-09,Oregon,Bend,4
+2026-09,Oregon,Dayton,1
+2026-09,Oregon,Eugene,1
+2026-09,Oregon,Forest Grove,1
+2026-09,Oregon,Grants Pass,1
+2026-09,Oregon,Gresham,4
+2026-09,Oregon,Medford,5
+2026-09,Oregon,Portland,112
+2026-09,Oregon,Redmond,1
+2026-09,Oregon,Salem,8
+2026-09,Oregon,Silverton,1
+2026-09,Oregon,Troutdale,1
+2026-09,Oregon,Tualatin,1
+2026-09,Oregon,Unknown,7
+2026-09,Oregon,West Linn,1
+2026-09,Pennsylvania,Aliquippa,1
+2026-09,Pennsylvania,Allentown,1
+2026-09,Pennsylvania,Altoona,1
+2026-09,Pennsylvania,Ambler,11
+2026-09,Pennsylvania,Bala-Cynwyd,2
+2026-09,Pennsylvania,Bensalem,1
+2026-09,Pennsylvania,Bethlehem,2
+2026-09,Pennsylvania,Boalsburg,1
+2026-09,Pennsylvania,Brookhaven,1
+2026-09,Pennsylvania,Bryn Mawr,1
+2026-09,Pennsylvania,Butler,2
+2026-09,Pennsylvania,California,1
+2026-09,Pennsylvania,Canonsburg,1
+2026-09,Pennsylvania,Chalfont,1
+2026-09,Pennsylvania,Chambersburg,1
+2026-09,Pennsylvania,Chester,1
+2026-09,Pennsylvania,Coatesville,2
+2026-09,Pennsylvania,Conshohocken,2
+2026-09,Pennsylvania,Coraopolis,2
+2026-09,Pennsylvania,Cranberry Township,1
+2026-09,Pennsylvania,Dallastown,1
+2026-09,Pennsylvania,Denver,10
+2026-09,Pennsylvania,DuBois,1
+2026-09,Pennsylvania,Easton,4
+2026-09,Pennsylvania,Elizabethtown,1
+2026-09,Pennsylvania,Enola,3
+2026-09,Pennsylvania,Fairless Hills,1
+2026-09,Pennsylvania,Glenside,1
+2026-09,Pennsylvania,King of Prussia,1
+2026-09,Pennsylvania,Lancaster,2
+2026-09,Pennsylvania,Langhorne,2
+2026-09,Pennsylvania,Lebanon,1
+2026-09,Pennsylvania,Malvern,2
+2026-09,Pennsylvania,Marcus Hook,2
+2026-09,Pennsylvania,Mars,2
+2026-09,Pennsylvania,McKeesport,1
+2026-09,Pennsylvania,Mechanicsburg,1
+2026-09,Pennsylvania,Media,1
+2026-09,Pennsylvania,Milton,1
+2026-09,Pennsylvania,Monaca,1
+2026-09,Pennsylvania,Moon Township,1
+2026-09,Pennsylvania,Mountain Top,1
+2026-09,Pennsylvania,Murrysville,1
+2026-09,Pennsylvania,Norristown,5
+2026-09,Pennsylvania,Oakmont,2
+2026-09,Pennsylvania,Philadelphia,104
+2026-09,Pennsylvania,Phoenixville,1
+2026-09,Pennsylvania,Pittsburgh,21
+2026-09,Pennsylvania,Pottstown,1
+2026-09,Pennsylvania,Reading,1
+2026-09,Pennsylvania,Shavertown,1
+2026-09,Pennsylvania,Souderton,1
+2026-09,Pennsylvania,State College,1
+2026-09,Pennsylvania,Torrance,1
+2026-09,Pennsylvania,Unknown,3
+2026-09,Pennsylvania,Valencia,3
+2026-09,Pennsylvania,Verona,2
+2026-09,Pennsylvania,Washington,1
+2026-09,Pennsylvania,West Chester,4
+2026-09,Pennsylvania,Willow Grove,1
+2026-09,Rhode Island,Bristol,2
+2026-09,Rhode Island,Cumberland,1
+2026-09,Rhode Island,East Greenwich,1
+2026-09,Rhode Island,Johnston,1
+2026-09,Rhode Island,North Kingstown,2
+2026-09,Rhode Island,North Providence,1
+2026-09,Rhode Island,Pawtucket,4
+2026-09,Rhode Island,Providence,9
+2026-09,Rhode Island,Riverside,1
+2026-09,Rhode Island,Warwick,5
+2026-09,Rhode Island,West Warwick,2
+2026-09,Rhode Island,Woonsocket,2
+2026-09,South Carolina,Aiken,1
+2026-09,South Carolina,Blythewood,1
+2026-09,South Carolina,Central,2
+2026-09,South Carolina,Charleston,53
+2026-09,South Carolina,Columbia,7
+2026-09,South Carolina,Fort Mill,3
+2026-09,South Carolina,Greenville,7
+2026-09,South Carolina,Hilton Head Island,2
+2026-09,South Carolina,Irmo,1
+2026-09,South Carolina,Isle of Palms,1
+2026-09,South Carolina,Kershaw,1
+2026-09,South Carolina,Leesville,1
+2026-09,South Carolina,Lexington,2
+2026-09,South Carolina,Mt. Pleasant,2
+2026-09,South Carolina,Myrtle Beach,4
+2026-09,South Carolina,Rock Hill,2
+2026-09,South Carolina,Simpsonville,4
+2026-09,South Carolina,Spartanburg,1
+2026-09,South Carolina,Sumter,1
+2026-09,South Carolina,Unknown,3
+2026-09,South Dakota,Pierre,3
+2026-09,South Dakota,Sioux Falls,4
+2026-09,Tennessee,Antioch,2
+2026-09,Tennessee,Brentwood,1
+2026-09,Tennessee,Chapel Hill,3
+2026-09,Tennessee,Chattanooga,1
+2026-09,Tennessee,Clarksville,1
+2026-09,Tennessee,Clinton,4
+2026-09,Tennessee,Fayetteville,1
+2026-09,Tennessee,Franklin,4
+2026-09,Tennessee,Germantown,1
+2026-09,Tennessee,Hendersonville,1
+2026-09,Tennessee,Hermitage,1
+2026-09,Tennessee,Hixson,1
+2026-09,Tennessee,Jackson,1
+2026-09,Tennessee,Jefferson City,1
+2026-09,Tennessee,Knoxville,6
+2026-09,Tennessee,Lebanon,1
+2026-09,Tennessee,Memphis,3
+2026-09,Tennessee,Nashville,41
+2026-09,Tennessee,Ooltewah,1
+2026-09,Tennessee,Ripley,2
+2026-09,Tennessee,Sevierville,1
+2026-09,Tennessee,Spring Hill,1
+2026-09,Tennessee,Unknown,8
+2026-09,Texas,Abilene,1
+2026-09,Texas,Addison,1
+2026-09,Texas,Allen,3
+2026-09,Texas,Amarillo,1
+2026-09,Texas,Arlington,4
+2026-09,Texas,Austin,87
+2026-09,Texas,Azle,1
+2026-09,Texas,Balch Springs,1
+2026-09,Texas,Baytown,2
+2026-09,Texas,Bedford,1
+2026-09,Texas,Brownsville,2
+2026-09,Texas,Buda,4
+2026-09,Texas,Carrollton,2
+2026-09,Texas,Cedar Hill,1
+2026-09,Texas,Cedar Park,5
+2026-09,Texas,Celina,1
+2026-09,Texas,Conroe,2
+2026-09,Texas,Corpus Christi,3
+2026-09,Texas,Cypress,2
+2026-09,Texas,Dallas,237
+2026-09,Texas,DeSoto,1
+2026-09,Texas,Deer Park,2
+2026-09,Texas,Denton,2
+2026-09,Texas,Duncanville,3
+2026-09,Texas,Edinburg,5
+2026-09,Texas,El Paso,4
+2026-09,Texas,Elgin,1
+2026-09,Texas,Ennis,1
+2026-09,Texas,Euless,1
+2026-09,Texas,Flower Mound,12
+2026-09,Texas,Fort Worth,323
+2026-09,Texas,Frisco,2
+2026-09,Texas,Garland,1
+2026-09,Texas,Georgetown,3
+2026-09,Texas,Graham,1
+2026-09,Texas,Granbury,1
+2026-09,Texas,Grand Prairie,3
+2026-09,Texas,Grapevine,1
+2026-09,Texas,Haltom City,1
+2026-09,Texas,Haslet,1
+2026-09,Texas,Houston,90
+2026-09,Texas,Humble,1
+2026-09,Texas,Huntsville,2
+2026-09,Texas,Irving,7
+2026-09,Texas,Junction,2
+2026-09,Texas,Justin,2
+2026-09,Texas,Katy,5
+2026-09,Texas,Killeen,2
+2026-09,Texas,Kyle,1
+2026-09,Texas,La Coste,3
+2026-09,Texas,Lake Jackson,1
+2026-09,Texas,Lancaster,1
+2026-09,Texas,Lavaca,1
+2026-09,Texas,League City,1
+2026-09,Texas,Lewisville,2
+2026-09,Texas,Little Elm,3
+2026-09,Texas,Longview,2
+2026-09,Texas,Lubbock,7
+2026-09,Texas,Magnolia,1
+2026-09,Texas,Mansfield,3
+2026-09,Texas,Manvel,1
+2026-09,Texas,McAllen,7
+2026-09,Texas,McKinney,2
+2026-09,Texas,Melissa,1
+2026-09,Texas,Mesquite,2
+2026-09,Texas,Midland,1
+2026-09,Texas,Mission,2
+2026-09,Texas,Missouri City,10
+2026-09,Texas,Murphy,1
+2026-09,Texas,Orange Grove,1
+2026-09,Texas,Palestine,1
+2026-09,Texas,Pampa,1
+2026-09,Texas,Pasadena,4
+2026-09,Texas,Pearland,3
+2026-09,Texas,Penitas,1
+2026-09,Texas,Pflugerville,2
+2026-09,Texas,Plano,9
+2026-09,Texas,Prosper,1
+2026-09,Texas,Richardson,1
+2026-09,Texas,Richmond,1
+2026-09,Texas,Roanoke,2
+2026-09,Texas,Round Rock,2
+2026-09,Texas,San Antonio,46
+2026-09,Texas,San Juan,1
+2026-09,Texas,San Marcos,3
+2026-09,Texas,Seguin,1
+2026-09,Texas,Snyder,2
+2026-09,Texas,Southlake,3
+2026-09,Texas,Spring,2
+2026-09,Texas,Sugar Land,1
+2026-09,Texas,Texarkana,1
+2026-09,Texas,The Colony,4
+2026-09,Texas,Tomball,1
+2026-09,Texas,Unknown,2
+2026-09,Texas,Van Horn,2
+2026-09,Texas,Von Ormy,1
+2026-09,Texas,Waco,6
+2026-09,Texas,Waxahachie,1
+2026-09,Texas,Weatherford,1
+2026-09,Texas,Whitesboro,1
+2026-09,Unknown,Unknown,928
+2026-09,Utah,American Fork,2
+2026-09,Utah,Clearfield,1
+2026-09,Utah,Draper,1
+2026-09,Utah,Kaysville,1
+2026-09,Utah,Lehi,3
+2026-09,Utah,Midvale,5
+2026-09,Utah,Moab,2
+2026-09,Utah,Ogden,6
+2026-09,Utah,Park City,2
+2026-09,Utah,Provo,5
+2026-09,Utah,Salt Lake City,31
+2026-09,Utah,Sandy,1
+2026-09,Utah,South Jordan,3
+2026-09,Utah,Unknown,8
+2026-09,Utah,West Jordan,6
+2026-09,Utah,West Valley City,1
+2026-09,Vermont,Burlington,11
+2026-09,Vermont,Essex Junction,1
+2026-09,Vermont,New Haven,1
+2026-09,Vermont,South Burlington,1
+2026-09,Virginia,Alexandria,19
+2026-09,Virginia,Annandale,2
+2026-09,Virginia,Arlington,12
+2026-09,Virginia,Burke,1
+2026-09,Virginia,Carrollton,2
+2026-09,Virginia,Centreville,6
+2026-09,Virginia,Charlottesville,3
+2026-09,Virginia,Chesapeake,4
+2026-09,Virginia,Dumfries,1
+2026-09,Virginia,Fairfax,3
+2026-09,Virginia,Falls Church,8
+2026-09,Virginia,Forest,1
+2026-09,Virginia,Front Royal,1
+2026-09,Virginia,Hampton,1
+2026-09,Virginia,Herndon,4
+2026-09,Virginia,Leesburg,2
+2026-09,Virginia,Lexington,1
+2026-09,Virginia,Louisa,1
+2026-09,Virginia,Manassas,4
+2026-09,Virginia,McLean,10
+2026-09,Virginia,Mechanicsville,1
+2026-09,Virginia,Newport News,3
+2026-09,Virginia,Norfolk,4
+2026-09,Virginia,Palmyra,1
+2026-09,Virginia,Powhatan,2
+2026-09,Virginia,Reston,11
+2026-09,Virginia,Richmond,21
+2026-09,Virginia,Scottsville,2
+2026-09,Virginia,Stafford,1
+2026-09,Virginia,Stephens City,1
+2026-09,Virginia,Stuarts Draft,2
+2026-09,Virginia,Unknown,4
+2026-09,Virginia,Vienna,2
+2026-09,Virginia,Virginia Beach,6
+2026-09,Virginia,Winchester,2
+2026-09,Virginia,Wise,2
+2026-09,Virginia,Woodbridge,2
+2026-09,Washington,Aberdeen,2
+2026-09,Washington,Arlington,1
+2026-09,Washington,Auburn,2
+2026-09,Washington,Bellevue,1
+2026-09,Washington,Bellingham,4
+2026-09,Washington,Blaine,1
+2026-09,Washington,Bothell,6
+2026-09,Washington,Bremerton,4
+2026-09,Washington,Camano,1
+2026-09,Washington,Centralia,1
+2026-09,Washington,Davenport,1
+2026-09,Washington,Edmonds,2
+2026-09,Washington,Everett,2
+2026-09,Washington,Federal Way,6
+2026-09,Washington,Ferndale,1
+2026-09,Washington,Friday Harbor,1
+2026-09,Washington,Issaquah,1
+2026-09,Washington,Kent,5
+2026-09,Washington,Kirkland,6
+2026-09,Washington,Lake Stevens,2
+2026-09,Washington,Lakewood,2
+2026-09,Washington,Lynnwood,7
+2026-09,Washington,Mercer Island,2
+2026-09,Washington,Mount Vernon,1
+2026-09,Washington,Mountlake Terrace,1
+2026-09,Washington,Oak Harbor,2
+2026-09,Washington,Olympia,2
+2026-09,Washington,Port Orchard,3
+2026-09,Washington,Poulsbo,1
+2026-09,Washington,Puyallup,2
+2026-09,Washington,Redmond,4
+2026-09,Washington,Renton,16
+2026-09,Washington,Sammamish,1
+2026-09,Washington,Seattle,180
+2026-09,Washington,Sequim,2
+2026-09,Washington,Shelton,2
+2026-09,Washington,Spanaway,1
+2026-09,Washington,Spokane,14
+2026-09,Washington,Tacoma,9
+2026-09,Washington,Tukwila,5
+2026-09,Washington,Unknown,70
+2026-09,Washington,Vancouver,11
+2026-09,Washington,Woodland,1
+2026-09,Washington,Yakima,1
+2026-09,Washington,Zillah,1
+2026-09,West Virginia,Benwood,1
+2026-09,West Virginia,Charleston,1
+2026-09,West Virginia,Hinton,1
+2026-09,West Virginia,Martinsburg,1
+2026-09,West Virginia,Morgantown,1
+2026-09,West Virginia,Parkersburg,2
+2026-09,West Virginia,Rainelle,1
+2026-09,West Virginia,Weirton,1
+2026-09,Wisconsin,Brooklyn,1
+2026-09,Wisconsin,Crandon,1
+2026-09,Wisconsin,Deerfield,3
+2026-09,Wisconsin,Green Bay,1
+2026-09,Wisconsin,Hartland,1
+2026-09,Wisconsin,Kenosha,2
+2026-09,Wisconsin,La Crosse,1
+2026-09,Wisconsin,Madison,22
+2026-09,Wisconsin,Milwaukee,20
+2026-09,Wisconsin,Oconomowoc,1
+2026-09,Wisconsin,Onalaska,1
+2026-09,Wisconsin,Pewaukee,1
+2026-09,Wisconsin,Portage,2
+2026-09,Wisconsin,Racine,1
+2026-09,Wisconsin,Sun Prairie,2
+2026-09,Wisconsin,Unknown,1
+2026-09,Wisconsin,Verona,4
+2026-09,Wisconsin,Waukesha,3
+2026-09,Wyoming,Afton,1
+2026-09,Wyoming,Casper,1
+2026-09,Wyoming,Jackson,2
+2026-09,Wyoming,Sheridan,1
+2026-10,Alabama,Anniston,2
+2026-10,Alabama,Arab,1
+2026-10,Alabama,Auburn,1
+2026-10,Alabama,Bessemer,20
+2026-10,Alabama,Birmingham,18
+2026-10,Alabama,Calera,1
+2026-10,Alabama,Daleville,1
+2026-10,Alabama,Daphne,3
+2026-10,Alabama,Five Points,1
+2026-10,Alabama,Guntersville,2
+2026-10,Alabama,Hazel Green,2
+2026-10,Alabama,Hollywood,1
+2026-10,Alabama,Hoover,3
+2026-10,Alabama,Jasper,1
+2026-10,Alabama,Leeds,2
+2026-10,Alabama,Lincoln,1
+2026-10,Alabama,Meridianville,3
+2026-10,Alabama,Millbrook,1
+2026-10,Alabama,Mobile,12
+2026-10,Alabama,Monroeville,2
+2026-10,Alabama,Montgomery,6
+2026-10,Alabama,New Market,1
+2026-10,Alabama,Northport,1
+2026-10,Alabama,Opelika,2
+2026-10,Alabama,Ozark,1
+2026-10,Alabama,Pelham,1
+2026-10,Alabama,Phenix City,1
+2026-10,Alabama,Prattville,2
+2026-10,Alabama,Spanish Fort,3
+2026-10,Alabama,Talladega,1
+2026-10,Alabama,Tuscaloosa,1
+2026-10,Alabama,Unknown,9
+2026-10,Alabama,Woodville,1
+2026-10,Alaska,Anchorage,9
+2026-10,Alaska,Kenai,1
+2026-10,Alaska,Palmer,3
+2026-10,Alaska,Unknown,1
+2026-10,Arizona,Avondale,1
+2026-10,Arizona,Bisbee,1
+2026-10,Arizona,Buckeye,3
+2026-10,Arizona,Chandler,16
+2026-10,Arizona,Flagstaff,2
+2026-10,Arizona,Gilbert,3
+2026-10,Arizona,Glendale,1
+2026-10,Arizona,Goodyear,4
+2026-10,Arizona,Maricopa,4
+2026-10,Arizona,Mesa,18
+2026-10,Arizona,Mohave Valley,1
+2026-10,Arizona,Paradise Valley,1
+2026-10,Arizona,Peoria,3
+2026-10,Arizona,Phoenix,133
+2026-10,Arizona,Prescott Valley,1
+2026-10,Arizona,Queen Creek,2
+2026-10,Arizona,Scottsdale,5
+2026-10,Arizona,Sedona,3
+2026-10,Arizona,Show Low,1
+2026-10,Arizona,Sierra Vista,1
+2026-10,Arizona,Surprise,4
+2026-10,Arizona,Tempe,4
+2026-10,Arizona,Tolleson,2
+2026-10,Arizona,Tucson,15
+2026-10,Arizona,Unknown,22
+2026-10,Arizona,Yuma,2
+2026-10,Arkansas,Arkadelphia,1
+2026-10,Arkansas,Beebe,1
+2026-10,Arkansas,Benton,1
+2026-10,Arkansas,Bentonville,9
+2026-10,Arkansas,Cabot,3
+2026-10,Arkansas,Conway,4
+2026-10,Arkansas,Fayetteville,3
+2026-10,Arkansas,Fort Smith,3
+2026-10,Arkansas,Hot Springs,1
+2026-10,Arkansas,Jacksonville,2
+2026-10,Arkansas,Little Rock,4
+2026-10,Arkansas,Mountain Home,1
+2026-10,Arkansas,North Little Rock,2
+2026-10,Arkansas,Rogers,9
+2026-10,Arkansas,Springdale,2
+2026-10,Arkansas,Stuttgart,1
+2026-10,Arkansas,Unknown,4
+2026-10,Arkansas,West Fork,1
+2026-10,California,Acalanes Ridge,2
+2026-10,California,Adelanto,1
+2026-10,California,Alameda,22
+2026-10,California,Albany,3
+2026-10,California,Alhambra,1
+2026-10,California,Aliso Viejo,1
+2026-10,California,Anaheim,23
+2026-10,California,Anderson,1
+2026-10,California,Antioch,6
+2026-10,California,Apple Valley,3
+2026-10,California,Arcadia,2
+2026-10,California,Arroyo Grande,2
+2026-10,California,Atascadero,1
+2026-10,California,Atwater,3
+2026-10,California,Azusa,5
+2026-10,California,Bakersfield,9
+2026-10,California,Baldwin Park,4
+2026-10,California,Banning,1
+2026-10,California,Beaumont,3
+2026-10,California,Bell Gardens,1
+2026-10,California,Bellflower,12
+2026-10,California,Belvedere Tiburon,1
+2026-10,California,Berkeley,36
+2026-10,California,Beverly Hills,4
+2026-10,California,Bishop,2
+2026-10,California,Brea,5
+2026-10,California,Brentwood,4
+2026-10,California,Buena Park,5
+2026-10,California,Burbank,18
+2026-10,California,Burlingame,10
+2026-10,California,Calabasas,4
+2026-10,California,Calistoga,3
+2026-10,California,Camarillo,1
+2026-10,California,Cameron Park,1
+2026-10,California,Canoga Park,5
+2026-10,California,Canyon Country,1
+2026-10,California,Carlsbad,8
+2026-10,California,Carmichael,3
+2026-10,California,Carson,5
+2026-10,California,Castro Valley,3
+2026-10,California,Century City,2
+2026-10,California,Ceres,1
+2026-10,California,Cerritos,1
+2026-10,California,Chatsworth,10
+2026-10,California,Chico,1
+2026-10,California,Chino,11
+2026-10,California,Chino Hills,16
+2026-10,California,Chula Vista,15
+2026-10,California,Citrus Heights,1
+2026-10,California,City of Industry,3
+2026-10,California,Claremont,2
+2026-10,California,Coachella,3
+2026-10,California,Compton,7
+2026-10,California,Concord,5
+2026-10,California,Copperopolis,1
+2026-10,California,Corona,12
+2026-10,California,Corona del Mar,4
+2026-10,California,Costa Mesa,14
+2026-10,California,Covina,2
+2026-10,California,Crescent City,1
+2026-10,California,Crestline,1
+2026-10,California,Culver City,2
+2026-10,California,Cypress,3
+2026-10,California,Daly City,32
+2026-10,California,Danville,2
+2026-10,California,Davis,7
+2026-10,California,Desert Hot Springs,1
+2026-10,California,Diamond Bar,4
+2026-10,California,Dinuba,1
+2026-10,California,Downey,3
+2026-10,California,Dublin,70
+2026-10,California,East Los Angeles,7
+2026-10,California,El Cajon,4
+2026-10,California,El Cerrito,1
+2026-10,California,El Dorado Hills,1
+2026-10,California,El Monte,6
+2026-10,California,El Segundo,13
+2026-10,California,El Sobrante,4
+2026-10,California,Elk Grove,13
+2026-10,California,Elverta,1
+2026-10,California,Encinitas,1
+2026-10,California,Encino,6
+2026-10,California,Escondido,1
+2026-10,California,Fair Oaks,5
+2026-10,California,Fairfield,3
+2026-10,California,Folsom,4
+2026-10,California,Fontana,26
+2026-10,California,Foothill Ranch,1
+2026-10,California,Foster City,1
+2026-10,California,Fountain Valley,1
+2026-10,California,Fremont,29
+2026-10,California,Fresno,15
+2026-10,California,Fullerton,10
+2026-10,California,Garden Grove,18
+2026-10,California,Gardena,19
+2026-10,California,Gilroy,1
+2026-10,California,Glendale,15
+2026-10,California,Glendora,1
+2026-10,California,Graeagle,5
+2026-10,California,Granada Hills,2
+2026-10,California,Greenbrae,3
+2026-10,California,Hacienda Heights,3
+2026-10,California,Hawthorne,1
+2026-10,California,Hayward,30
+2026-10,California,Healdsburg,2
+2026-10,California,Hercules,4
+2026-10,California,Hermosa Beach,2
+2026-10,California,Hesperia,7
+2026-10,California,Highland,4
+2026-10,California,Huntington Beach,8
+2026-10,California,Huntington Park,2
+2026-10,California,Indio,3
+2026-10,California,Inglewood,39
+2026-10,California,Irvine,39
+2026-10,California,Joshua Tree,1
+2026-10,California,Kerman,1
+2026-10,California,La Cañada Flintridge,10
+2026-10,California,La Crescenta,1
+2026-10,California,La Habra,5
+2026-10,California,La Jolla,11
+2026-10,California,La Mesa,1
+2026-10,California,La Mirada,2
+2026-10,California,La Puente,1
+2026-10,California,Ladera Ranch,1
+2026-10,California,Lafayette,2
+2026-10,California,Laguna Beach,4
+2026-10,California,Laguna Niguel,3
+2026-10,California,Laguna Woods,2
+2026-10,California,Lake Elsinore,2
+2026-10,California,Lake Forest,6
+2026-10,California,Lakewood,4
+2026-10,California,Lancaster,3
+2026-10,California,Lathrop,3
+2026-10,California,Lincoln,1
+2026-10,California,Livingston,1
+2026-10,California,Lompoc,25
+2026-10,California,Long Beach,29
+2026-10,California,Los Altos,8
+2026-10,California,Los Angeles,1336
+2026-10,California,Los Gatos,10
+2026-10,California,Malibu,1
+2026-10,California,Mammoth Lakes,1
+2026-10,California,Manteca,1
+2026-10,California,Marina del Rey,3
+2026-10,California,Martinez,7
+2026-10,California,McKinleyville,2
+2026-10,California,Menifee,1
+2026-10,California,Menlo Park,4
+2026-10,California,Mentone,3
+2026-10,California,Merced,5
+2026-10,California,Mill Valley,3
+2026-10,California,Milpitas,3
+2026-10,California,Mission Hills,4
+2026-10,California,Modesto,3
+2026-10,California,Monrovia,10
+2026-10,California,Montclair,2
+2026-10,California,Montebello,5
+2026-10,California,Monterey Park,10
+2026-10,California,Moreno Valley,7
+2026-10,California,Morro Bay,1
+2026-10,California,Mountain View,12
+2026-10,California,Murrieta,6
+2026-10,California,Napa,7
+2026-10,California,Nevada City,1
+2026-10,California,Newport Beach,7
+2026-10,California,North Highlands,1
+2026-10,California,North Hills,1
+2026-10,California,North Hollywood,17
+2026-10,California,Northridge,7
+2026-10,California,Norwalk,6
+2026-10,California,Oak Park,1
+2026-10,California,Oakland,115
+2026-10,California,Occidental,1
+2026-10,California,Oceanside,8
+2026-10,California,Ojai,5
+2026-10,California,Ontario,11
+2026-10,California,Orange,8
+2026-10,California,Orinda,3
+2026-10,California,Oxnard,2
+2026-10,California,Pacific Grove,1
+2026-10,California,Pacifica,4
+2026-10,California,Pacoima,8
+2026-10,California,Palm Desert,1
+2026-10,California,Palm Springs,11
+2026-10,California,Palmdale,2
+2026-10,California,Palo Alto,10
+2026-10,California,Panorama City,4
+2026-10,California,Paramount,2
+2026-10,California,Pasadena,53
+2026-10,California,Paso Robles,1
+2026-10,California,Perris,6
+2026-10,California,Petaluma,5
+2026-10,California,Pittsburg,3
+2026-10,California,Placentia,1
+2026-10,California,Playa Vista,3
+2026-10,California,Pleasant Hill,1
+2026-10,California,Pleasanton,14
+2026-10,California,Pomona,10
+2026-10,California,Porter Ranch,5
+2026-10,California,Ramona,1
+2026-10,California,Rancho Cordova,1
+2026-10,California,Rancho Cucamonga,8
+2026-10,California,Rancho Mirage,2
+2026-10,California,Rancho Palos Verdes,12
+2026-10,California,Rancho Santa Margarita,2
+2026-10,California,Redding,11
+2026-10,California,Redlands,3
+2026-10,California,Redondo Beach,3
+2026-10,California,Redwood City,11
+2026-10,California,Reedley,1
+2026-10,California,Reseda,6
+2026-10,California,Rialto,9
+2026-10,California,Richmond,12
+2026-10,California,Riverside,42
+2026-10,California,Rohnert Park,8
+2026-10,California,Rosamond,1
+2026-10,California,Roseville,2
+2026-10,California,Sacramento,59
+2026-10,California,Salinas,6
+2026-10,California,San Bernardino,11
+2026-10,California,San Bruno,4
+2026-10,California,San Carlos,3
+2026-10,California,San Diego,102
+2026-10,California,San Dimas,3
+2026-10,California,San Fernando,1
+2026-10,California,San Francisco,440
+2026-10,California,San Jacinto,7
+2026-10,California,San Jose,236
+2026-10,California,San Juan Capistrano,4
+2026-10,California,San Leandro,8
+2026-10,California,San Luis Obispo,5
+2026-10,California,San Marcos,8
+2026-10,California,San Mateo,10
+2026-10,California,San Pablo,1
+2026-10,California,San Pedro,8
+2026-10,California,San Ramon,1
+2026-10,California,San Ysidro,1
+2026-10,California,Santa Ana,17
+2026-10,California,Santa Barbara,6
+2026-10,California,Santa Clara,94
+2026-10,California,Santa Cruz,4
+2026-10,California,Santa Maria,3
+2026-10,California,Santa Monica,71
+2026-10,California,Santa Rosa,5
+2026-10,California,Santa Ynez,1
+2026-10,California,Santee,2
+2026-10,California,Saratoga,1
+2026-10,California,Sausalito,1
+2026-10,California,Seaside,8
+2026-10,California,Simi Valley,1
+2026-10,California,Sonoma,1
+2026-10,California,South Gate,2
+2026-10,California,South San Francisco,7
+2026-10,California,Stockton,5
+2026-10,California,Sun Valley,5
+2026-10,California,Sunland,1
+2026-10,California,Sunnyvale,15
+2026-10,California,Sylmar,5
+2026-10,California,Taft,1
+2026-10,California,Tehachapi,1
+2026-10,California,Temecula,3
+2026-10,California,Thousand Oaks,4
+2026-10,California,Torrance,11
+2026-10,California,Trabuco Canyon,1
+2026-10,California,Tracy,5
+2026-10,California,Tujunga,4
+2026-10,California,Tulare,1
+2026-10,California,Ukiah,1
+2026-10,California,Union City,4
+2026-10,California,Unknown,30
+2026-10,California,Upland,3
+2026-10,California,Valencia,1
+2026-10,California,Vallejo,4
+2026-10,California,Valley Village,2
+2026-10,California,Van Nuys,33
+2026-10,California,Venice,5
+2026-10,California,Ventura,26
+2026-10,California,Victorville,3
+2026-10,California,Visalia,5
+2026-10,California,Vista,4
+2026-10,California,Walnut Creek,5
+2026-10,California,West Covina,4
+2026-10,California,West Hollywood,5
+2026-10,California,Westlake Village,3
+2026-10,California,Westminster,2
+2026-10,California,Whittier,12
+2026-10,California,Wildomar,2
+2026-10,California,Wilmington,5
+2026-10,California,Winchester,1
+2026-10,California,Windsor,2
+2026-10,California,Winnetka,1
+2026-10,California,Woodland Hills,1
+2026-10,California,Yorba Linda,3
+2026-10,California,Yuba City,2
+2026-10,California,Yucaipa,1
+2026-10,California,Yucca Valley,4
+2026-10,Colorado,Arvada,1
+2026-10,Colorado,Aspen,1
+2026-10,Colorado,Aurora,5
+2026-10,Colorado,Boulder,8
+2026-10,Colorado,Brighton,1
+2026-10,Colorado,Broomfield,2
+2026-10,Colorado,Carbondale,9
+2026-10,Colorado,Center,1
+2026-10,Colorado,Colorado Springs,17
+2026-10,Colorado,Denver,155
+2026-10,Colorado,Englewood,2
+2026-10,Colorado,Erie,1
+2026-10,Colorado,Estes Park,6
+2026-10,Colorado,Fort Collins,17
+2026-10,Colorado,Grand Junction,2
+2026-10,Colorado,Greeley,3
+2026-10,Colorado,Greenwood Village,1
+2026-10,Colorado,Gunnison,1
+2026-10,Colorado,Gypsum,3
+2026-10,Colorado,Highlands Ranch,1
+2026-10,Colorado,Johnstown,4
+2026-10,Colorado,Lakewood,3
+2026-10,Colorado,Littleton,1
+2026-10,Colorado,Longmont,2
+2026-10,Colorado,Louisville,1
+2026-10,Colorado,Parker,1
+2026-10,Colorado,Peyton,1
+2026-10,Colorado,Thornton,2
+2026-10,Colorado,Trinidad,1
+2026-10,Colorado,Unknown,28
+2026-10,Colorado,Westminster,4
+2026-10,Colorado,Windsor,2
+2026-10,Connecticut,Ansonia,1
+2026-10,Connecticut,Avon,2
+2026-10,Connecticut,Branford,3
+2026-10,Connecticut,Bridgeport,19
+2026-10,Connecticut,Bristol,4
+2026-10,Connecticut,Brookfield,2
+2026-10,Connecticut,Cheshire,1
+2026-10,Connecticut,Danbury,4
+2026-10,Connecticut,Durham,1
+2026-10,Connecticut,East Hartford,2
+2026-10,Connecticut,Fairfield,3
+2026-10,Connecticut,Glastonbury,3
+2026-10,Connecticut,Groton,1
+2026-10,Connecticut,Hartford,4
+2026-10,Connecticut,Harwinton,2
+2026-10,Connecticut,Manchester,1
+2026-10,Connecticut,Meriden,1
+2026-10,Connecticut,Middletown,2
+2026-10,Connecticut,Milford,3
+2026-10,Connecticut,New Britain,6
+2026-10,Connecticut,New Canaan,1
+2026-10,Connecticut,New Haven,23
+2026-10,Connecticut,New London,1
+2026-10,Connecticut,New Milford,6
+2026-10,Connecticut,Newington,1
+2026-10,Connecticut,Newtown,1
+2026-10,Connecticut,North Haven,3
+2026-10,Connecticut,Norwalk,7
+2026-10,Connecticut,Norwich,2
+2026-10,Connecticut,Old Saybrook,1
+2026-10,Connecticut,Orange,1
+2026-10,Connecticut,Oxford,1
+2026-10,Connecticut,Redding,1
+2026-10,Connecticut,Ridgefield,1
+2026-10,Connecticut,Simsbury,2
+2026-10,Connecticut,Southington,3
+2026-10,Connecticut,Stamford,12
+2026-10,Connecticut,Stratford,3
+2026-10,Connecticut,Torrington,2
+2026-10,Connecticut,Trumbull,2
+2026-10,Connecticut,Unknown,2
+2026-10,Connecticut,Vernon,4
+2026-10,Connecticut,Wallingford,5
+2026-10,Connecticut,Waterbury,4
+2026-10,Connecticut,Waterford,1
+2026-10,Connecticut,West Hartford,2
+2026-10,Connecticut,Wethersfield,1
+2026-10,Connecticut,Wilton,1
+2026-10,Connecticut,Windsor,4
+2026-10,Delaware,Bear,2
+2026-10,Delaware,Claymont,2
+2026-10,Delaware,Dover,5
+2026-10,Delaware,Felton,1
+2026-10,Delaware,Greenwood,1
+2026-10,Delaware,Hockessin,4
+2026-10,Delaware,Lewes,1
+2026-10,Delaware,Middletown,3
+2026-10,Delaware,Millsboro,1
+2026-10,Delaware,New Castle,1
+2026-10,Delaware,Newark,9
+2026-10,Delaware,Ocean View,1
+2026-10,Delaware,Unknown,2
+2026-10,Delaware,Wilmington,9
+2026-10,District of Columbia,Unknown,4
+2026-10,District of Columbia,Washington,200
+2026-10,Florida,Alachua,1
+2026-10,Florida,Altamonte Springs,1
+2026-10,Florida,Apopka,13
+2026-10,Florida,Atlantic Beach,2
+2026-10,Florida,Auburndale,1
+2026-10,Florida,Belle Glade,1
+2026-10,Florida,Boca Raton,11
+2026-10,Florida,Boynton Beach,1
+2026-10,Florida,Bradenton,3
+2026-10,Florida,Brandon,2
+2026-10,Florida,Cantonment,1
+2026-10,Florida,Cape Coral,3
+2026-10,Florida,Clearwater,2
+2026-10,Florida,Clermont,2
+2026-10,Florida,Cocoa,1
+2026-10,Florida,Coconut Creek,1
+2026-10,Florida,Coral Gables,2
+2026-10,Florida,Coral Springs,2
+2026-10,Florida,Crestview,1
+2026-10,Florida,Dade City,1
+2026-10,Florida,Davenport,11
+2026-10,Florida,DeFuniak Springs,1
+2026-10,Florida,Deerfield Beach,1
+2026-10,Florida,Delray Beach,3
+2026-10,Florida,Deltona,1
+2026-10,Florida,Doral,2
+2026-10,Florida,Fort Lauderdale,47
+2026-10,Florida,Fort Myers,10
+2026-10,Florida,Fort Walton Beach,1
+2026-10,Florida,Gainesville,12
+2026-10,Florida,Haines City,2
+2026-10,Florida,Hialeah,16
+2026-10,Florida,High Springs,1
+2026-10,Florida,Hilliard,1
+2026-10,Florida,Hollywood,16
+2026-10,Florida,Homestead,2
+2026-10,Florida,Indian Harbour Beach,1
+2026-10,Florida,Inverness,2
+2026-10,Florida,Jacksonville,28
+2026-10,Florida,Jacksonville Beach,5
+2026-10,Florida,Key West,1
+2026-10,Florida,Kissimmee,5
+2026-10,Florida,Lake Worth,5
+2026-10,Florida,Lakeland,8
+2026-10,Florida,Land O' Lakes,1
+2026-10,Florida,Largo,1
+2026-10,Florida,Lehigh Acres,7
+2026-10,Florida,Lithia,5
+2026-10,Florida,Lutz,2
+2026-10,Florida,Margate,1
+2026-10,Florida,Melbourne,3
+2026-10,Florida,Miami,228
+2026-10,Florida,Miami Beach,17
+2026-10,Florida,Miami Gardens,1
+2026-10,Florida,Middleburg,3
+2026-10,Florida,Milton,2
+2026-10,Florida,Mims,1
+2026-10,Florida,Miramar,5
+2026-10,Florida,Naples,4
+2026-10,Florida,New Port Richey,3
+2026-10,Florida,North Port,1
+2026-10,Florida,Oak Hill,1
+2026-10,Florida,Ocala,3
+2026-10,Florida,Orange City,1
+2026-10,Florida,Orlando,63
+2026-10,Florida,Oviedo,1
+2026-10,Florida,Palatka,1
+2026-10,Florida,Palm Bay,3
+2026-10,Florida,Palm Beach Gardens,1
+2026-10,Florida,Palm Coast,1
+2026-10,Florida,Parrish,1
+2026-10,Florida,Pembroke Pines,2
+2026-10,Florida,Pensacola,3
+2026-10,Florida,Pinellas Park,2
+2026-10,Florida,Plant City,1
+2026-10,Florida,Plantation,5
+2026-10,Florida,Pompano Beach,5
+2026-10,Florida,Port Charlotte,1
+2026-10,Florida,Port Richey,6
+2026-10,Florida,Port Saint Lucie,3
+2026-10,Florida,Quincy,1
+2026-10,Florida,Riverview,6
+2026-10,Florida,Rockledge,2
+2026-10,Florida,Ruskin,1
+2026-10,Florida,Saint Augustine,3
+2026-10,Florida,Saint Johns,4
+2026-10,Florida,Sanford,4
+2026-10,Florida,Santa Rosa Beach,3
+2026-10,Florida,Sarasota,7
+2026-10,Florida,Seminole,1
+2026-10,Florida,Spring Hill,2
+2026-10,Florida,St. Petersburg,17
+2026-10,Florida,Sunrise,1
+2026-10,Florida,Tallahassee,6
+2026-10,Florida,Tamarac,1
+2026-10,Florida,Tampa,28
+2026-10,Florida,Tavares,1
+2026-10,Florida,The Villages,4
+2026-10,Florida,Unknown,42
+2026-10,Florida,Valrico,1
+2026-10,Florida,Vero Beach,2
+2026-10,Florida,Wellington,8
+2026-10,Florida,Wesley Chapel,6
+2026-10,Florida,West Palm Beach,20
+2026-10,Florida,Weston,2
+2026-10,Florida,Williston,3
+2026-10,Florida,Wimauma,1
+2026-10,Florida,Windermere,1
+2026-10,Florida,Winter Garden,6
+2026-10,Florida,Winter Park,3
+2026-10,Florida,Winter Springs,2
+2026-10,Florida,Yulee,5
+2026-10,Florida,Zephyrhills,1
+2026-10,Georgia,Acworth,1
+2026-10,Georgia,Albany,2
+2026-10,Georgia,Alpharetta,4
+2026-10,Georgia,Athens,10
+2026-10,Georgia,Atlanta,193
+2026-10,Georgia,Auburn,1
+2026-10,Georgia,Augusta,5
+2026-10,Georgia,Austell,3
+2026-10,Georgia,Barnesville,1
+2026-10,Georgia,Blackshear,1
+2026-10,Georgia,Blairsville,1
+2026-10,Georgia,Braselton,1
+2026-10,Georgia,Brooklet,1
+2026-10,Georgia,Brunswick,1
+2026-10,Georgia,Buford,3
+2026-10,Georgia,Cairo,1
+2026-10,Georgia,Calhoun,2
+2026-10,Georgia,Camilla,1
+2026-10,Georgia,Carrollton,2
+2026-10,Georgia,Cartersville,1
+2026-10,Georgia,Columbus,7
+2026-10,Georgia,Conyers,3
+2026-10,Georgia,Covington,8
+2026-10,Georgia,Cumming,6
+2026-10,Georgia,Dacula,1
+2026-10,Georgia,Dahlonega,2
+2026-10,Georgia,Dalton,3
+2026-10,Georgia,Dawsonville,2
+2026-10,Georgia,Decatur,26
+2026-10,Georgia,Douglasville,11
+2026-10,Georgia,Dublin,3
+2026-10,Georgia,Duluth,2
+2026-10,Georgia,Evans,1
+2026-10,Georgia,Fairburn,2
+2026-10,Georgia,Fayetteville,2
+2026-10,Georgia,Flowery Branch,2
+2026-10,Georgia,Gainesville,5
+2026-10,Georgia,Grantville,2
+2026-10,Georgia,Grayson,1
+2026-10,Georgia,Griffin,3
+2026-10,Georgia,Grovetown,4
+2026-10,Georgia,Hampton,2
+2026-10,Georgia,Hartwell,1
+2026-10,Georgia,Hawkinsville,1
+2026-10,Georgia,Hephzibah,1
+2026-10,Georgia,Hinesville,6
+2026-10,Georgia,Jackson,2
+2026-10,Georgia,Jonesboro,9
+2026-10,Georgia,Kennesaw,24
+2026-10,Georgia,La Grange,2
+2026-10,Georgia,Lawrenceville,5
+2026-10,Georgia,Lilburn,2
+2026-10,Georgia,Lithia Springs,1
+2026-10,Georgia,Lithonia,2
+2026-10,Georgia,Loganville,2
+2026-10,Georgia,Mableton,1
+2026-10,Georgia,Macon,4
+2026-10,Georgia,Marietta,8
+2026-10,Georgia,Metter,1
+2026-10,Georgia,Milledgeville,2
+2026-10,Georgia,Monroe,1
+2026-10,Georgia,Monticello,1
+2026-10,Georgia,Morrow,1
+2026-10,Georgia,Nahunta,1
+2026-10,Georgia,Nashville,1
+2026-10,Georgia,Newnan,2
+2026-10,Georgia,Norcross,11
+2026-10,Georgia,Peachtree City,1
+2026-10,Georgia,Pearson,1
+2026-10,Georgia,Perry,2
+2026-10,Georgia,Pooler,1
+2026-10,Georgia,Powder Springs,4
+2026-10,Georgia,Rex,1
+2026-10,Georgia,Rincon,1
+2026-10,Georgia,Riverdale,3
+2026-10,Georgia,Rome,2
+2026-10,Georgia,Rossville,3
+2026-10,Georgia,Roswell,2
+2026-10,Georgia,Sandersville,1
+2026-10,Georgia,Savannah,4
+2026-10,Georgia,Senoia,1
+2026-10,Georgia,Sharpsburg,1
+2026-10,Georgia,Smyrna,5
+2026-10,Georgia,Snellville,4
+2026-10,Georgia,South Fulton,3
+2026-10,Georgia,Statesboro,1
+2026-10,Georgia,Stockbridge,2
+2026-10,Georgia,Stone Mountain,2
+2026-10,Georgia,Suwanee,3
+2026-10,Georgia,Talbotton,1
+2026-10,Georgia,Tifton,2
+2026-10,Georgia,Toccoa,2
+2026-10,Georgia,Townsend,3
+2026-10,Georgia,Tucker,4
+2026-10,Georgia,Union City,3
+2026-10,Georgia,Unknown,34
+2026-10,Georgia,Valdosta,6
+2026-10,Georgia,Warner Robins,3
+2026-10,Georgia,Winder,4
+2026-10,Georgia,Woodstock,6
+2026-10,Hawaii,Hilo,1
+2026-10,Hawaii,Holualoa,1
+2026-10,Hawaii,Honolulu,24
+2026-10,Hawaii,Kailua-Kona,1
+2026-10,Hawaii,Lihue,1
+2026-10,Hawaii,Mililani Town,3
+2026-10,Hawaii,Pearl City,4
+2026-10,Hawaii,Unknown,1
+2026-10,Hawaii,Waianae,1
+2026-10,Hawaii,Wailuku,1
+2026-10,Hawaii,Waimea,1
+2026-10,Hawaii,Waipahu,1
+2026-10,Hawaii,‘Aiea,1
+2026-10,Idaho,Boise,45
+2026-10,Idaho,Eagle,1
+2026-10,Idaho,Fruitland,1
+2026-10,Idaho,Hailey,3
+2026-10,Idaho,Moscow,3
+2026-10,Idaho,Nampa,2
+2026-10,Idaho,Pocatello,1
+2026-10,Idaho,Unknown,6
+2026-10,Illinois,Addison,4
+2026-10,Illinois,Antioch,3
+2026-10,Illinois,Arlington Heights,3
+2026-10,Illinois,Aurora,7
+2026-10,Illinois,Bartlett,2
+2026-10,Illinois,Belleville,11
+2026-10,Illinois,Bellwood,1
+2026-10,Illinois,Belvidere,2
+2026-10,Illinois,Bensenville,1
+2026-10,Illinois,Berwyn,1
+2026-10,Illinois,Bloomington,1
+2026-10,Illinois,Bolingbrook,1
+2026-10,Illinois,Bridgeview,1
+2026-10,Illinois,Buffalo Grove,3
+2026-10,Illinois,Calumet City,4
+2026-10,Illinois,Carol Stream,1
+2026-10,Illinois,Champaign,1
+2026-10,Illinois,Chicago,504
+2026-10,Illinois,Chicago Heights,1
+2026-10,Illinois,Cicero,12
+2026-10,Illinois,Crete,1
+2026-10,Illinois,Decatur,1
+2026-10,Illinois,Des Plaines,2
+2026-10,Illinois,Dolton,1
+2026-10,Illinois,Downers Grove,1
+2026-10,Illinois,Du Quoin,5
+2026-10,Illinois,East Saint Louis,3
+2026-10,Illinois,Edwardsville,1
+2026-10,Illinois,Effingham,2
+2026-10,Illinois,Elgin,7
+2026-10,Illinois,Elk Grove Village,3
+2026-10,Illinois,Evanston,3
+2026-10,Illinois,Fairbury,5
+2026-10,Illinois,Geneseo,1
+2026-10,Illinois,Glenview,2
+2026-10,Illinois,Glenwood,7
+2026-10,Illinois,Hanover Park,1
+2026-10,Illinois,Harvey,3
+2026-10,Illinois,Homer Glen,1
+2026-10,Illinois,Industry,1
+2026-10,Illinois,Joliet,2
+2026-10,Illinois,La Grange,3
+2026-10,Illinois,La Salle,1
+2026-10,Illinois,Lake Bluff,3
+2026-10,Illinois,Lake Villa,1
+2026-10,Illinois,Lansing,2
+2026-10,Illinois,Lemont,2
+2026-10,Illinois,Lincolnshire,1
+2026-10,Illinois,Lisle,1
+2026-10,Illinois,Lockport,1
+2026-10,Illinois,Lombard,3
+2026-10,Illinois,Lyons,2
+2026-10,Illinois,Machesney Park,1
+2026-10,Illinois,Maryville,1
+2026-10,Illinois,Matteson,1
+2026-10,Illinois,McHenry,5
+2026-10,Illinois,Moline,3
+2026-10,Illinois,Morton Grove,30
+2026-10,Illinois,Mundelein,3
+2026-10,Illinois,Murphysboro,1
+2026-10,Illinois,Naperville,6
+2026-10,Illinois,Niles,1
+2026-10,Illinois,Norridge,1
+2026-10,Illinois,Oak Forest,2
+2026-10,Illinois,Oak Lawn,2
+2026-10,Illinois,Oak Park,2
+2026-10,Illinois,Orland Park,3
+2026-10,Illinois,Ottawa,1
+2026-10,Illinois,Palatine,1
+2026-10,Illinois,Palos Hills,1
+2026-10,Illinois,Peoria,3
+2026-10,Illinois,Plainfield,2
+2026-10,Illinois,Quincy,1
+2026-10,Illinois,Rockford,8
+2026-10,Illinois,Romeoville,2
+2026-10,Illinois,Schaumburg,10
+2026-10,Illinois,Silvis,1
+2026-10,Illinois,Skokie,1
+2026-10,Illinois,South Holland,2
+2026-10,Illinois,Springfield,4
+2026-10,Illinois,Staunton,1
+2026-10,Illinois,Swansea,1
+2026-10,Illinois,Sycamore,1
+2026-10,Illinois,Tinley Park,2
+2026-10,Illinois,Unknown,8
+2026-10,Illinois,Urbana,1
+2026-10,Illinois,Wauconda,3
+2026-10,Illinois,Waukegan,3
+2026-10,Illinois,Westchester,3
+2026-10,Illinois,Wheaton,2
+2026-10,Illinois,Willowbrook,1
+2026-10,Illinois,Wilmette,1
+2026-10,Illinois,Winnetka,1
+2026-10,Illinois,Woodridge,1
+2026-10,Illinois,Worth,1
+2026-10,Illinois,Zion,3
+2026-10,Indiana,Anderson,1
+2026-10,Indiana,Avon,1
+2026-10,Indiana,Bargersville,2
+2026-10,Indiana,Bloomington,10
+2026-10,Indiana,Camby,1
+2026-10,Indiana,Columbus,4
+2026-10,Indiana,Crown Point,2
+2026-10,Indiana,DeMotte,2
+2026-10,Indiana,Elkhart,3
+2026-10,Indiana,Evansville,6
+2026-10,Indiana,Fishers,1
+2026-10,Indiana,Fort Wayne,10
+2026-10,Indiana,Fortville,1
+2026-10,Indiana,Fowler,1
+2026-10,Indiana,Gary,3
+2026-10,Indiana,Greenfield,2
+2026-10,Indiana,Hammond,3
+2026-10,Indiana,Hobart,3
+2026-10,Indiana,Indianapolis,59
+2026-10,Indiana,Jeffersonville,2
+2026-10,Indiana,Lafayette,1
+2026-10,Indiana,Martinsville,1
+2026-10,Indiana,Middlebury,1
+2026-10,Indiana,Mishawaka,2
+2026-10,Indiana,Munster,1
+2026-10,Indiana,New Albany,12
+2026-10,Indiana,Noblesville,3
+2026-10,Indiana,Rensselaer,1
+2026-10,Indiana,Richmond,1
+2026-10,Indiana,Salem,1
+2026-10,Indiana,Seymour,2
+2026-10,Indiana,South Bend,2
+2026-10,Indiana,Terre Haute,1
+2026-10,Indiana,Unknown,3
+2026-10,Indiana,Valparaiso,1
+2026-10,Indiana,Warsaw,1
+2026-10,Indiana,West Lafayette,2
+2026-10,Indiana,Wheatfield,2
+2026-10,Iowa,Cedar Rapids,1
+2026-10,Iowa,Des Moines,31
+2026-10,Iowa,Dubuque,2
+2026-10,Iowa,Estherville,1
+2026-10,Iowa,Humeston,1
+2026-10,Iowa,Iowa City,2
+2026-10,Iowa,Johnston,1
+2026-10,Iowa,Marion,1
+2026-10,Iowa,Newton,1
+2026-10,Iowa,Plymouth,2
+2026-10,Iowa,Sidney,1
+2026-10,Iowa,Spirit Lake,2
+2026-10,Iowa,Urbandale,3
+2026-10,Iowa,Wellman,1
+2026-10,Iowa,Welton,2
+2026-10,Iowa,West Des Moines,6
+2026-10,Kansas,Derby,1
+2026-10,Kansas,Kansas City,5
+2026-10,Kansas,Lawrence,2
+2026-10,Kansas,Leavenworth,4
+2026-10,Kansas,Manhattan,2
+2026-10,Kansas,Moundridge,1
+2026-10,Kansas,Olathe,6
+2026-10,Kansas,Overland Park,3
+2026-10,Kansas,Roeland Park,1
+2026-10,Kansas,Salina,1
+2026-10,Kansas,Shawnee,4
+2026-10,Kansas,Topeka,2
+2026-10,Kansas,Wichita,6
+2026-10,Kentucky,Alexandria,1
+2026-10,Kentucky,Alvaton,1
+2026-10,Kentucky,Ashland,1
+2026-10,Kentucky,Bowling Green,1
+2026-10,Kentucky,Covington,2
+2026-10,Kentucky,Edgewood,1
+2026-10,Kentucky,Edmonton,1
+2026-10,Kentucky,Elizabethtown,2
+2026-10,Kentucky,Florence,4
+2026-10,Kentucky,Fort Thomas,3
+2026-10,Kentucky,Harold,1
+2026-10,Kentucky,Hartford,3
+2026-10,Kentucky,Hebron,1
+2026-10,Kentucky,Lexington,8
+2026-10,Kentucky,Liberty,1
+2026-10,Kentucky,London,1
+2026-10,Kentucky,Louisa,1
+2026-10,Kentucky,Louisville,61
+2026-10,Kentucky,Owensboro,9
+2026-10,Kentucky,Paducah,2
+2026-10,Kentucky,Pikeville,1
+2026-10,Kentucky,Pine Knot,1
+2026-10,Kentucky,Richmond,1
+2026-10,Kentucky,Shepherdsville,2
+2026-10,Kentucky,Taylorsville,1
+2026-10,Kentucky,Union,1
+2026-10,Kentucky,Unknown,2
+2026-10,Kentucky,West Liberty,1
+2026-10,Kentucky,Winchester,1
+2026-10,Louisiana,Addis,1
+2026-10,Louisiana,Bastrop,1
+2026-10,Louisiana,Baton Rouge,14
+2026-10,Louisiana,Bossier City,2
+2026-10,Louisiana,Breaux Bridge,1
+2026-10,Louisiana,Crowley,2
+2026-10,Louisiana,Gonzales,1
+2026-10,Louisiana,Gretna,2
+2026-10,Louisiana,Houma,1
+2026-10,Louisiana,Lafayette,3
+2026-10,Louisiana,Lake Charles,3
+2026-10,Louisiana,Mandeville,1
+2026-10,Louisiana,Metairie,1
+2026-10,Louisiana,Monroe,1
+2026-10,Louisiana,Natchitoches,1
+2026-10,Louisiana,New Iberia,2
+2026-10,Louisiana,New Orleans,27
+2026-10,Louisiana,Plaquemine,1
+2026-10,Louisiana,Ponchatoula,3
+2026-10,Louisiana,Prairieville,1
+2026-10,Louisiana,Ruston,1
+2026-10,Louisiana,Shreveport,3
+2026-10,Louisiana,Springhill,1
+2026-10,Louisiana,Thibodaux,1
+2026-10,Louisiana,Unknown,1
+2026-10,Louisiana,Youngsville,1
+2026-10,Maine,Alna,1
+2026-10,Maine,Anson,1
+2026-10,Maine,Auburn,1
+2026-10,Maine,Bangor,12
+2026-10,Maine,Bath,1
+2026-10,Maine,Caribou,3
+2026-10,Maine,Chebeague Island,2
+2026-10,Maine,Falmouth,1
+2026-10,Maine,Freeport,4
+2026-10,Maine,Holden,15
+2026-10,Maine,Kennebunkport,1
+2026-10,Maine,Livermore Falls,1
+2026-10,Maine,Pittsfield,2
+2026-10,Maine,Portland,8
+2026-10,Maine,Rockland,2
+2026-10,Maine,Saco,8
+2026-10,Maine,Scarborough,3
+2026-10,Maine,South Portland,4
+2026-10,Maine,Wells,1
+2026-10,Maine,Windham Center,1
+2026-10,Maine,Woolwich,1
+2026-10,Maryland,Aberdeen,3
+2026-10,Maryland,Abingdon,1
+2026-10,Maryland,Accokeek,1
+2026-10,Maryland,Annapolis,3
+2026-10,Maryland,Baltimore,66
+2026-10,Maryland,Beltsville,2
+2026-10,Maryland,Bethesda,18
+2026-10,Maryland,Bowie,5
+2026-10,Maryland,California,2
+2026-10,Maryland,Capitol Heights,1
+2026-10,Maryland,Catonsville,1
+2026-10,Maryland,Chevy Chase,1
+2026-10,Maryland,Clements,1
+2026-10,Maryland,College Park,1
+2026-10,Maryland,Columbia,3
+2026-10,Maryland,Crofton,1
+2026-10,Maryland,Damascus,1
+2026-10,Maryland,District Heights,2
+2026-10,Maryland,Dundalk,7
+2026-10,Maryland,Easton,1
+2026-10,Maryland,Edgewater,1
+2026-10,Maryland,Edgewood,1
+2026-10,Maryland,Elkridge,4
+2026-10,Maryland,Ellicott City,2
+2026-10,Maryland,Essex,3
+2026-10,Maryland,Frederick,4
+2026-10,Maryland,Ft. Washington,7
+2026-10,Maryland,Gaithersburg,13
+2026-10,Maryland,Germantown,3
+2026-10,Maryland,Glen Burnie,1
+2026-10,Maryland,Great Mills,1
+2026-10,Maryland,Greenbelt,1
+2026-10,Maryland,Gwynn Oak,1
+2026-10,Maryland,Hagerstown,1
+2026-10,Maryland,Halethorpe,1
+2026-10,Maryland,Huntingtown,1
+2026-10,Maryland,Hyattsville,14
+2026-10,Maryland,La Plata,2
+2026-10,Maryland,Lanham,8
+2026-10,Maryland,Laurel,3
+2026-10,Maryland,Leonardtown,1
+2026-10,Maryland,Lexington Park,2
+2026-10,Maryland,Mechanicsville,1
+2026-10,Maryland,Middle River,2
+2026-10,Maryland,Montgomery Village,2
+2026-10,Maryland,Mount Rainier,1
+2026-10,Maryland,Owings Mills,3
+2026-10,Maryland,Oxon Hill,1
+2026-10,Maryland,Parkville,2
+2026-10,Maryland,Pasadena,2
+2026-10,Maryland,Potomac,2
+2026-10,Maryland,Prince Frederick,1
+2026-10,Maryland,Randallstown,2
+2026-10,Maryland,Rockville,5
+2026-10,Maryland,Saint Michaels,7
+2026-10,Maryland,Salisbury,2
+2026-10,Maryland,Severn,2
+2026-10,Maryland,Silver Spring,73
+2026-10,Maryland,Sykesville,1
+2026-10,Maryland,Takoma Park,1
+2026-10,Maryland,Temple Hills,1
+2026-10,Maryland,Thurmont,5
+2026-10,Maryland,Towson,4
+2026-10,Maryland,Unknown,3
+2026-10,Maryland,Upper Marlboro,10
+2026-10,Maryland,Waldorf,4
+2026-10,Maryland,White Plains,1
+2026-10,Maryland,Windsor Mill,8
+2026-10,Massachusetts,Acton,2
+2026-10,Massachusetts,Acushnet,3
+2026-10,Massachusetts,Amherst,1
+2026-10,Massachusetts,Andover,1
+2026-10,Massachusetts,Attleboro,2
+2026-10,Massachusetts,Belmont,5
+2026-10,Massachusetts,Billerica,6
+2026-10,Massachusetts,Boston,171
+2026-10,Massachusetts,Braintree,3
+2026-10,Massachusetts,Brewster,1
+2026-10,Massachusetts,Brighton,1
+2026-10,Massachusetts,Brockton,12
+2026-10,Massachusetts,Brookline,5
+2026-10,Massachusetts,Cambridge,15
+2026-10,Massachusetts,Canton,1
+2026-10,Massachusetts,Carver,3
+2026-10,Massachusetts,Charlestown,2
+2026-10,Massachusetts,Charlton,1
+2026-10,Massachusetts,Chelmsford,2
+2026-10,Massachusetts,Chelsea,3
+2026-10,Massachusetts,Chester,1
+2026-10,Massachusetts,Chestnut Hill,3
+2026-10,Massachusetts,Danvers,1
+2026-10,Massachusetts,Dorchester,8
+2026-10,Massachusetts,Eastham,1
+2026-10,Massachusetts,Easthampton,1
+2026-10,Massachusetts,Everett,9
+2026-10,Massachusetts,Fairhaven,2
+2026-10,Massachusetts,Fall River,2
+2026-10,Massachusetts,Franklin,2
+2026-10,Massachusetts,Georgetown,1
+2026-10,Massachusetts,Gloucester,2
+2026-10,Massachusetts,Great Barrington,3
+2026-10,Massachusetts,Hadley,1
+2026-10,Massachusetts,Hanover,1
+2026-10,Massachusetts,Hingham,6
+2026-10,Massachusetts,Holyoke,1
+2026-10,Massachusetts,Hyde Park,1
+2026-10,Massachusetts,Ipswich,12
+2026-10,Massachusetts,Jamaica Plain,6
+2026-10,Massachusetts,Lawrence,3
+2026-10,Massachusetts,Lee,2
+2026-10,Massachusetts,Leominster,2
+2026-10,Massachusetts,Lowell,3
+2026-10,Massachusetts,Ludlow,1
+2026-10,Massachusetts,Lynn,4
+2026-10,Massachusetts,Malden,7
+2026-10,Massachusetts,Mattapan,5
+2026-10,Massachusetts,Medford,2
+2026-10,Massachusetts,Methuen,1
+2026-10,Massachusetts,Middleboro,1
+2026-10,Massachusetts,Milford,1
+2026-10,Massachusetts,Milton,1
+2026-10,Massachusetts,Natick,1
+2026-10,Massachusetts,Needham,11
+2026-10,Massachusetts,New Bedford,1
+2026-10,Massachusetts,Newburyport,1
+2026-10,Massachusetts,Newton,13
+2026-10,Massachusetts,Newton Center,1
+2026-10,Massachusetts,Newtonville,3
+2026-10,Massachusetts,North Attleboro,1
+2026-10,Massachusetts,North Billerica,1
+2026-10,Massachusetts,North Dartmouth,1
+2026-10,Massachusetts,North Oxford,2
+2026-10,Massachusetts,Northampton,1
+2026-10,Massachusetts,Norwood,4
+2026-10,Massachusetts,Peabody,1
+2026-10,Massachusetts,Pittsfield,3
+2026-10,Massachusetts,Quincy,4
+2026-10,Massachusetts,Randolph,2
+2026-10,Massachusetts,Rehoboth,1
+2026-10,Massachusetts,Revere,4
+2026-10,Massachusetts,Rochester,1
+2026-10,Massachusetts,Salem,2
+2026-10,Massachusetts,Sheffield,1
+2026-10,Massachusetts,Shrewsbury,2
+2026-10,Massachusetts,Somerville,7
+2026-10,Massachusetts,Springfield,4
+2026-10,Massachusetts,Stoughton,1
+2026-10,Massachusetts,Sudbury,2
+2026-10,Massachusetts,Swansea,1
+2026-10,Massachusetts,Taunton,1
+2026-10,Massachusetts,Townsend,1
+2026-10,Massachusetts,Unknown,11
+2026-10,Massachusetts,Vineyard Haven,1
+2026-10,Massachusetts,Wakefield,14
+2026-10,Massachusetts,Walpole,4
+2026-10,Massachusetts,Waltham,9
+2026-10,Massachusetts,Watertown,9
+2026-10,Massachusetts,Wellesley,5
+2026-10,Massachusetts,West Roxbury,4
+2026-10,Massachusetts,West Springfield,1
+2026-10,Massachusetts,Westborough,1
+2026-10,Massachusetts,Weymouth,1
+2026-10,Massachusetts,Winthrop,2
+2026-10,Massachusetts,Woburn,4
+2026-10,Massachusetts,Worcester,5
+2026-10,Massachusetts,Wrentham,2
+2026-10,Michigan,Allendale,2
+2026-10,Michigan,Alma,1
+2026-10,Michigan,Alpena,2
+2026-10,Michigan,Alto,1
+2026-10,Michigan,Ann Arbor,5
+2026-10,Michigan,Auburn Hills,19
+2026-10,Michigan,Bay City,2
+2026-10,Michigan,Belding,1
+2026-10,Michigan,Belleville,2
+2026-10,Michigan,Benton Harbor,3
+2026-10,Michigan,Birmingham,1
+2026-10,Michigan,Bloomfield Hills,2
+2026-10,Michigan,Brighton,1
+2026-10,Michigan,Canton,4
+2026-10,Michigan,Center Line,2
+2026-10,Michigan,Chesaning,1
+2026-10,Michigan,Clarkston,1
+2026-10,Michigan,Clinton Township,3
+2026-10,Michigan,Commerce,1
+2026-10,Michigan,Dearborn,5
+2026-10,Michigan,Dearborn Heights,1
+2026-10,Michigan,Detroit,103
+2026-10,Michigan,East Lansing,1
+2026-10,Michigan,Eastpointe,1
+2026-10,Michigan,Erie,1
+2026-10,Michigan,Farmington Hills,1
+2026-10,Michigan,Flint,4
+2026-10,Michigan,Garden City,3
+2026-10,Michigan,Grand Blanc,2
+2026-10,Michigan,Grand Haven,1
+2026-10,Michigan,Grand Rapids,32
+2026-10,Michigan,Grosse Pointe,1
+2026-10,Michigan,Grosse Pointe Park,1
+2026-10,Michigan,Grosse Pointe Woods,3
+2026-10,Michigan,Hamtramck,3
+2026-10,Michigan,Harrison,2
+2026-10,Michigan,Holland,11
+2026-10,Michigan,Holt,1
+2026-10,Michigan,Howard City,3
+2026-10,Michigan,Hudsonville,1
+2026-10,Michigan,Jackson,1
+2026-10,Michigan,Laingsburg,1
+2026-10,Michigan,Lake Orion,1
+2026-10,Michigan,Lansing,7
+2026-10,Michigan,Lawton,1
+2026-10,Michigan,Lincoln Park,2
+2026-10,Michigan,Livonia,1
+2026-10,Michigan,Macomb,1
+2026-10,Michigan,Madison Heights,1
+2026-10,Michigan,Mancelona,1
+2026-10,Michigan,Manistee,1
+2026-10,Michigan,Melvindale,1
+2026-10,Michigan,Midland,1
+2026-10,Michigan,New Baltimore,4
+2026-10,Michigan,Newport,1
+2026-10,Michigan,Novi,2
+2026-10,Michigan,Oak Park,3
+2026-10,Michigan,Onsted,1
+2026-10,Michigan,Petoskey,1
+2026-10,Michigan,Rochester Hills,1
+2026-10,Michigan,Roscommon,1
+2026-10,Michigan,Roseville,1
+2026-10,Michigan,Royal Oak,4
+2026-10,Michigan,Saginaw,3
+2026-10,Michigan,Saline,1
+2026-10,Michigan,Sandusky,1
+2026-10,Michigan,Southfield,3
+2026-10,Michigan,Sterling Heights,3
+2026-10,Michigan,Sturgis,1
+2026-10,Michigan,Taylor,1
+2026-10,Michigan,Three Rivers,1
+2026-10,Michigan,Traverse City,3
+2026-10,Michigan,Trenton,1
+2026-10,Michigan,Troy,3
+2026-10,Michigan,Unknown,2
+2026-10,Michigan,Utica,1
+2026-10,Michigan,Walled Lake,1
+2026-10,Michigan,Warren,5
+2026-10,Michigan,Waterford,2
+2026-10,Michigan,West Bloomfield,4
+2026-10,Michigan,Ypsilanti,9
+2026-10,Minnesota,Alexandria,1
+2026-10,Minnesota,Andover,1
+2026-10,Minnesota,Blaine,1
+2026-10,Minnesota,Cambridge,2
+2026-10,Minnesota,Dawson,1
+2026-10,Minnesota,Duluth,15
+2026-10,Minnesota,Eden Prairie,1
+2026-10,Minnesota,Excelsior,2
+2026-10,Minnesota,Farmington,2
+2026-10,Minnesota,Grand Marais,1
+2026-10,Minnesota,Inver Grove Heights,1
+2026-10,Minnesota,Lakeville,2
+2026-10,Minnesota,Mankato,10
+2026-10,Minnesota,Maple Grove,5
+2026-10,Minnesota,Minneapolis,146
+2026-10,Minnesota,Moorhead,1
+2026-10,Minnesota,Morris,1
+2026-10,Minnesota,Prior Lake,1
+2026-10,Minnesota,Rochester,4
+2026-10,Minnesota,Rosemount,2
+2026-10,Minnesota,Saint Paul,38
+2026-10,Minnesota,Spring Grove,1
+2026-10,Minnesota,Unknown,18
+2026-10,Mississippi,Brandon,1
+2026-10,Mississippi,Brookhaven,1
+2026-10,Mississippi,Caledonia,1
+2026-10,Mississippi,Clinton,2
+2026-10,Mississippi,Columbus,1
+2026-10,Mississippi,Diamondhead,1
+2026-10,Mississippi,Fulton,2
+2026-10,Mississippi,Gautier,1
+2026-10,Mississippi,Greenville,1
+2026-10,Mississippi,Hattiesburg,1
+2026-10,Mississippi,Jackson,5
+2026-10,Mississippi,Kiln,1
+2026-10,Mississippi,Madison,2
+2026-10,Mississippi,Marks,1
+2026-10,Mississippi,Ocean Springs,1
+2026-10,Mississippi,Oxford,6
+2026-10,Mississippi,Pearl,2
+2026-10,Mississippi,Pontotoc,1
+2026-10,Mississippi,Poplarville,1
+2026-10,Mississippi,Purvis,1
+2026-10,Mississippi,Saltillo,2
+2026-10,Mississippi,Starkville,3
+2026-10,Mississippi,Tupelo,1
+2026-10,Mississippi,Unknown,1
+2026-10,Mississippi,Vancleave,2
+2026-10,Missouri,Cape Girardeau,2
+2026-10,Missouri,Chesterfield,5
+2026-10,Missouri,City of Saint Peters,4
+2026-10,Missouri,Columbia,1
+2026-10,Missouri,Fenton,1
+2026-10,Missouri,Ferguson,1
+2026-10,Missouri,Florissant,8
+2026-10,Missouri,Fulton,1
+2026-10,Missouri,Independence,1
+2026-10,Missouri,Jefferson City,1
+2026-10,Missouri,Kansas City,34
+2026-10,Missouri,Lake Saint Louis,1
+2026-10,Missouri,Lee's Summit,1
+2026-10,Missouri,Liberty,2
+2026-10,Missouri,Malden,1
+2026-10,Missouri,Moberly,3
+2026-10,Missouri,Neosho,2
+2026-10,Missouri,Nixa,1
+2026-10,Missouri,O'Fallon,1
+2026-10,Missouri,Oregon,3
+2026-10,Missouri,Overland,14
+2026-10,Missouri,Rogersville,1
+2026-10,Missouri,Saint Ann,1
+2026-10,Missouri,Saint Joseph,1
+2026-10,Missouri,Springfield,6
+2026-10,Missouri,Unknown,9
+2026-10,Montana,Bigfork,1
+2026-10,Montana,Billings,2
+2026-10,Montana,Bozeman,4
+2026-10,Montana,Eureka,1
+2026-10,Montana,Glendive,1
+2026-10,Montana,Helena,3
+2026-10,Montana,Joliet,1
+2026-10,Montana,Missoula,2
+2026-10,Nebraska,Bellevue,2
+2026-10,Nebraska,Elkhorn,1
+2026-10,Nebraska,Hastings,1
+2026-10,Nebraska,La Vista,2
+2026-10,Nebraska,Lincoln,4
+2026-10,Nebraska,Omaha,25
+2026-10,Nebraska,Pender,1
+2026-10,Nevada,Henderson,4
+2026-10,Nevada,Incline Village,1
+2026-10,Nevada,Las Vegas,191
+2026-10,Nevada,Mesquite,1
+2026-10,Nevada,North Las Vegas,7
+2026-10,Nevada,Paradise,3
+2026-10,Nevada,Reno,7
+2026-10,Nevada,Unknown,3
+2026-10,Nevada,Wells,1
+2026-10,New Hampshire,Andover,1
+2026-10,New Hampshire,Barrington,1
+2026-10,New Hampshire,Berlin,1
+2026-10,New Hampshire,Dover,5
+2026-10,New Hampshire,Manchester,10
+2026-10,New Hampshire,Merrimack,3
+2026-10,New Hampshire,Portsmouth,5
+2026-10,New Jersey,Asbury Park,4
+2026-10,New Jersey,Avenel,2
+2026-10,New Jersey,Barnegat,3
+2026-10,New Jersey,Bayonne,7
+2026-10,New Jersey,Belmar,4
+2026-10,New Jersey,Bergenfield,7
+2026-10,New Jersey,Blairstown,1
+2026-10,New Jersey,Bloomfield,3
+2026-10,New Jersey,Boonton,1
+2026-10,New Jersey,Bricktown,1
+2026-10,New Jersey,Bridgewater,2
+2026-10,New Jersey,Camden,3
+2026-10,New Jersey,Carteret,1
+2026-10,New Jersey,Cedar Knolls,4
+2026-10,New Jersey,Cherry Hill,12
+2026-10,New Jersey,Cliffside Park,1
+2026-10,New Jersey,Clifton,16
+2026-10,New Jersey,Cresskill,1
+2026-10,New Jersey,Denville,1
+2026-10,New Jersey,East Brunswick,3
+2026-10,New Jersey,East Orange,8
+2026-10,New Jersey,Edgewater,1
+2026-10,New Jersey,Edison,6
+2026-10,New Jersey,Egg Harbor Township,2
+2026-10,New Jersey,Elizabeth,15
+2026-10,New Jersey,Elmwood Park,1
+2026-10,New Jersey,Englewood,1
+2026-10,New Jersey,Flemington,1
+2026-10,New Jersey,Fort Lee,6
+2026-10,New Jersey,Freehold,3
+2026-10,New Jersey,Galloway,1
+2026-10,New Jersey,Garfield,1
+2026-10,New Jersey,Glendora,2
+2026-10,New Jersey,Hackensack,5
+2026-10,New Jersey,Hackettstown,2
+2026-10,New Jersey,Haddonfield,1
+2026-10,New Jersey,Hazlet,1
+2026-10,New Jersey,Hightstown,2
+2026-10,New Jersey,Hoboken,27
+2026-10,New Jersey,Hoffman,3
+2026-10,New Jersey,Howell Township,1
+2026-10,New Jersey,Irvington,18
+2026-10,New Jersey,Iselin,1
+2026-10,New Jersey,Jersey City,56
+2026-10,New Jersey,Kearny,2
+2026-10,New Jersey,Kendall Park,1
+2026-10,New Jersey,Lakewood,1
+2026-10,New Jersey,Landing,1
+2026-10,New Jersey,Lawrenceville,7
+2026-10,New Jersey,Lincoln Park,1
+2026-10,New Jersey,Little Falls,2
+2026-10,New Jersey,Lodi,2
+2026-10,New Jersey,Long Branch,1
+2026-10,New Jersey,Lyndhurst,2
+2026-10,New Jersey,Madison,1
+2026-10,New Jersey,Mahwah,1
+2026-10,New Jersey,Manalapan,1
+2026-10,New Jersey,Maple Shade Township,1
+2026-10,New Jersey,Maplewood,22
+2026-10,New Jersey,Marlboro,1
+2026-10,New Jersey,Marlton,4
+2026-10,New Jersey,Mays Landing,1
+2026-10,New Jersey,Metuchen,1
+2026-10,New Jersey,Middlesex,1
+2026-10,New Jersey,Middletown,9
+2026-10,New Jersey,Montclair,10
+2026-10,New Jersey,Morristown,5
+2026-10,New Jersey,Mount Holly,5
+2026-10,New Jersey,Mount Laurel,7
+2026-10,New Jersey,Neptune City,1
+2026-10,New Jersey,New Providence,1
+2026-10,New Jersey,Newark,130
+2026-10,New Jersey,Newton,1
+2026-10,New Jersey,Nutley,1
+2026-10,New Jersey,Ocean City,1
+2026-10,New Jersey,Old Bridge,1
+2026-10,New Jersey,Oradell,1
+2026-10,New Jersey,Palisades Park,1
+2026-10,New Jersey,Paramus,2
+2026-10,New Jersey,Parsippany,12
+2026-10,New Jersey,Passaic,3
+2026-10,New Jersey,Paterson,5
+2026-10,New Jersey,Pennsauken,1
+2026-10,New Jersey,Perth Amboy,1
+2026-10,New Jersey,Piscataway,8
+2026-10,New Jersey,Plainfield,5
+2026-10,New Jersey,Pompton Plains,1
+2026-10,New Jersey,Princeton,1
+2026-10,New Jersey,Rahway,8
+2026-10,New Jersey,Ridgefield Park,6
+2026-10,New Jersey,Ridgewood,1
+2026-10,New Jersey,Riverside,1
+2026-10,New Jersey,Rochelle Park,1
+2026-10,New Jersey,Rockaway,1
+2026-10,New Jersey,Roselle,2
+2026-10,New Jersey,Roselle Park,1
+2026-10,New Jersey,Rutherford,2
+2026-10,New Jersey,Sayreville,2
+2026-10,New Jersey,Scotch Plains,1
+2026-10,New Jersey,Short Hills,3
+2026-10,New Jersey,Shrewsbury,1
+2026-10,New Jersey,Sicklerville,1
+2026-10,New Jersey,Somerset,4
+2026-10,New Jersey,South Orange,2
+2026-10,New Jersey,Springfield,1
+2026-10,New Jersey,Swedesboro,1
+2026-10,New Jersey,Teaneck,6
+2026-10,New Jersey,Thorofare,1
+2026-10,New Jersey,Toms River,1
+2026-10,New Jersey,Trenton,3
+2026-10,New Jersey,Union,19
+2026-10,New Jersey,Union City,10
+2026-10,New Jersey,Unknown,4
+2026-10,New Jersey,Vineland,2
+2026-10,New Jersey,Voorhees Township,2
+2026-10,New Jersey,Washington,1
+2026-10,New Jersey,Wayne,6
+2026-10,New Jersey,Weehawken,6
+2026-10,New Jersey,West New York,2
+2026-10,New Jersey,West Orange,5
+2026-10,New Jersey,Westfield,1
+2026-10,New Jersey,Westville,1
+2026-10,New Jersey,Westwood,1
+2026-10,New Jersey,Whippany,1
+2026-10,New Jersey,Whiting,1
+2026-10,New Jersey,Williamstown,1
+2026-10,New Jersey,Wood-Ridge,1
+2026-10,New Jersey,Woodbridge,1
+2026-10,New Jersey,Woodbury,1
+2026-10,New Jersey,Woodstown,1
+2026-10,New Mexico,Albuquerque,30
+2026-10,New Mexico,Clovis,1
+2026-10,New Mexico,Dulce,1
+2026-10,New Mexico,Las Cruces,5
+2026-10,New Mexico,Lovington,1
+2026-10,New Mexico,Rio Rancho,1
+2026-10,New Mexico,Santa Fe,6
+2026-10,New Mexico,Taos,1
+2026-10,New York,Akron,1
+2026-10,New York,Albany,14
+2026-10,New York,Amityville,1
+2026-10,New York,Amsterdam,2
+2026-10,New York,Auburn,2
+2026-10,New York,Babylon,4
+2026-10,New York,Baldwinsville,1
+2026-10,New York,Bay Shore,3
+2026-10,New York,Bedford,3
+2026-10,New York,Bellmore,5
+2026-10,New York,Bellport,1
+2026-10,New York,Bloomingburg,1
+2026-10,New York,Brentwood,1
+2026-10,New York,Bronxville,1
+2026-10,New York,Brooklyn,1056
+2026-10,New York,Buffalo,71
+2026-10,New York,Callicoon,3
+2026-10,New York,Canajoharie,1
+2026-10,New York,Canastota,1
+2026-10,New York,Carmel,1
+2026-10,New York,Catskill,1
+2026-10,New York,Centereach,1
+2026-10,New York,Chappaqua,1
+2026-10,New York,Clinton Corners,1
+2026-10,New York,Cobleskill,1
+2026-10,New York,Commack,2
+2026-10,New York,Cortland,5
+2026-10,New York,Cortlandt Manor,3
+2026-10,New York,Croton-on-Hudson,1
+2026-10,New York,Deer Park,3
+2026-10,New York,Delevan,1
+2026-10,New York,Depew,1
+2026-10,New York,Dobbs Ferry,3
+2026-10,New York,East Hampton,2
+2026-10,New York,East Northport,6
+2026-10,New York,East Setauket,1
+2026-10,New York,Elmont,1
+2026-10,New York,Farmingdale,1
+2026-10,New York,Fayetteville,1
+2026-10,New York,Fishkill,1
+2026-10,New York,Floral Park,3
+2026-10,New York,Freeport,1
+2026-10,New York,Fulton,1
+2026-10,New York,Ghent,6
+2026-10,New York,Glen Cove,2
+2026-10,New York,Glens Falls,4
+2026-10,New York,Goshen,1
+2026-10,New York,Grand Gorge,1
+2026-10,New York,Hamburg,2
+2026-10,New York,Hempstead,7
+2026-10,New York,Herkimer,2
+2026-10,New York,Hewlett,1
+2026-10,New York,Hicksville,1
+2026-10,New York,High Falls,1
+2026-10,New York,Highland,2
+2026-10,New York,Hopewell Junction,3
+2026-10,New York,Hudson,11
+2026-10,New York,Huntington,1
+2026-10,New York,Huntington Station,2
+2026-10,New York,Irvington,1
+2026-10,New York,Ithaca,7
+2026-10,New York,Jamestown,6
+2026-10,New York,Johnson City,1
+2026-10,New York,Kerhonkson,1
+2026-10,New York,Kingston,1
+2026-10,New York,Larchmont,7
+2026-10,New York,Latham,3
+2026-10,New York,Levittown,2
+2026-10,New York,Lindenhurst,1
+2026-10,New York,Liverpool,1
+2026-10,New York,Lockport,3
+2026-10,New York,Long Beach,3
+2026-10,New York,Lynbrook,3
+2026-10,New York,Mahopac,1
+2026-10,New York,Manhasset,1
+2026-10,New York,Marlboro,1
+2026-10,New York,Massapequa,4
+2026-10,New York,Mattituck,1
+2026-10,New York,Medford,3
+2026-10,New York,Merrick,1
+2026-10,New York,Middle Island,2
+2026-10,New York,Middletown,2
+2026-10,New York,Millbrook,1
+2026-10,New York,Miller Place,1
+2026-10,New York,Mineola,2
+2026-10,New York,Monroe,2
+2026-10,New York,Monticello,1
+2026-10,New York,Mount Kisco,2
+2026-10,New York,Mount Vernon,2
+2026-10,New York,Nanuet,22
+2026-10,New York,New Hyde Park,1
+2026-10,New York,New Rochelle,6
+2026-10,New York,New York,1436
+2026-10,New York,Newburgh,3
+2026-10,New York,North Babylon,1
+2026-10,New York,North Tonawanda,1
+2026-10,New York,Oceanside,1
+2026-10,New York,Ontario,1
+2026-10,New York,Ossining,3
+2026-10,New York,Oswego,1
+2026-10,New York,Pearl River,1
+2026-10,New York,Peekskill,1
+2026-10,New York,Plattsburgh,1
+2026-10,New York,Pleasantville,1
+2026-10,New York,Port Chester,1
+2026-10,New York,Port Jervis,2
+2026-10,New York,Port Washington,1
+2026-10,New York,Poughkeepsie,3
+2026-10,New York,Queens,327
+2026-10,New York,Rhinebeck,2
+2026-10,New York,Richfield Springs,1
+2026-10,New York,Rochester,12
+2026-10,New York,Rockville Centre,1
+2026-10,New York,Roscoe,1
+2026-10,New York,Rye,2
+2026-10,New York,Saratoga Springs,3
+2026-10,New York,Saugerties,8
+2026-10,New York,Schenectady,1
+2026-10,New York,Selden,1
+2026-10,New York,Shirley,1
+2026-10,New York,Sodus,2
+2026-10,New York,South Salem,1
+2026-10,New York,Southampton,3
+2026-10,New York,Staten Island,6
+2026-10,New York,Stony Brook,1
+2026-10,New York,Swan Lake,3
+2026-10,New York,Syosset,2
+2026-10,New York,Syracuse,7
+2026-10,New York,Tarrytown,3
+2026-10,New York,The Bronx,98
+2026-10,New York,Troy,3
+2026-10,New York,Ulster Park,10
+2026-10,New York,Uniondale,2
+2026-10,New York,Unknown,12
+2026-10,New York,Utica,4
+2026-10,New York,Valley Stream,3
+2026-10,New York,Wading River,1
+2026-10,New York,Wappingers Falls,5
+2026-10,New York,Webster,1
+2026-10,New York,West Babylon,2
+2026-10,New York,Westbury,2
+2026-10,New York,Westport,1
+2026-10,New York,Westvale,1
+2026-10,New York,White Plains,7
+2026-10,New York,Williston Park,1
+2026-10,New York,Windham,1
+2026-10,New York,Woodbury,1
+2026-10,New York,Yonkers,22
+2026-10,New York,Yorktown Heights,7
+2026-10,North Carolina,Apex,2
+2026-10,North Carolina,Asheboro,2
+2026-10,North Carolina,Asheville,4
+2026-10,North Carolina,Boone,1
+2026-10,North Carolina,Bunn,1
+2026-10,North Carolina,Burlington,2
+2026-10,North Carolina,Calabash,2
+2026-10,North Carolina,Carrboro,1
+2026-10,North Carolina,Carthage,1
+2026-10,North Carolina,Cary,1
+2026-10,North Carolina,Cashiers,1
+2026-10,North Carolina,Castle Hayne,1
+2026-10,North Carolina,Catawba,1
+2026-10,North Carolina,Chapel Hill,2
+2026-10,North Carolina,Charlotte,116
+2026-10,North Carolina,Cherryville,1
+2026-10,North Carolina,Clayton,5
+2026-10,North Carolina,Concord,4
+2026-10,North Carolina,Cornelius,1
+2026-10,North Carolina,Durham,13
+2026-10,North Carolina,East Bend,1
+2026-10,North Carolina,Elizabeth City,2
+2026-10,North Carolina,Fayetteville,8
+2026-10,North Carolina,Garner,2
+2026-10,North Carolina,Gastonia,1
+2026-10,North Carolina,Goldsboro,2
+2026-10,North Carolina,Greensboro,5
+2026-10,North Carolina,Greenville,1
+2026-10,North Carolina,Harrisburg,2
+2026-10,North Carolina,Havelock,2
+2026-10,North Carolina,Hickory,1
+2026-10,North Carolina,High Point,2
+2026-10,North Carolina,Holly Ridge,1
+2026-10,North Carolina,Huntersville,4
+2026-10,North Carolina,Indian Trail,3
+2026-10,North Carolina,Jefferson,2
+2026-10,North Carolina,Kannapolis,3
+2026-10,North Carolina,Kinston,1
+2026-10,North Carolina,Kitty Hawk,2
+2026-10,North Carolina,Laurinburg,2
+2026-10,North Carolina,Leland,5
+2026-10,North Carolina,Lexington,2
+2026-10,North Carolina,Lumberton,6
+2026-10,North Carolina,Marion,1
+2026-10,North Carolina,Mebane,1
+2026-10,North Carolina,Mocksville,1
+2026-10,North Carolina,Mooresville,1
+2026-10,North Carolina,Moravian Falls,1
+2026-10,North Carolina,Morganton,11
+2026-10,North Carolina,Mount Airy,1
+2026-10,North Carolina,Mount Holly,4
+2026-10,North Carolina,New Bern,2
+2026-10,North Carolina,Norman,1
+2026-10,North Carolina,Pembroke,1
+2026-10,North Carolina,Pittsboro,10
+2026-10,North Carolina,Raleigh,28
+2026-10,North Carolina,Ramseur,1
+2026-10,North Carolina,Reidsville,1
+2026-10,North Carolina,Roanoke Rapids,1
+2026-10,North Carolina,Roaring River,1
+2026-10,North Carolina,Robersonville,1
+2026-10,North Carolina,Rocky Mount,3
+2026-10,North Carolina,Sanford,2
+2026-10,North Carolina,Scotland Neck,1
+2026-10,North Carolina,Shelby,1
+2026-10,North Carolina,Smithfield,1
+2026-10,North Carolina,Spring Lake,1
+2026-10,North Carolina,Spruce Pine,1
+2026-10,North Carolina,Statesville,5
+2026-10,North Carolina,Steele Creek,7
+2026-10,North Carolina,Supply,1
+2026-10,North Carolina,Swansboro,1
+2026-10,North Carolina,Tarboro,1
+2026-10,North Carolina,Thomasville,1
+2026-10,North Carolina,Turkey,1
+2026-10,North Carolina,Unknown,10
+2026-10,North Carolina,Wake Forest,1
+2026-10,North Carolina,Washington,1
+2026-10,North Carolina,Waxhaw,3
+2026-10,North Carolina,Weaverville,1
+2026-10,North Carolina,Williamston,1
+2026-10,North Carolina,Wilmington,3
+2026-10,North Carolina,Wilson,1
+2026-10,North Carolina,Winston-Salem,5
+2026-10,North Carolina,Zebulon,1
+2026-10,North Dakota,Fargo,15
+2026-10,North Dakota,Minot,5
+2026-10,Ohio,Akron,19
+2026-10,Ohio,Amherst,2
+2026-10,Ohio,Athens,1
+2026-10,Ohio,Barberton,2
+2026-10,Ohio,Beachwood,2
+2026-10,Ohio,Bedford,1
+2026-10,Ohio,Bethel,1
+2026-10,Ohio,Bowling Green,1
+2026-10,Ohio,Brecksville,1
+2026-10,Ohio,Brook Park,1
+2026-10,Ohio,Brunswick,1
+2026-10,Ohio,Bryan,2
+2026-10,Ohio,Camden,1
+2026-10,Ohio,Canton,2
+2026-10,Ohio,Centerville,4
+2026-10,Ohio,Chillicothe,1
+2026-10,Ohio,Cincinnati,20
+2026-10,Ohio,Cleveland,39
+2026-10,Ohio,Cleveland Heights,4
+2026-10,Ohio,Conneaut,1
+2026-10,Ohio,Cuyahoga Falls,3
+2026-10,Ohio,Dayton,8
+2026-10,Ohio,Delaware,2
+2026-10,Ohio,Dublin,9
+2026-10,Ohio,East Canton,1
+2026-10,Ohio,Eastlake,1
+2026-10,Ohio,Elyria,1
+2026-10,Ohio,Evendale,1
+2026-10,Ohio,Fairborn,3
+2026-10,Ohio,Fostoria,1
+2026-10,Ohio,Garfield Heights,1
+2026-10,Ohio,Geneva,3
+2026-10,Ohio,Germantown,1
+2026-10,Ohio,Greenhills,1
+2026-10,Ohio,Grove City,1
+2026-10,Ohio,Hamilton,3
+2026-10,Ohio,Harrison,4
+2026-10,Ohio,Hudson,1
+2026-10,Ohio,Independence,1
+2026-10,Ohio,Lakewood,7
+2026-10,Ohio,Lewis Center,1
+2026-10,Ohio,Lima,1
+2026-10,Ohio,Lorain,1
+2026-10,Ohio,Loveland,1
+2026-10,Ohio,Madisonville,2
+2026-10,Ohio,Mansfield,2
+2026-10,Ohio,Mason,7
+2026-10,Ohio,Massillon,1
+2026-10,Ohio,Miamisburg,2
+2026-10,Ohio,Minerva,1
+2026-10,Ohio,Montgomery,1
+2026-10,Ohio,Mount Healthy,2
+2026-10,Ohio,Mount Washington,1
+2026-10,Ohio,Napoleon,1
+2026-10,Ohio,Nelsonville,1
+2026-10,Ohio,Newark,2
+2026-10,Ohio,North Canton,1
+2026-10,Ohio,North Royalton,2
+2026-10,Ohio,Northfield,1
+2026-10,Ohio,Norwood,5
+2026-10,Ohio,Oberlin,1
+2026-10,Ohio,Olmsted Falls,1
+2026-10,Ohio,Oregon,1
+2026-10,Ohio,Ottawa,1
+2026-10,Ohio,Piqua,5
+2026-10,Ohio,Reynoldsburg,3
+2026-10,Ohio,Sandusky,1
+2026-10,Ohio,Springfield,2
+2026-10,Ohio,Tallmadge,1
+2026-10,Ohio,Tipp City,1
+2026-10,Ohio,Toledo,3
+2026-10,Ohio,Unknown,11
+2026-10,Ohio,Vincent,1
+2026-10,Ohio,Warren,3
+2026-10,Ohio,Waverly,1
+2026-10,Ohio,West Chester,2
+2026-10,Ohio,Westerville,1
+2026-10,Ohio,Westwood,1
+2026-10,Ohio,Youngstown,1
+2026-10,Oklahoma,Ardmore,1
+2026-10,Oklahoma,Bixby,1
+2026-10,Oklahoma,Blanchard,1
+2026-10,Oklahoma,Broken Arrow,4
+2026-10,Oklahoma,Choctaw,1
+2026-10,Oklahoma,Edmond,9
+2026-10,Oklahoma,Guthrie,1
+2026-10,Oklahoma,Lawton,1
+2026-10,Oklahoma,Lexington,1
+2026-10,Oklahoma,Moore,1
+2026-10,Oklahoma,Norman,6
+2026-10,Oklahoma,Oklahoma City,50
+2026-10,Oklahoma,Okmulgee,1
+2026-10,Oklahoma,Owasso,1
+2026-10,Oklahoma,Sapulpa,1
+2026-10,Oklahoma,Shawnee,2
+2026-10,Oklahoma,Sperry,7
+2026-10,Oklahoma,Tulsa,18
+2026-10,Oklahoma,Unknown,7
+2026-10,Oklahoma,Weatherford,2
+2026-10,Oregon,Albany,4
+2026-10,Oregon,Beaverton,14
+2026-10,Oregon,Bend,8
+2026-10,Oregon,Clackamas,4
+2026-10,Oregon,Corvallis,5
+2026-10,Oregon,Dallas,1
+2026-10,Oregon,Elkton,1
+2026-10,Oregon,Eugene,6
+2026-10,Oregon,Forest Grove,1
+2026-10,Oregon,Gladstone,2
+2026-10,Oregon,Gresham,6
+2026-10,Oregon,Happy Valley,1
+2026-10,Oregon,Hood River,4
+2026-10,Oregon,Independence,1
+2026-10,Oregon,Klamath Falls,1
+2026-10,Oregon,La Pine,6
+2026-10,Oregon,Lake Oswego,1
+2026-10,Oregon,Medford,5
+2026-10,Oregon,Monmouth,1
+2026-10,Oregon,Oregon City,6
+2026-10,Oregon,Portland,256
+2026-10,Oregon,Rhododendron,1
+2026-10,Oregon,Salem,16
+2026-10,Oregon,Springfield,4
+2026-10,Oregon,Tillamook,1
+2026-10,Oregon,Troutdale,11
+2026-10,Oregon,Tualatin,4
+2026-10,Oregon,Unknown,15
+2026-10,Oregon,West Linn,1
+2026-10,Oregon,Woodburn,1
+2026-10,Pennsylvania,Allentown,10
+2026-10,Pennsylvania,Allison Park,2
+2026-10,Pennsylvania,Altoona,1
+2026-10,Pennsylvania,Ambler,9
+2026-10,Pennsylvania,Ambridge,1
+2026-10,Pennsylvania,Ardmore,2
+2026-10,Pennsylvania,Bangor,1
+2026-10,Pennsylvania,Beach Lake,1
+2026-10,Pennsylvania,Belle Vernon,1
+2026-10,Pennsylvania,Berwick,1
+2026-10,Pennsylvania,Bethlehem,3
+2026-10,Pennsylvania,Braddock,2
+2026-10,Pennsylvania,Branchdale,2
+2026-10,Pennsylvania,Breinigsville,1
+2026-10,Pennsylvania,Bristol,2
+2026-10,Pennsylvania,Brookhaven,1
+2026-10,Pennsylvania,Camp Hill,11
+2026-10,Pennsylvania,Carlisle,1
+2026-10,Pennsylvania,Carnegie,1
+2026-10,Pennsylvania,Chalfont,3
+2026-10,Pennsylvania,Clearfield,1
+2026-10,Pennsylvania,Cranberry Township,2
+2026-10,Pennsylvania,Cresco,1
+2026-10,Pennsylvania,Denver,2
+2026-10,Pennsylvania,Doylestown,2
+2026-10,Pennsylvania,DuBois,1
+2026-10,Pennsylvania,East Stroudsburg,2
+2026-10,Pennsylvania,Easton,10
+2026-10,Pennsylvania,Elizabethtown,2
+2026-10,Pennsylvania,Ephrata,1
+2026-10,Pennsylvania,Erie,3
+2026-10,Pennsylvania,Gettysburg,1
+2026-10,Pennsylvania,Glenside,3
+2026-10,Pennsylvania,Greensburg,4
+2026-10,Pennsylvania,Hanover,2
+2026-10,Pennsylvania,Harrisburg,3
+2026-10,Pennsylvania,Havertown,4
+2026-10,Pennsylvania,Hazleton,1
+2026-10,Pennsylvania,Hellertown,1
+2026-10,Pennsylvania,Hershey,2
+2026-10,Pennsylvania,Huntingdon Valley,2
+2026-10,Pennsylvania,Indiana,2
+2026-10,Pennsylvania,Johnstown,1
+2026-10,Pennsylvania,Kingston,1
+2026-10,Pennsylvania,Lake Ariel,1
+2026-10,Pennsylvania,Lancaster,5
+2026-10,Pennsylvania,Lansdowne,1
+2026-10,Pennsylvania,Latrobe,2
+2026-10,Pennsylvania,Lebanon,1
+2026-10,Pennsylvania,Levittown,2
+2026-10,Pennsylvania,Lewisburg,1
+2026-10,Pennsylvania,Lewistown,1
+2026-10,Pennsylvania,Lititz,1
+2026-10,Pennsylvania,Manheim,1
+2026-10,Pennsylvania,McKeesport,1
+2026-10,Pennsylvania,Media,1
+2026-10,Pennsylvania,Middletown,1
+2026-10,Pennsylvania,Milford,2
+2026-10,Pennsylvania,Morrisville,1
+2026-10,Pennsylvania,Mount Joy,1
+2026-10,Pennsylvania,Murrysville,4
+2026-10,Pennsylvania,Nazareth,1
+2026-10,Pennsylvania,New Hope,2
+2026-10,Pennsylvania,Norristown,6
+2026-10,Pennsylvania,North Versailles,1
+2026-10,Pennsylvania,Northumberland,1
+2026-10,Pennsylvania,Perkasie,7
+2026-10,Pennsylvania,Philadelphia,197
+2026-10,Pennsylvania,Phoenixville,2
+2026-10,Pennsylvania,Pittsburgh,42
+2026-10,Pennsylvania,Pottstown,2
+2026-10,Pennsylvania,Pottsville,3
+2026-10,Pennsylvania,Prospect Park,3
+2026-10,Pennsylvania,Quakertown,2
+2026-10,Pennsylvania,Reading,5
+2026-10,Pennsylvania,Red Lion,1
+2026-10,Pennsylvania,Ridgway,1
+2026-10,Pennsylvania,Scranton,2
+2026-10,Pennsylvania,Slippery Rock,1
+2026-10,Pennsylvania,Springfield,3
+2026-10,Pennsylvania,State College,3
+2026-10,Pennsylvania,Stroudsburg,2
+2026-10,Pennsylvania,Tobyhanna,1
+2026-10,Pennsylvania,Tunkhannock,1
+2026-10,Pennsylvania,Uniontown,2
+2026-10,Pennsylvania,Unknown,11
+2026-10,Pennsylvania,Upper Darby,2
+2026-10,Pennsylvania,Valencia,10
+2026-10,Pennsylvania,Verona,32
+2026-10,Pennsylvania,Warminster,2
+2026-10,Pennsylvania,Wayne,1
+2026-10,Pennsylvania,West Chester,6
+2026-10,Pennsylvania,Wilkes-Barre,5
+2026-10,Pennsylvania,Williamsport,2
+2026-10,Pennsylvania,Windber,1
+2026-10,Pennsylvania,Wynnewood,5
+2026-10,Pennsylvania,York,14
+2026-10,Rhode Island,Barrington,1
+2026-10,Rhode Island,Coventry,2
+2026-10,Rhode Island,Cranston,1
+2026-10,Rhode Island,Cumberland,3
+2026-10,Rhode Island,Hope,1
+2026-10,Rhode Island,Jamestown,1
+2026-10,Rhode Island,Johnston,4
+2026-10,Rhode Island,Lincoln,3
+2026-10,Rhode Island,Newport,1
+2026-10,Rhode Island,Pawtucket,16
+2026-10,Rhode Island,Providence,30
+2026-10,Rhode Island,Smithfield,1
+2026-10,Rhode Island,Warwick,4
+2026-10,Rhode Island,West Warwick,1
+2026-10,Rhode Island,Woonsocket,1
+2026-10,South Carolina,Anderson,2
+2026-10,South Carolina,Beaufort,1
+2026-10,South Carolina,Boiling Springs,1
+2026-10,South Carolina,Brunson,1
+2026-10,South Carolina,Charleston,17
+2026-10,South Carolina,Columbia,17
+2026-10,South Carolina,Conway,2
+2026-10,South Carolina,Florence,3
+2026-10,South Carolina,Fountain Inn,1
+2026-10,South Carolina,Gaffney,1
+2026-10,South Carolina,Georgetown,2
+2026-10,South Carolina,Great Falls,1
+2026-10,South Carolina,Greenville,4
+2026-10,South Carolina,Greenwood,2
+2026-10,South Carolina,Greer,1
+2026-10,South Carolina,Hartsville,1
+2026-10,South Carolina,Hemingway,1
+2026-10,South Carolina,Hilton Head,1
+2026-10,South Carolina,Lake City,3
+2026-10,South Carolina,Lake Wylie,3
+2026-10,South Carolina,Lexington,2
+2026-10,South Carolina,Little River,1
+2026-10,South Carolina,Moore,6
+2026-10,South Carolina,Mt. Pleasant,1
+2026-10,South Carolina,Mullins,1
+2026-10,South Carolina,Myrtle Beach,3
+2026-10,South Carolina,North Augusta,1
+2026-10,South Carolina,North Myrtle Beach,1
+2026-10,South Carolina,Orangeburg,1
+2026-10,South Carolina,Pageland,1
+2026-10,South Carolina,Ridgeland,1
+2026-10,South Carolina,Rock Hill,4
+2026-10,South Carolina,Simpsonville,1
+2026-10,South Carolina,Spartanburg,3
+2026-10,South Carolina,Summerville,3
+2026-10,South Carolina,Sumter,2
+2026-10,South Carolina,Taylors,1
+2026-10,South Carolina,Travelers Rest,2
+2026-10,South Carolina,Unknown,11
+2026-10,South Carolina,Ware Shoals,1
+2026-10,South Carolina,West Columbia,3
+2026-10,South Carolina,Winnsboro,1
+2026-10,South Carolina,Woodruff,2
+2026-10,South Carolina,York,1
+2026-10,South Dakota,Beresford,1
+2026-10,South Dakota,Sioux Falls,1
+2026-10,Tennessee,Alcoa,1
+2026-10,Tennessee,Antioch,9
+2026-10,Tennessee,Atoka,1
+2026-10,Tennessee,Brentwood,1
+2026-10,Tennessee,Brighton,1
+2026-10,Tennessee,Chattanooga,9
+2026-10,Tennessee,Clarksville,4
+2026-10,Tennessee,Collierville,1
+2026-10,Tennessee,Columbia,2
+2026-10,Tennessee,Cordova,4
+2026-10,Tennessee,Dickson,6
+2026-10,Tennessee,Franklin,3
+2026-10,Tennessee,Germantown,1
+2026-10,Tennessee,Hendersonville,2
+2026-10,Tennessee,Hixson,1
+2026-10,Tennessee,Huntingdon,1
+2026-10,Tennessee,Jackson,3
+2026-10,Tennessee,Johnson City,4
+2026-10,Tennessee,Kingsport,1
+2026-10,Tennessee,Knoxville,10
+2026-10,Tennessee,Lenoir City,1
+2026-10,Tennessee,Linden,1
+2026-10,Tennessee,Loudon,1
+2026-10,Tennessee,Madison,1
+2026-10,Tennessee,Madisonville,1
+2026-10,Tennessee,Maryville,2
+2026-10,Tennessee,McMinnville,1
+2026-10,Tennessee,Memphis,15
+2026-10,Tennessee,Millington,1
+2026-10,Tennessee,Mount Carmel,1
+2026-10,Tennessee,Mount Juliet,1
+2026-10,Tennessee,Murfreesboro,7
+2026-10,Tennessee,Nashville,51
+2026-10,Tennessee,Oakland,1
+2026-10,Tennessee,Oneida,1
+2026-10,Tennessee,Ooltewah,1
+2026-10,Tennessee,Powell,1
+2026-10,Tennessee,Sevierville,3
+2026-10,Tennessee,Seymour,1
+2026-10,Tennessee,Tracy City,1
+2026-10,Tennessee,Tullahoma,1
+2026-10,Tennessee,Unknown,15
+2026-10,Tennessee,Waynesboro,1
+2026-10,Tennessee,Westmoreland,1
+2026-10,Tennessee,White House,1
+2026-10,Texas,Abilene,2
+2026-10,Texas,Aldine,1
+2026-10,Texas,Allen,1
+2026-10,Texas,Alvin,11
+2026-10,Texas,Amarillo,15
+2026-10,Texas,Arlington,10
+2026-10,Texas,Athens,1
+2026-10,Texas,Aubrey,2
+2026-10,Texas,Austin,165
+2026-10,Texas,Baytown,5
+2026-10,Texas,Bedford,2
+2026-10,Texas,Beeville,1
+2026-10,Texas,Belton,5
+2026-10,Texas,Boerne,3
+2026-10,Texas,Bowie,1
+2026-10,Texas,Brownsville,9
+2026-10,Texas,Bryan,2
+2026-10,Texas,Buda,2
+2026-10,Texas,Burleson,1
+2026-10,Texas,Caldwell,1
+2026-10,Texas,Carrollton,7
+2026-10,Texas,Cedar Hill,2
+2026-10,Texas,Cedar Park,1
+2026-10,Texas,Celina,1
+2026-10,Texas,Cleburne,1
+2026-10,Texas,College Station,2
+2026-10,Texas,Conroe,2
+2026-10,Texas,Converse,2
+2026-10,Texas,Corpus Christi,9
+2026-10,Texas,Cotulla,2
+2026-10,Texas,Crockett,1
+2026-10,Texas,Crowley,3
+2026-10,Texas,Cypress,4
+2026-10,Texas,Dallas,290
+2026-10,Texas,DeSoto,1
+2026-10,Texas,Decatur,1
+2026-10,Texas,Del Valle,1
+2026-10,Texas,Denton,10
+2026-10,Texas,Dripping Springs,4
+2026-10,Texas,Duncanville,3
+2026-10,Texas,Edinburg,5
+2026-10,Texas,El Paso,22
+2026-10,Texas,Elgin,2
+2026-10,Texas,Euless,1
+2026-10,Texas,Fairfield,1
+2026-10,Texas,Farmers Branch,1
+2026-10,Texas,Forney,4
+2026-10,Texas,Fort Worth,63
+2026-10,Texas,Fredericksburg,1
+2026-10,Texas,Friendswood,1
+2026-10,Texas,Frisco,13
+2026-10,Texas,Gainesville,2
+2026-10,Texas,Galveston,1
+2026-10,Texas,Garland,10
+2026-10,Texas,Georgetown,2
+2026-10,Texas,Godley,1
+2026-10,Texas,Graham,1
+2026-10,Texas,Grand Prairie,5
+2026-10,Texas,Grapevine,6
+2026-10,Texas,Harlingen,3
+2026-10,Texas,Haslet,1
+2026-10,Texas,Henderson,1
+2026-10,Texas,Hereford,1
+2026-10,Texas,Hockley,1
+2026-10,Texas,Horizon City,2
+2026-10,Texas,Houston,158
+2026-10,Texas,Huffman,1
+2026-10,Texas,Humble,5
+2026-10,Texas,Hurst,1
+2026-10,Texas,Hutto,4
+2026-10,Texas,Ingleside,1
+2026-10,Texas,Iowa Colony,1
+2026-10,Texas,Irving,27
+2026-10,Texas,Justin,2
+2026-10,Texas,Katy,16
+2026-10,Texas,Kerrville,1
+2026-10,Texas,Kilgore,1
+2026-10,Texas,Killeen,4
+2026-10,Texas,Kyle,1
+2026-10,Texas,La Coste,1
+2026-10,Texas,Lake Dallas,2
+2026-10,Texas,Lancaster,1
+2026-10,Texas,Laredo,7
+2026-10,Texas,League City,4
+2026-10,Texas,Leander,2
+2026-10,Texas,Lewisville,9
+2026-10,Texas,Lone Oak,1
+2026-10,Texas,Longview,2
+2026-10,Texas,Lubbock,13
+2026-10,Texas,Mabank,1
+2026-10,Texas,Magnolia,2
+2026-10,Texas,Manor,5
+2026-10,Texas,Mansfield,3
+2026-10,Texas,Mathis,1
+2026-10,Texas,McAllen,7
+2026-10,Texas,McKinney,11
+2026-10,Texas,Melissa,1
+2026-10,Texas,Mesquite,3
+2026-10,Texas,Mission,8
+2026-10,Texas,Missouri City,2
+2026-10,Texas,Montgomery,7
+2026-10,Texas,Nacogdoches,1
+2026-10,Texas,New Braunfels,4
+2026-10,Texas,North Richland Hills,2
+2026-10,Texas,Odessa,2
+2026-10,Texas,Pasadena,6
+2026-10,Texas,Pearland,8
+2026-10,Texas,Pflugerville,7
+2026-10,Texas,Pharr,6
+2026-10,Texas,Plano,11
+2026-10,Texas,Portland,1
+2026-10,Texas,Princeton,4
+2026-10,Texas,Prosper,26
+2026-10,Texas,Red Oak,1
+2026-10,Texas,Richardson,8
+2026-10,Texas,Richmond,6
+2026-10,Texas,Roanoke,2
+2026-10,Texas,Robstown,1
+2026-10,Texas,Rockwall,4
+2026-10,Texas,Round Rock,3
+2026-10,Texas,Rowlett,1
+2026-10,Texas,Royse City,1
+2026-10,Texas,Sachse,1
+2026-10,Texas,Salado,1
+2026-10,Texas,San Angelo,3
+2026-10,Texas,San Antonio,84
+2026-10,Texas,San Juan,1
+2026-10,Texas,San Marcos,2
+2026-10,Texas,Seabrook,1
+2026-10,Texas,Seagoville,1
+2026-10,Texas,Spring,14
+2026-10,Texas,Stephenville,1
+2026-10,Texas,Temple,1
+2026-10,Texas,Terrell,1
+2026-10,Texas,Texarkana,1
+2026-10,Texas,The Colony,8
+2026-10,Texas,Tomball,2
+2026-10,Texas,Tyler,2
+2026-10,Texas,Unknown,12
+2026-10,Texas,Van Horn,1
+2026-10,Texas,Vernon,1
+2026-10,Texas,Victoria,1
+2026-10,Texas,Waco,2
+2026-10,Texas,Watauga,1
+2026-10,Texas,Waxahachie,3
+2026-10,Texas,Weatherford,2
+2026-10,Texas,Webster,1
+2026-10,Texas,Weslaco,2
+2026-10,Texas,Wylie,2
+2026-10,Unknown,Unknown,803
+2026-10,Utah,American Fork,2
+2026-10,Utah,Bountiful,2
+2026-10,Utah,Brigham City,1
+2026-10,Utah,Clearfield,7
+2026-10,Utah,Draper,3
+2026-10,Utah,Farmington,1
+2026-10,Utah,Hyrum,1
+2026-10,Utah,Layton,1
+2026-10,Utah,Lehi,3
+2026-10,Utah,Logan,1
+2026-10,Utah,Midvale,2
+2026-10,Utah,Ogden,25
+2026-10,Utah,Orem,4
+2026-10,Utah,Park City,5
+2026-10,Utah,Provo,6
+2026-10,Utah,Salt Lake City,83
+2026-10,Utah,Sandy,1
+2026-10,Utah,South Jordan,1
+2026-10,Utah,Spanish Fork,1
+2026-10,Utah,St. George,2
+2026-10,Utah,Unknown,27
+2026-10,Utah,West Jordan,4
+2026-10,Utah,West Valley City,5
+2026-10,Vermont,Burlington,2
+2026-10,Vermont,Chester,1
+2026-10,Vermont,Essex Junction,2
+2026-10,Vermont,Rutland,1
+2026-10,Vermont,Wilmington,3
+2026-10,Virginia,Alexandria,19
+2026-10,Virginia,Altavista,1
+2026-10,Virginia,Amherst,1
+2026-10,Virginia,Annandale,5
+2026-10,Virginia,Arlington,23
+2026-10,Virginia,Bridgewater,1
+2026-10,Virginia,Centreville,5
+2026-10,Virginia,Charlottesville,5
+2026-10,Virginia,Chesapeake,15
+2026-10,Virginia,Chester,1
+2026-10,Virginia,Christiansburg,1
+2026-10,Virginia,Colonial Heights,1
+2026-10,Virginia,Covington,1
+2026-10,Virginia,Danville,1
+2026-10,Virginia,Disputanta,1
+2026-10,Virginia,Dumfries,1
+2026-10,Virginia,Fairfax,8
+2026-10,Virginia,Falls Church,29
+2026-10,Virginia,Fredericksburg,7
+2026-10,Virginia,Front Royal,1
+2026-10,Virginia,Gainesville,4
+2026-10,Virginia,Gate City,1
+2026-10,Virginia,Great Falls,2
+2026-10,Virginia,Hampton,6
+2026-10,Virginia,Henrico,2
+2026-10,Virginia,Herndon,3
+2026-10,Virginia,Hopewell,3
+2026-10,Virginia,Leesburg,6
+2026-10,Virginia,Lorton,1
+2026-10,Virginia,Lynchburg,6
+2026-10,Virginia,Manassas,5
+2026-10,Virginia,Marshall,1
+2026-10,Virginia,Martinsville,3
+2026-10,Virginia,McLean,4
+2026-10,Virginia,Mechanicsville,3
+2026-10,Virginia,Midlothian,2
+2026-10,Virginia,Newport News,10
+2026-10,Virginia,Norfolk,11
+2026-10,Virginia,Palmyra,1
+2026-10,Virginia,Petersburg,1
+2026-10,Virginia,Portsmouth,2
+2026-10,Virginia,Pulaski,1
+2026-10,Virginia,Purcellville,2
+2026-10,Virginia,Reston,12
+2026-10,Virginia,Richmond,14
+2026-10,Virginia,Roanoke,5
+2026-10,Virginia,Round Hill,2
+2026-10,Virginia,Salem,2
+2026-10,Virginia,Stafford,7
+2026-10,Virginia,Staunton,1
+2026-10,Virginia,Suffolk,1
+2026-10,Virginia,The Plains,1
+2026-10,Virginia,Unknown,4
+2026-10,Virginia,Vienna,2
+2026-10,Virginia,Virginia Beach,14
+2026-10,Virginia,Warrenton,1
+2026-10,Virginia,Williamsburg,3
+2026-10,Virginia,Woodbridge,6
+2026-10,Virginia,Yorktown,1
+2026-10,Washington,Auburn,3
+2026-10,Washington,Bainbridge Island,1
+2026-10,Washington,Bellevue,7
+2026-10,Washington,Bellingham,3
+2026-10,Washington,Bonney Lake,1
+2026-10,Washington,Bothell,11
+2026-10,Washington,Bremerton,5
+2026-10,Washington,Camas,1
+2026-10,Washington,Cheney,1
+2026-10,Washington,Edmonds,1
+2026-10,Washington,Enumclaw,1
+2026-10,Washington,Everett,23
+2026-10,Washington,Federal Way,4
+2026-10,Washington,Graham,1
+2026-10,Washington,Issaquah,3
+2026-10,Washington,Kennewick,1
+2026-10,Washington,Kent,24
+2026-10,Washington,Kirkland,16
+2026-10,Washington,Lakewood,5
+2026-10,Washington,Lynnwood,9
+2026-10,Washington,Maple Valley,2
+2026-10,Washington,Marysville,5
+2026-10,Washington,Mount Vernon,1
+2026-10,Washington,Nooksack,1
+2026-10,Washington,North Bend,3
+2026-10,Washington,Oak Harbor,2
+2026-10,Washington,Olympia,18
+2026-10,Washington,Othello,1
+2026-10,Washington,Pasco,1
+2026-10,Washington,Port Orchard,1
+2026-10,Washington,Poulsbo,1
+2026-10,Washington,Puyallup,9
+2026-10,Washington,Redmond,8
+2026-10,Washington,Renton,26
+2026-10,Washington,Richland,3
+2026-10,Washington,Seattle,355
+2026-10,Washington,Sequim,1
+2026-10,Washington,Snohomish,1
+2026-10,Washington,Spanaway,3
+2026-10,Washington,Spokane,5
+2026-10,Washington,Spokane Valley,1
+2026-10,Washington,Sunnyside,1
+2026-10,Washington,Tacoma,23
+2026-10,Washington,Tukwila,5
+2026-10,Washington,University Place,2
+2026-10,Washington,Unknown,97
+2026-10,Washington,Vancouver,15
+2026-10,Washington,Vashon,2
+2026-10,Washington,Wenatchee,3
+2026-10,Washington,Woodland,1
+2026-10,Washington,Yakima,2
+2026-10,West Virginia,Augusta,1
+2026-10,West Virginia,Beckley,2
+2026-10,West Virginia,Brenton,1
+2026-10,West Virginia,Chapmanville,1
+2026-10,West Virginia,Charleston,1
+2026-10,West Virginia,Clarksburg,1
+2026-10,West Virginia,Dunbar,1
+2026-10,West Virginia,Fayetteville,1
+2026-10,West Virginia,Grafton,1
+2026-10,West Virginia,Hedgesville,2
+2026-10,West Virginia,Huntington,2
+2026-10,West Virginia,Keyser,1
+2026-10,West Virginia,Lewisburg,1
+2026-10,West Virginia,Martinsburg,1
+2026-10,West Virginia,Morgantown,1
+2026-10,West Virginia,Oceana,1
+2026-10,West Virginia,Unknown,1
+2026-10,West Virginia,Wayne,1
+2026-10,West Virginia,Welch,1
+2026-10,West Virginia,Weston,1
+2026-10,West Virginia,Wheeling,1
+2026-10,Wisconsin,Amery,1
+2026-10,Wisconsin,Antigo,2
+2026-10,Wisconsin,Baldwin,1
+2026-10,Wisconsin,Beaver Dam,1
+2026-10,Wisconsin,Burlington,1
+2026-10,Wisconsin,Colgate,1
+2026-10,Wisconsin,Cudahy,2
+2026-10,Wisconsin,De Pere,1
+2026-10,Wisconsin,Eau Claire,1
+2026-10,Wisconsin,Fitchburg,4
+2026-10,Wisconsin,Glenwood City,1
+2026-10,Wisconsin,Green Bay,1
+2026-10,Wisconsin,Greenfield,1
+2026-10,Wisconsin,Janesville,4
+2026-10,Wisconsin,La Crosse,2
+2026-10,Wisconsin,Lake Geneva,1
+2026-10,Wisconsin,Lake Nebagamon,1
+2026-10,Wisconsin,Madison,27
+2026-10,Wisconsin,Milwaukee,59
+2026-10,Wisconsin,Muskego,1
+2026-10,Wisconsin,Oak Creek,9
+2026-10,Wisconsin,Oconomowoc,1
+2026-10,Wisconsin,Osceola,1
+2026-10,Wisconsin,Oshkosh,7
+2026-10,Wisconsin,Racine,3
+2026-10,Wisconsin,Ripon,1
+2026-10,Wisconsin,River Falls,1
+2026-10,Wisconsin,Salem,1
+2026-10,Wisconsin,South Range,3
+2026-10,Wisconsin,Sparta,1
+2026-10,Wisconsin,Stevens Point,3
+2026-10,Wisconsin,Waukesha,3
+2026-10,Wyoming,Rock Springs,1
