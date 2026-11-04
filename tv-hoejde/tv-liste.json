@@ -1,7 +1,7 @@
 {
  "name": "Pedestal TV list: VESA hole positions",
- "updated": "28/10-2026",
- "count": 907,
+ "updated": "4/11-2026",
+ "count": 1011,
  "how_to_use": "Bottom edge of the TV on a stand = the stand's top hole height - (position - 1) * 2.5 cm - upper_hole_cm. Top edge = bottom edge + height_cm.",
  "fields": {
   "brand": "Brand",
@@ -5051,12 +5051,12 @@
    "height_cm": 108.7,
    "vesa_w_mm": 400,
    "vesa_h_mm": 400,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 12.7,
+   "upper_hole_cm": 52.7,
+   "source_type": "image",
+   "source_label": "billedmålt",
+   "source": "LG",
+   "note": "Billedmålt på LG-foto: nederste VESA-hul 12,7 cm fra underkant, målt ud fra VESA 400×400 som skala. Usikkerhed ca. ±1 cm."
   },
   {
    "brand": "LG",
@@ -9596,6 +9596,102 @@
   {
    "brand": "Samsung",
    "series": "LS03F",
+   "name": "75\" The Frame Pro Samsung Vision AI Smart TV LS03FW (2025)",
+   "codes": [
+    "QE75LS03FWUXXN",
+    "QE75LS03FWUXXU",
+    "TQ75LS03FWUXXC",
+    "GQ75LS03FWUXZG",
+    "QE75LS03FWUXZT"
+   ],
+   "inch": 75,
+   "year": 2025,
+   "height_cm": 96.5,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 400,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "LS03F",
+   "name": "65\" The Frame Pro Samsung Vision AI Smart TV LS03FW (2025)",
+   "codes": [
+    "QE65LS03FWUXXN",
+    "QE65LS03FAUXXU",
+    "QE65LS03FWUXXU",
+    "TQ65LS03FWUXXC",
+    "TQ65LS03FAUXXC",
+    "GQ65LS03FWUXZG",
+    "GQ65LS03FAUXZG",
+    "QE65LS03FAUXZT",
+    "QE65LS03FWUXZT"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.7,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "LS03F",
+   "name": "55\" The Frame Samsung Vision AI Smart TV LS03FA (2025)",
+   "codes": [
+    "QE55LS03FAUXXN",
+    "QE55LS03FAUXXU",
+    "TQ55LS03FAUXXC",
+    "GQ55LS03FAUXZG",
+    "QE55LS03FAUXZT"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "LS03F",
+   "name": "50\" The Frame Samsung Vision AI Smart TV LS03FA (2025)",
+   "codes": [
+    "QE50LS03FAUXXN",
+    "QE50LS03FAUXXU",
+    "TQ50LS03FAUXXC",
+    "GQ50LS03FAUXZG",
+    "QE50LS03FAUXZT"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.5,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "LS03F",
    "name": "43\" The Frame Samsung Vision AI Smart TV LS03FA (2025)",
    "codes": [
     "QE43LS03FAUXXN",
@@ -11060,6 +11156,48 @@
    "source_label": "3D-model",
    "source": "Samsung",
    "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 19,9 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
+  },
+  {
+   "brand": "Samsung",
+   "series": "Q6F",
+   "name": "65\" QLED Q6F 4K Smart TV (2025)",
+   "codes": [
+    "GQ65Q6FAAUXZG",
+    "TQ65Q6FAAUXXC",
+    "QE65Q6FAAUXZT"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "Q6F",
+   "name": "55\" QLED Q6F 4K Smart TV (2025)",
+   "codes": [
+    "GQ55Q6FAAUXZG",
+    "TQ55Q6FAAUXXC",
+    "QE55Q6FAAUXZT"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
   },
   {
    "brand": "Samsung",
@@ -12535,6 +12673,66 @@
   },
   {
    "brand": "Samsung",
+   "series": "QN72F",
+   "name": "75\" Neo QLED 4K Samsung Vision AI Smart TV QN72F Mini LED (2025)",
+   "codes": [
+    "QE75QN72FATXXN",
+    "GQ75QN72FATXZG"
+   ],
+   "inch": 75,
+   "year": 2025,
+   "height_cm": 96.1,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 400,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN72F",
+   "name": "65\" Neo QLED 4K Samsung Vision AI Smart TV QN72F Mini LED (2025)",
+   "codes": [
+    "QE65QN72FATXXN",
+    "GQ65QN72FATXZG"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.2,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN72F",
+   "name": "55\" Neo QLED 4K Samsung Vision AI Smart TV QN72F Mini LED (2025)",
+   "codes": [
+    "QE55QN72FATXXN",
+    "GQ55QN72FATXZG"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "QN72H",
    "name": "85\" Neo QLED QN72H 4K Vision AI Smart TV (2026)",
    "codes": [
@@ -12753,6 +12951,75 @@
   },
   {
    "brand": "Samsung",
+   "series": "QN74F",
+   "name": "75\" Neo QLED 4K Samsung Vision AI Smart TV QN74F Mini LED (2025)",
+   "codes": [
+    "QE75QN74FATXXN",
+    "TQ75QN74FBUXXC",
+    "GQ75QN74FATXZG",
+    "QE75QN74FATXZT",
+    "TQ75QN74FATXXC"
+   ],
+   "inch": 75,
+   "year": 2025,
+   "height_cm": 96.1,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 400,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN74F",
+   "name": "65\" Neo QLED 4K Samsung Vision AI Smart TV QN74F Mini LED (2025)",
+   "codes": [
+    "QE65QN74FATXXN",
+    "TQ65QN74FBUXXC",
+    "GQ65QN74FATXZG",
+    "QE65QN74FATXZT",
+    "TQ65QN74FATXXC"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.2,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN74F",
+   "name": "55\" Neo QLED 4K Samsung Vision AI Smart TV QN74F Mini LED (2025)",
+   "codes": [
+    "QE55QN74FATXXN",
+    "TQ55QN74FBUXXC",
+    "GQ55QN74FATXZG",
+    "QE55QN74FATXZT",
+    "TQ55QN74FATXXC"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "QN74H",
    "name": "85\" Neo QLED 4K Vision AI Smart TV QN74H (2026)",
    "codes": [
@@ -12856,6 +13123,66 @@
    "inch": 43,
    "year": 2026,
    "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN77F",
+   "name": "75\" Neo QLED 4K Samsung Vision AI Smart TV QN77F Mini LED (2025)",
+   "codes": [
+    "QE75QN77FATXXN",
+    "TQ75QN77FBUXXC"
+   ],
+   "inch": 75,
+   "year": 2025,
+   "height_cm": 96.1,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 400,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN77F",
+   "name": "65\" Neo QLED 4K Samsung Vision AI Smart TV QN77F Mini LED (2025)",
+   "codes": [
+    "QE65QN77FATXXN",
+    "TQ65QN77FBUXXC"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.2,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN77F",
+   "name": "55\" Neo QLED 4K Samsung Vision AI Smart TV QN77F Mini LED (2025)",
+   "codes": [
+    "QE55QN77FATXXN",
+    "TQ55QN77FBUXXC"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
    "lower_hole_cm": null,
@@ -13202,6 +13529,82 @@
   },
   {
    "brand": "Samsung",
+   "series": "QN82F",
+   "name": "75\" Neo QLED 4K Samsung Vision AI Smart TV QN82F Mini LED (2025)",
+   "codes": [
+    "QE75QN82FAUXXN"
+   ],
+   "inch": 75,
+   "year": 2025,
+   "height_cm": 95.8,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 400,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN82F",
+   "name": "65\" Neo QLED 4K Samsung Vision AI Smart TV QN82F Mini LED (2025)",
+   "codes": [
+    "QE65QN82FAUXXN"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 82.9,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN82F",
+   "name": "55\" Neo QLED 4K Samsung Vision AI Smart TV QN82F Mini LED (2025)",
+   "codes": [
+    "QE55QN82FAUXXN"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.6,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN82F",
+   "name": "50\" Neo QLED 4K Samsung Vision AI Smart TV QN82F Mini LED (2025)",
+   "codes": [
+    "QE50QN82FAUXXN"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "QN82H",
    "name": "85\" Neo QLED QN82H 4K Vision AI Smart TV (2026)",
    "codes": [
@@ -13293,6 +13696,85 @@
    ],
    "inch": 50,
    "year": 2026,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN83F",
+   "name": "75\" Neo QLED 4K Samsung Vision AI Smart TV QN83F Mini LED (2025)",
+   "codes": [
+    "QE75QN83FAUXXN"
+   ],
+   "inch": 75,
+   "year": 2025,
+   "height_cm": 95.8,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 400,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN83F",
+   "name": "65\" Neo QLED 4K Samsung Vision AI Smart TV QN83F Mini LED (2025)",
+   "codes": [
+    "QE65QN83FAUXXN",
+    "QE65QN83FAUXZT"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 82.9,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN83F",
+   "name": "55\" Neo QLED 4K Samsung Vision AI Smart TV QN83F Mini LED (2025)",
+   "codes": [
+    "QE55QN83FAUXXN",
+    "QE55QN83FAUXZT"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.6,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN83F",
+   "name": "50\" Neo QLED 4K Samsung Vision AI Smart TV QN83F Mini LED (2025)",
+   "codes": [
+    "QE50QN83FAUXXN",
+    "QE50QN83FAUXZT"
+   ],
+   "inch": 50,
+   "year": 2025,
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
@@ -14178,6 +14660,86 @@
   {
    "brand": "Samsung",
    "series": "QN92F",
+   "name": "75\" Neo QLED 4K Samsung Vision AI Smart TV QN92F Mini LED (2025)",
+   "codes": [
+    "QE75QN92FATXXN",
+    "GQ75QN92FATXZG"
+   ],
+   "inch": 75,
+   "year": 2025,
+   "height_cm": 95.7,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 400,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN92F",
+   "name": "65\" Neo QLED 4K Samsung Vision AI Smart TV QN92F Mini LED (2025)",
+   "codes": [
+    "QE65QN92FATXXN",
+    "GQ65QN92FATXZG"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 82.9,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN92F",
+   "name": "55\" Neo QLED 4K Samsung Vision AI Smart TV QN92F Mini LED (2025)",
+   "codes": [
+    "QE55QN92FATXXN",
+    "GQ55QN92FATXZG"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.6,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN92F",
+   "name": "50\" Neo QLED 4K Samsung Vision AI Smart TV QN92F Mini LED (2025)",
+   "codes": [
+    "QE50QN92FATXXN",
+    "GQ50QN92FATXZG"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN92F",
    "name": "43\" Neo QLED 4K Samsung Vision AI Smart TV QN92F Mini LED (2025)",
    "codes": [
     "QE43QN92FATXXN",
@@ -14468,6 +15030,89 @@
   {
    "brand": "Samsung",
    "series": "QN94F",
+   "name": "75\" Neo QLED 4K Samsung Vision AI Smart TV QN94F Mini LED (2025)",
+   "codes": [
+    "QE75QN94FATXXN",
+    "GQ75QN94FATXZG"
+   ],
+   "inch": 75,
+   "year": 2025,
+   "height_cm": 95.7,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 400,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN94F",
+   "name": "65\" Neo QLED 4K Samsung Vision AI Smart TV QN94F Mini LED (2025)",
+   "codes": [
+    "QE65QN94FATXXN",
+    "GQ65QN94FATXZG",
+    "QE65QN94FATXZT"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 82.9,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN94F",
+   "name": "55\" Neo QLED 4K Samsung Vision AI Smart TV QN94F Mini LED (2025)",
+   "codes": [
+    "QE55QN94FATXXN",
+    "GQ55QN94FATXZG",
+    "QE55QN94FATXZT"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.6,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN94F",
+   "name": "50\" Neo QLED 4K Samsung Vision AI Smart TV QN94F Mini LED (2025)",
+   "codes": [
+    "QE50QN94FATXXN",
+    "GQ50QN94FATXZG",
+    "QE50QN94FATXZT"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "QN94F",
    "name": "43\" Neo QLED 4K Samsung Vision AI Smart TV QN94F Mini LED (2025)",
    "codes": [
     "QE43QN94FATXXN",
@@ -14712,6 +15357,25 @@
    "height_cm": 147.8,
    "vesa_w_mm": 1000,
    "vesa_h_mm": 600,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "S84F",
+   "name": "TV 55\" OLED S84F 4K Samsung Vision AI Smart TV 2025",
+   "codes": [
+    "TQ55S84FAUXXC"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.6,
+   "vesa_w_mm": 300,
+   "vesa_h_mm": 200,
    "lower_hole_cm": null,
    "upper_hole_cm": null,
    "source_type": "estimate",
@@ -15213,6 +15877,66 @@
   },
   {
    "brand": "Samsung",
+   "series": "S92F",
+   "name": "65” OLED 4K Samsung Vision AI Smart TV S92F (2025)",
+   "codes": [
+    "QE65S92FATXXN",
+    "GQ65S92FATXZG"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.2,
+   "vesa_w_mm": 300,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "S92F",
+   "name": "55” OLED 4K Samsung Vision AI Smart TV S92F (2025)",
+   "codes": [
+    "QE55S92FAEXXN",
+    "GQ55S92FAEXZG"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.9,
+   "vesa_w_mm": 300,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "S92F",
+   "name": "48” OLED 4K Samsung Vision AI Smart TV S92F (2025)",
+   "codes": [
+    "QE48S92FAEXXN",
+    "GQ48S92FAEXZG"
+   ],
+   "inch": 48,
+   "year": 2025,
+   "height_cm": 62.0,
+   "vesa_w_mm": 300,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "S92H",
    "name": "42” OLED 4K Vision AI Smart TV S92H (2026)",
    "codes": [
@@ -15498,6 +16222,69 @@
    ],
    "inch": 48,
    "year": 2026,
+   "height_cm": 62.0,
+   "vesa_w_mm": 300,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "S94F",
+   "name": "65\" OLED 4K Samsung Vision AI Smart TV S94F (2025)",
+   "codes": [
+    "QE65S94FATXXN",
+    "GQ65S94FATXZG",
+    "QE65S94FATXZT"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.2,
+   "vesa_w_mm": 300,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "S94F",
+   "name": "55\" OLED 4K Samsung Vision AI Smart TV S94F (2025)",
+   "codes": [
+    "QE55S94FAEXXN",
+    "GQ55S94FAEXZG",
+    "QE55S94FAEXZT"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.9,
+   "vesa_w_mm": 300,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "S94F",
+   "name": "48\" OLED 4K Samsung Vision AI Smart TV S94F (2025)",
+   "codes": [
+    "QE48S94FAEXXN",
+    "GQ48S94FAEXZG",
+    "QE48S94FAEXZT"
+   ],
+   "inch": 48,
+   "year": 2025,
    "height_cm": 62.0,
    "vesa_w_mm": 300,
    "vesa_h_mm": 200,
@@ -16225,6 +17012,101 @@
   },
   {
    "brand": "Samsung",
+   "series": "U7005F",
+   "name": "75\" Crystal UHD U7000F 4K Smart TV (2025)",
+   "codes": [
+    "TU75U7005FKXXC"
+   ],
+   "inch": 75,
+   "year": 2025,
+   "height_cm": 95.8,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7005F",
+   "name": "65\" Crystal UHD U7000F 4K Smart TV (2025)",
+   "codes": [
+    "TU65U7005FKXXC"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7005F",
+   "name": "55\" Crystal UHD U7000F 4K Smart TV (2025)",
+   "codes": [
+    "TU55U7005FKXXC"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7005F",
+   "name": "50\" Crystal UHD U7000F 4K Smart TV (2025)",
+   "codes": [
+    "TU50U7005FKXXC"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7005F",
+   "name": "43\" Crystal UHD U7000F 4K Smart TV (2025)",
+   "codes": [
+    "TU43U7005FKXXC"
+   ],
+   "inch": 43,
+   "year": 2025,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "U7005H",
    "name": "85\" Crystal UHD U7005H 4K Samsung Vision AI Smart TV (2026)",
    "codes": [
@@ -16333,6 +17215,82 @@
    ],
    "inch": 43,
    "year": 2026,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7020F",
+   "name": "65\" Crystal UHD Smart TV U7020F (2025)",
+   "codes": [
+    "UE65U7020FUXXN"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7020F",
+   "name": "55\" Crystal UHD Smart TV U7020F (2025)",
+   "codes": [
+    "UE55U7020FUXXN"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7020F",
+   "name": "50\" Crystal UHD Smart TV U7020F (2025)",
+   "codes": [
+    "UE50U7020FUXXN"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7020F",
+   "name": "43\" Crystal UHD Smart TV U7020F (2025)",
+   "codes": [
+    "UE43U7020FUXXN"
+   ],
+   "inch": 43,
+   "year": 2025,
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
@@ -16459,6 +17417,82 @@
   },
   {
    "brand": "Samsung",
+   "series": "U7025F",
+   "name": "65\" Crystal UHD U7025 4K Smart TV (2025)",
+   "codes": [
+    "TU65U7025FKXXC"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7025F",
+   "name": "55\" Crystal UHD U7025 4K Smart TV (2025)",
+   "codes": [
+    "TU55U7025FKXXC"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7025F",
+   "name": "50\" Crystal UHD U7025 4K Smart TV (2025)",
+   "codes": [
+    "TU50U7025FKXXC"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7025F",
+   "name": "43\" Crystal UHD U7025 4K Smart TV (2025)",
+   "codes": [
+    "TU43U7025FKXXC"
+   ],
+   "inch": 43,
+   "year": 2025,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "U7025H",
    "name": "85\" Crystal UHD U7025H 4K Samsung Vision AI Smart TV (2026)",
    "codes": [
@@ -16573,6 +17607,82 @@
   },
   {
    "brand": "Samsung",
+   "series": "U7070F",
+   "name": "65\" Crystal UHD Smart TV U7070F (2025)",
+   "codes": [
+    "UE65U7070FUXXN"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7070F",
+   "name": "55\" Crystal UHD Smart TV U7070F (2025)",
+   "codes": [
+    "UE55U7070FUXXN"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7070F",
+   "name": "50\" Crystal UHD Smart TV U7070F (2025)",
+   "codes": [
+    "UE50U7070FUXXN"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7070F",
+   "name": "43\" Crystal UHD Smart TV U7070F (2025)",
+   "codes": [
+    "UE43U7070FUXXN"
+   ],
+   "inch": 43,
+   "year": 2025,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "U7070H",
    "name": "85\" Crystal UHD U7070H Smart TV (2026)",
    "codes": [
@@ -16638,6 +17748,82 @@
    "inch": 55,
    "year": 2026,
    "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7079F",
+   "name": "65\" Crystal UHD U7079F 4K Smart TV (2025)",
+   "codes": [
+    "GU65U7079FUXZG"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7079F",
+   "name": "55\" Crystal UHD U7079F 4K Smart TV (2025)",
+   "codes": [
+    "GU55U7079FUXZG"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7079F",
+   "name": "50\" Crystal UHD U7079F 4K Smart TV (2025)",
+   "codes": [
+    "GU50U7079FUXZG"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7079F",
+   "name": "43\" Crystal UHD U7079F 4K Smart TV (2025)",
+   "codes": [
+    "GU43U7079FUXZG"
+   ],
+   "inch": 43,
+   "year": 2025,
+   "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
    "lower_hole_cm": null,
@@ -16763,6 +17949,82 @@
   },
   {
    "brand": "Samsung",
+   "series": "U7090F",
+   "name": "65\" Crystal UHD Smart TV U7090F (2025)",
+   "codes": [
+    "UE65U7090FUXXN"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7090F",
+   "name": "55\" Crystal UHD Smart TV U7090F (2025)",
+   "codes": [
+    "UE55U7090FUXXN"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7090F",
+   "name": "50\" Crystal UHD Smart TV U7090F (2025)",
+   "codes": [
+    "UE50U7090FUXXN"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7090F",
+   "name": "43\" Crystal UHD Smart TV U7090F (2025)",
+   "codes": [
+    "UE43U7090FUXXN"
+   ],
+   "inch": 43,
+   "year": 2025,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "U7090H",
    "name": "85\" Crystal UHD U7090H Smart TV (2026)",
    "codes": [
@@ -16865,6 +18127,82 @@
    ],
    "inch": 43,
    "year": 2026,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7099F",
+   "name": "65\" Crystal UHD U7099F 4K Smart TV (2025)",
+   "codes": [
+    "GU65U7099FUXZG"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7099F",
+   "name": "55\" Crystal UHD U7099F 4K Smart TV (2025)",
+   "codes": [
+    "GU55U7099FUXZG"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7099F",
+   "name": "50\" Crystal UHD U7099F 4K Smart TV (2025)",
+   "codes": [
+    "GU50U7099FUXZG"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U7099F",
+   "name": "43\" Crystal UHD U7099F 4K Smart TV (2025)",
+   "codes": [
+    "GU43U7099FUXZG"
+   ],
+   "inch": 43,
+   "year": 2025,
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
@@ -17332,6 +18670,120 @@
   },
   {
    "brand": "Samsung",
+   "series": "U8005F",
+   "name": "70\" Crystal UHD U8005 4K Smart TV (2025)",
+   "codes": [
+    "TU70U8005FUXXC"
+   ],
+   "inch": 70,
+   "year": 2025,
+   "height_cm": 87.5,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8005F",
+   "name": "65\" Crystal UHD U8005 4K Smart TV (2025)",
+   "codes": [
+    "TU65U8005FUXXC"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8005F",
+   "name": "58\" Crystal UHD U8005 4K Smart TV (2025)",
+   "codes": [
+    "TU58U8005FUXXC"
+   ],
+   "inch": 58,
+   "year": 2025,
+   "height_cm": 74.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8005F",
+   "name": "55\" Crystal UHD U8005 4K Smart TV (2025)",
+   "codes": [
+    "TU55U8005FUXXC"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8005F",
+   "name": "50\" Crystal UHD U8005 4K Smart TV (2025)",
+   "codes": [
+    "TU50U8005FUXXC"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8005F",
+   "name": "43\" Crystal UHD U8005 4K Smart TV (2025)",
+   "codes": [
+    "TU43U8005FUXXC"
+   ],
+   "inch": 43,
+   "year": 2025,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "U8005H",
    "name": "85\" Crystal UHD U8005H 4K Samsung Vision AI Smart TV (2026)",
    "codes": [
@@ -17612,6 +19064,82 @@
   },
   {
    "brand": "Samsung",
+   "series": "U8070F",
+   "name": "65\" Crystal UHD Smart TV U8070F (2025)",
+   "codes": [
+    "UE65U8070FUXXN"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8070F",
+   "name": "55\" Crystal UHD Smart TV U8070F (2025)",
+   "codes": [
+    "UE55U8070FUXXN"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8070F",
+   "name": "50\" Crystal UHD Smart TV U8070F (2025)",
+   "codes": [
+    "UE50U8070FUXXN"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8070F",
+   "name": "43\" Crystal UHD Smart TV U8070F (2025)",
+   "codes": [
+    "UE43U8070FUXXN"
+   ],
+   "inch": 43,
+   "year": 2025,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "U8070H",
    "name": "85\" Crystal UHD Smart TV U8070H (2026)",
    "codes": [
@@ -17714,6 +19242,120 @@
    ],
    "inch": 43,
    "year": 2026,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8075F",
+   "name": "70\" Crystal UHD U8075 4K Smart TV (2025)",
+   "codes": [
+    "TU70U8075FUXXC"
+   ],
+   "inch": 70,
+   "year": 2025,
+   "height_cm": 87.5,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8075F",
+   "name": "65\" Crystal UHD U8075 4K Smart TV (2025)",
+   "codes": [
+    "TU65U8075FUXXC"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8075F",
+   "name": "58\" Crystal UHD U8075 4K Smart TV (2025)",
+   "codes": [
+    "TU58U8075FUXXC"
+   ],
+   "inch": 58,
+   "year": 2025,
+   "height_cm": 74.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8075F",
+   "name": "55\" Crystal UHD U8075 4K Smart TV (2025)",
+   "codes": [
+    "TU55U8075FUXXC"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8075F",
+   "name": "50\" Crystal UHD U8075 4K Smart TV (2025)",
+   "codes": [
+    "TU50U8075FUXXC"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8075F",
+   "name": "43\" Crystal UHD U8075 4K Smart TV (2025)",
+   "codes": [
+    "TU43U8075FUXXC"
+   ],
+   "inch": 43,
+   "year": 2025,
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
@@ -17884,6 +19526,101 @@
   },
   {
    "brand": "Samsung",
+   "series": "U8079F",
+   "name": "65\" Crystal UHD U8079F 4K Smart TV (2025)",
+   "codes": [
+    "GU65U8079FUXZG"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8079F",
+   "name": "58\" Crystal UHD U8079F 4K Smart TV (2025)",
+   "codes": [
+    "GU58U8079FUXZG"
+   ],
+   "inch": 58,
+   "year": 2025,
+   "height_cm": 74.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8079F",
+   "name": "55\" Crystal UHD U8079F 4K Smart TV (2025)",
+   "codes": [
+    "GU55U8079FUXZG"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8079F",
+   "name": "50\" Crystal UHD U8079F 4K Smart TV (2025)",
+   "codes": [
+    "GU50U8079FUXZG"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8079F",
+   "name": "43\" Crystal UHD U8079F 4K Smart TV (2025)",
+   "codes": [
+    "GU43U8079FUXZG"
+   ],
+   "inch": 43,
+   "year": 2025,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "U8079H",
    "name": "85\" Crystal UHD U8079H 4K Samsung Vision AI Smart TV (2026)",
    "codes": [
@@ -18017,6 +19754,124 @@
   },
   {
    "brand": "Samsung",
+   "series": "U8090F",
+   "name": "70\" Crystal UHD Smart TV U8090F (2025)",
+   "codes": [
+    "UE70U8090FUXXN"
+   ],
+   "inch": 70,
+   "year": 2025,
+   "height_cm": 87.5,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8090F",
+   "name": "65\" Crystal UHD Smart TV U8090F (2025)",
+   "codes": [
+    "UE65U8090FUXXN",
+    "UE65U8090FUXZT"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8090F",
+   "name": "58\" Crystal UHD Smart TV U8090F (2025)",
+   "codes": [
+    "UE58U8090FUXXN"
+   ],
+   "inch": 58,
+   "year": 2025,
+   "height_cm": 74.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8090F",
+   "name": "55\" Crystal UHD Smart TV U8090F (2025)",
+   "codes": [
+    "UE55U8090FUXXN",
+    "UE55U8090FUXZT"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8090F",
+   "name": "50\" Crystal UHD Smart TV U8090F (2025)",
+   "codes": [
+    "UE50U8090FUXXN",
+    "UE50U8090FUXZT"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8090F",
+   "name": "43\" Crystal UHD Smart TV U8090F (2025)",
+   "codes": [
+    "UE43U8090FUXXN",
+    "UE43U8090FUXZT"
+   ],
+   "inch": 43,
+   "year": 2025,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
    "series": "U8090H",
    "name": "85\" Crystal UHD U8090H Smart TV (2026)",
    "codes": [
@@ -18119,6 +19974,120 @@
    ],
    "inch": 43,
    "year": 2026,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8095F",
+   "name": "70\" Crystal UHD U8095 4K Smart TV (2025)",
+   "codes": [
+    "TU70U8095FUXXC"
+   ],
+   "inch": 70,
+   "year": 2025,
+   "height_cm": 87.5,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8095F",
+   "name": "65\" Crystal UHD U8095 4K Smart TV (2025",
+   "codes": [
+    "TU65U8095FUXXC"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8095F",
+   "name": "58\" Crystal UHD U8095 4K Smart TV (2025)",
+   "codes": [
+    "TU58U8095FUXXC"
+   ],
+   "inch": 58,
+   "year": 2025,
+   "height_cm": 74.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8095F",
+   "name": "55\" Crystal UHD U8095 4K Smart TV (2025)",
+   "codes": [
+    "TU55U8095FUXXC"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8095F",
+   "name": "50\" Crystal UHD U8095 4K Smart TV (2025)",
+   "codes": [
+    "TU50U8095FUXXC"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8095F",
+   "name": "43\" Crystal UHD U8095 4K Smart TV (2025)",
+   "codes": [
+    "TU43U8095FUXXC"
+   ],
+   "inch": 43,
+   "year": 2025,
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
@@ -18271,6 +20240,82 @@
    ],
    "inch": 43,
    "year": 2026,
+   "height_cm": 55.9,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8099F",
+   "name": "65\" Crystal UHD U8099F 4K Smart TV (2025)",
+   "codes": [
+    "GU65U8099FUXZG"
+   ],
+   "inch": 65,
+   "year": 2025,
+   "height_cm": 83.1,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8099F",
+   "name": "55\" Crystal UHD U8099F 4K Smart TV (2025)",
+   "codes": [
+    "GU55U8099FUXZG"
+   ],
+   "inch": 55,
+   "year": 2025,
+   "height_cm": 70.8,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8099F",
+   "name": "50\" Crystal UHD U8099F 4K Smart TV (2025)",
+   "codes": [
+    "GU50U8099FUXZG"
+   ],
+   "inch": 50,
+   "year": 2025,
+   "height_cm": 64.4,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": null,
+   "upper_hole_cm": null,
+   "source_type": "estimate",
+   "source_label": "estimat",
+   "source": null,
+   "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "U8099F",
+   "name": "43\" Crystal UHD U8099F 4K Smart TV (2025)",
+   "codes": [
+    "GU43U8099FUXZG"
+   ],
+   "inch": 43,
+   "year": 2025,
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
