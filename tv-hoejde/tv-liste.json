@@ -20443,12 +20443,12 @@
    "height_cm": 95.6,
    "vesa_w_mm": 400,
    "vesa_h_mm": 400,
-   "lower_hole_cm": 34.5,
-   "upper_hole_cm": 74.5,
-   "source_type": "model3d",
-   "source_label": "3D-model",
-   "source": "Samsung",
-   "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 34,5 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
+   "lower_hole_cm": 33.4,
+   "upper_hole_cm": 73.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationstegning",
+   "note": "Samsungs installationstegning (Cover and Rear-View Dimensions) for QN800D 75″: nederste huller 33,4 cm over underkanten. Erstatter 34,5 cm fra billede eller 3D-model."
   },
   {
    "brand": "Samsung",
@@ -21936,12 +21936,12 @@
    "height_cm": 95.7,
    "vesa_w_mm": 400,
    "vesa_h_mm": 400,
-   "lower_hole_cm": 30.4,
-   "upper_hole_cm": 70.4,
-   "source_type": "model3d",
-   "source_label": "3D-model",
-   "source": "Samsung",
-   "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 30,4 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
+   "lower_hole_cm": 31.3,
+   "upper_hole_cm": 71.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationstegning",
+   "note": "Samsungs installationstegning (Cover and Rear-View Dimensions) for QN90D 75″: nederste huller 31,3 cm over underkanten. Erstatter 30,4 cm fra billede eller 3D-model."
   },
   {
    "brand": "Samsung",
@@ -22126,12 +22126,12 @@
    "height_cm": 95.7,
    "vesa_w_mm": 400,
    "vesa_h_mm": 400,
-   "lower_hole_cm": 30.4,
-   "upper_hole_cm": 70.4,
-   "source_type": "model3d",
-   "source_label": "3D-model",
-   "source": "Samsung",
-   "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 30,4 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
+   "lower_hole_cm": 31.3,
+   "upper_hole_cm": 71.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationstegning",
+   "note": "Samsungs installationstegning (Cover and Rear-View Dimensions) for QN90F 75″: nederste huller 31,3 cm over underkanten. Erstatter 30,4 cm fra billede eller 3D-model."
   },
   {
    "brand": "Samsung",
@@ -27368,12 +27368,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": 20.3,
-   "upper_hole_cm": 50.3,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue75u8000fkxxu): nederste VESA-hul 20,3 cm fra underkant, målt ud fra VESA 400×300 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationstegning",
+   "note": "Samsungs installationstegning (Cover and Rear-View Dimensions) for U8000F 75″: nederste huller 21 cm over underkanten. Erstatter 20,3 cm fra billede eller 3D-model."
   },
   {
    "brand": "Samsung",
@@ -27409,12 +27409,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 22.4,
-   "upper_hole_cm": 42.4,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue65u8000fkxxu): nederste VESA-hul 22,4 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationstegning",
+   "note": "Samsungs installationstegning (Cover and Rear-View Dimensions) for U8000F 65″: nederste huller 23,3 cm over underkanten. Erstatter 22,4 cm fra billede eller 3D-model."
   },
   {
    "brand": "Samsung",
@@ -27450,12 +27450,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 22.6,
-   "upper_hole_cm": 42.6,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue55u8000fkxxu): nederste VESA-hul 22,6 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationstegning",
+   "note": "Samsungs installationstegning (Cover and Rear-View Dimensions) for U8000F 55″: nederste huller 23,4 cm over underkanten. Erstatter 22,6 cm fra billede eller 3D-model."
   },
   {
    "brand": "Samsung",
@@ -27471,12 +27471,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 22.5,
-   "upper_hole_cm": 42.5,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue50u8000fkxxu): nederste VESA-hul 22,5 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationstegning",
+   "note": "Samsungs installationstegning (Cover and Rear-View Dimensions) for U8000F 50″: nederste huller 23,3 cm over underkanten. Erstatter 22,5 cm fra billede eller 3D-model."
   },
   {
    "brand": "Samsung",
@@ -27492,12 +27492,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 20.3,
-   "upper_hole_cm": 40.3,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue43u8000fkxxu): nederste VESA-hul 20,3 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 21.3,
+   "upper_hole_cm": 41.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationstegning",
+   "note": "Samsungs installationstegning (Cover and Rear-View Dimensions) for U8000F 43″: nederste huller 21,3 cm over underkanten. Erstatter 20,3 cm fra billede eller 3D-model."
   },
   {
    "brand": "Samsung",
