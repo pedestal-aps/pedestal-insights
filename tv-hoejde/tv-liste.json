@@ -27347,7 +27347,7 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": 21,
+   "lower_hole_cm": 21.0,
    "upper_hole_cm": 51.0,
    "source_type": "official",
    "source_label": "producentens mål",
@@ -27388,7 +27388,7 @@
    "height_cm": 87.5,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": 21,
+   "lower_hole_cm": 21.0,
    "upper_hole_cm": 51.0,
    "source_type": "official",
    "source_label": "producentens mål",
@@ -27686,12 +27686,12 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 85″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -27705,12 +27705,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 75″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -27724,12 +27724,12 @@
    "height_cm": 87.5,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 70″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -27743,12 +27743,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 65″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -27762,12 +27762,12 @@
    "height_cm": 74.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.7,
+   "upper_hole_cm": 43.7,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 58″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -27781,12 +27781,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 55″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -27800,12 +27800,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 50″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -27819,12 +27819,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.3,
+   "upper_hole_cm": 41.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 43″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -27999,12 +27999,12 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 85″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28019,12 +28019,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": 20.3,
-   "upper_hole_cm": 50.3,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue75u8020fkxxu): nederste VESA-hul 20,3 cm fra underkant, målt ud fra VESA 400×300 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 75″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten. Erstatter 20,3 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -28039,12 +28039,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 22.5,
-   "upper_hole_cm": 42.5,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue65u8020fkxxu): nederste VESA-hul 22,5 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 65″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten. Erstatter 22,5 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -28059,12 +28059,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 22.6,
-   "upper_hole_cm": 42.6,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue55u8020fkxxu): nederste VESA-hul 22,6 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 55″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,4 cm over underkanten. Erstatter 22,6 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -28079,12 +28079,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 22.4,
-   "upper_hole_cm": 42.4,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue50u8020fkxxu): nederste VESA-hul 22,4 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 50″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten. Erstatter 22,4 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -28099,12 +28099,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 20.3,
-   "upper_hole_cm": 40.3,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue43u8020fkxxu): nederste VESA-hul 20,3 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 21.3,
+   "upper_hole_cm": 41.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 43″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21,3 cm over underkanten. Erstatter 20,3 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -28118,12 +28118,12 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 85″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28137,12 +28137,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 75″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28156,12 +28156,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 65″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28175,12 +28175,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 55″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28194,12 +28194,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 50″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28213,12 +28213,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.3,
+   "upper_hole_cm": 41.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 43″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28346,12 +28346,12 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 85″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28365,12 +28365,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 75″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28384,12 +28384,12 @@
    "height_cm": 87.5,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 70″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28403,12 +28403,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 65″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28422,12 +28422,12 @@
    "height_cm": 74.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.7,
+   "upper_hole_cm": 43.7,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 58″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28441,12 +28441,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 55″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28460,12 +28460,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 50″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28479,12 +28479,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.3,
+   "upper_hole_cm": 41.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 43″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28656,12 +28656,12 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 85″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28675,12 +28675,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 75″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28694,12 +28694,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 65″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28713,12 +28713,12 @@
    "height_cm": 74.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.7,
+   "upper_hole_cm": 43.7,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 58″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28732,12 +28732,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 55″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28751,12 +28751,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 50″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28770,12 +28770,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.3,
+   "upper_hole_cm": 41.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 43″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28923,12 +28923,12 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 85″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28943,12 +28943,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 75″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28962,12 +28962,12 @@
    "height_cm": 87.5,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 70″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -28982,12 +28982,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 65″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29001,12 +29001,12 @@
    "height_cm": 74.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.7,
+   "upper_hole_cm": 43.7,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 58″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29021,12 +29021,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 55″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29041,12 +29041,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 50″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29061,12 +29061,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.3,
+   "upper_hole_cm": 41.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 43″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29194,12 +29194,12 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 85″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29213,12 +29213,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 75″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29232,12 +29232,12 @@
    "height_cm": 87.5,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 70″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29251,12 +29251,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 65″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29270,12 +29270,12 @@
    "height_cm": 74.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.7,
+   "upper_hole_cm": 43.7,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 58″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29289,12 +29289,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 55″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29308,12 +29308,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 50″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29327,12 +29327,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.3,
+   "upper_hole_cm": 41.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 43″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29498,12 +29498,12 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 85″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29517,12 +29517,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.0,
+   "upper_hole_cm": 51.0,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 75″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29536,12 +29536,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 65″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29555,12 +29555,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 55″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29574,12 +29574,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.3,
+   "upper_hole_cm": 43.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 50″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 23,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -29593,12 +29593,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 21.3,
+   "upper_hole_cm": 41.3,
+   "source_type": "twin",
+   "source_label": "samme bagside",
+   "source": "Samsungs installationstegning",
+   "note": "Samme tv som U8000F 43″ under et regionalt navn. Samsungs installationstegning for U8000F: nederste huller 21,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
