@@ -1,6 +1,6 @@
 {
  "name": "Pedestal TV list: VESA hole positions",
- "updated": "16/11-2026",
+ "updated": "17/11-2026",
  "count": 1534,
  "how_to_use": "Bottom edge of the TV on a stand = the stand's top hole height - (position - 1) * 2.5 cm - upper_hole_cm. Top edge = bottom edge + height_cm.",
  "fields": {
@@ -15258,12 +15258,12 @@
    "height_cm": 108.5,
    "vesa_w_mm": 600,
    "vesa_h_mm": 400,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 49.0,
+   "upper_hole_cm": 89.0,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE85LS03DAUXXN: nederste VESA-hul 49 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15279,12 +15279,12 @@
    "height_cm": 96.0,
    "vesa_w_mm": 400,
    "vesa_h_mm": 400,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 29.7,
+   "upper_hole_cm": 69.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE75LS03DAUXXN: nederste VESA-hul 29,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15300,12 +15300,12 @@
    "height_cm": 83.2,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.4,
+   "upper_hole_cm": 56.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65LS03DAUXXN: nederste VESA-hul 26,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15321,12 +15321,12 @@
    "height_cm": 64.5,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE50LS03DAUXXN: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15342,12 +15342,12 @@
    "height_cm": 55.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 16.5,
+   "upper_hole_cm": 36.5,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE43LS03DAUXXN: nederste VESA-hul 16,5 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15365,12 +15365,12 @@
    "height_cm": 109.1,
    "vesa_w_mm": 600,
    "vesa_h_mm": 400,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 33.3,
+   "upper_hole_cm": 73.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE85LS03FWUXXN: nederste VESA-hul 33,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15388,12 +15388,12 @@
    "height_cm": 96.5,
    "vesa_w_mm": 400,
    "vesa_h_mm": 400,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 30.2,
+   "upper_hole_cm": 70.2,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE75LS03FWUXXN: nederste VESA-hul 30,2 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15415,12 +15415,12 @@
    "height_cm": 83.7,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.9,
+   "upper_hole_cm": 56.9,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65LS03FWUXXN: nederste VESA-hul 26,9 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15438,12 +15438,12 @@
    "height_cm": 70.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.7,
+   "upper_hole_cm": 46.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55LS03FAUXXN: nederste VESA-hul 26,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15461,12 +15461,12 @@
    "height_cm": 64.5,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE50LS03FAUXXN: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15484,12 +15484,12 @@
    "height_cm": 55.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 16.5,
+   "upper_hole_cm": 36.5,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE43LS03FAUXXN: nederste VESA-hul 16,5 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15507,12 +15507,12 @@
    "height_cm": 109.1,
    "vesa_w_mm": 600,
    "vesa_h_mm": 400,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 32.8,
+   "upper_hole_cm": 72.8,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QN85LS03HEFXZA: nederste VESA-hul 32,8 cm over underkanten. Tallet gælder en regional variant af modellen."
   },
   {
    "brand": "Samsung",
@@ -15530,12 +15530,12 @@
    "height_cm": 96.5,
    "vesa_w_mm": 400,
    "vesa_h_mm": 400,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 29.7,
+   "upper_hole_cm": 69.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QN75LS03HEFXZA: nederste VESA-hul 29,7 cm over underkanten. Tallet gælder en regional variant af modellen."
   },
   {
    "brand": "Samsung",
@@ -15556,12 +15556,12 @@
    "height_cm": 83.7,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.9,
+   "upper_hole_cm": 56.9,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65LS03HWUXXN: nederste VESA-hul 26,9 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -15582,12 +15582,12 @@
    "height_cm": 71.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 24.6,
+   "upper_hole_cm": 44.6,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55LS03HWUXXN: nederste VESA-hul 24,6 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -18440,12 +18440,12 @@
    "height_cm": 83.4,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": 28.9,
-   "upper_hole_cm": 58.9,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe65q7faauxxu): nederste VESA-hul 28,9 cm fra underkant, målt ud fra VESA 400×300 som skala. Usikkerhed ca. ±1 cm. 3D-kontrol (Samsungs 3D-model): 29,8 cm."
+   "lower_hole_cm": 29.7,
+   "upper_hole_cm": 59.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65Q7FAAUXXU: nederste VESA-hul 29,7 cm over underkanten. Erstatter 28,9 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -18478,12 +18478,12 @@
    "height_cm": 71.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 28.7,
-   "upper_hole_cm": 48.7,
-   "source_type": "model3d",
-   "source_label": "3D-model",
-   "source": "Samsung",
-   "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 28,7 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
+   "lower_hole_cm": 29.0,
+   "upper_hole_cm": 49.0,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55Q7FAAUXXU: nederste VESA-hul 29 cm over underkanten. Erstatter 28,7 cm fra 3D-model."
   },
   {
    "brand": "Samsung",
@@ -18510,12 +18510,12 @@
    "height_cm": 64.7,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 29.9,
-   "upper_hole_cm": 49.9,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe50q7faauxxu): nederste VESA-hul 29,9 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm. 3D-kontrol (Samsungs 3D-model): 28,8 cm."
+   "lower_hole_cm": 28.7,
+   "upper_hole_cm": 48.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE50Q7FAAUXXU: nederste VESA-hul 28,7 cm over underkanten. Erstatter 29,9 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -18542,12 +18542,12 @@
    "height_cm": 56.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 21.8,
-   "upper_hole_cm": 41.8,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe43q7faauxxu): nederste VESA-hul 21,8 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm. 3D-kontrol (Samsungs 3D-model): 21,8 cm."
+   "lower_hole_cm": 22.6,
+   "upper_hole_cm": 42.6,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE43Q7FAAUXXN: nederste VESA-hul 22,6 cm over underkanten. Erstatter 21,8 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -19093,12 +19093,12 @@
    "height_cm": 83.4,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": 28.9,
-   "upper_hole_cm": 58.9,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe65qef1auxxu): nederste VESA-hul 28,9 cm fra underkant, målt ud fra VESA 400×300 som skala. Usikkerhed ca. ±1 cm. 3D-kontrol (Samsungs 3D-model): 29,8 cm."
+   "lower_hole_cm": 29.7,
+   "upper_hole_cm": 59.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QEF1AUXXN: nederste VESA-hul 29,7 cm over underkanten. Erstatter 28,9 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -19116,12 +19116,12 @@
    "height_cm": 71.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 28.7,
-   "upper_hole_cm": 48.7,
-   "source_type": "model3d",
-   "source_label": "3D-model",
-   "source": "Samsung",
-   "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 28,7 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
+   "lower_hole_cm": 29.0,
+   "upper_hole_cm": 49.0,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QEF1AUXXN: nederste VESA-hul 29 cm over underkanten. Erstatter 28,7 cm fra 3D-model."
   },
   {
    "brand": "Samsung",
@@ -19139,12 +19139,12 @@
    "height_cm": 64.7,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 28.6,
-   "upper_hole_cm": 48.6,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe50qef1auxxu): nederste VESA-hul 28,6 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm. 3D-kontrol (Samsungs 3D-model): 28,8 cm."
+   "lower_hole_cm": 28.7,
+   "upper_hole_cm": 48.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE50QEF1AUXXN: nederste VESA-hul 28,7 cm over underkanten. Erstatter 28,6 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -19453,12 +19453,12 @@
    "height_cm": 83.2,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": 26.5,
-   "upper_hole_cm": 56.5,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe65qn70fauxxu): nederste VESA-hul 26,5 cm fra underkant, målt ud fra VESA 400×300 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 26.4,
+   "upper_hole_cm": 56.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN70FAUXXN: nederste VESA-hul 26,4 cm over underkanten. Erstatter 26,5 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -19476,12 +19476,12 @@
    "height_cm": 70.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 23.8,
-   "upper_hole_cm": 43.8,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe55qn70fauxxu): nederste VESA-hul 23,8 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.9,
+   "upper_hole_cm": 43.9,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN70FAUXXN: nederste VESA-hul 23,9 cm over underkanten. Erstatter 23,8 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -19792,12 +19792,12 @@
    "height_cm": 96.1,
    "vesa_w_mm": 400,
    "vesa_h_mm": 400,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 29.7,
+   "upper_hole_cm": 69.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE75QN72FATXXN: nederste VESA-hul 29,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -19812,12 +19812,12 @@
    "height_cm": 83.2,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.4,
+   "upper_hole_cm": 56.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN72FATXXN: nederste VESA-hul 26,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -19832,12 +19832,12 @@
    "height_cm": 70.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.9,
+   "upper_hole_cm": 43.9,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN72FATXXN: nederste VESA-hul 23,9 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -20027,12 +20027,12 @@
    "height_cm": 83.2,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": 26.5,
-   "upper_hole_cm": 56.5,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe65qn73fatxxu): nederste VESA-hul 26,5 cm fra underkant, målt ud fra VESA 400×300 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 26.4,
+   "upper_hole_cm": 56.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN73FATXXN: nederste VESA-hul 26,4 cm over underkanten. Erstatter 26,5 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -20052,10 +20052,10 @@
    "vesa_h_mm": 200,
    "lower_hole_cm": 23.9,
    "upper_hole_cm": 43.9,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe55qn73fatxxu): nederste VESA-hul 23,9 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN73FATXXN: nederste VESA-hul 23,9 cm over underkanten. Erstatter 23,9 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -20096,12 +20096,12 @@
    "height_cm": 96.1,
    "vesa_w_mm": 400,
    "vesa_h_mm": 400,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 29.7,
+   "upper_hole_cm": 69.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE75QN74FATXXN: nederste VESA-hul 29,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -20119,12 +20119,12 @@
    "height_cm": 83.2,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.4,
+   "upper_hole_cm": 56.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN74FATXXN: nederste VESA-hul 26,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -20142,12 +20142,12 @@
    "height_cm": 70.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.9,
+   "upper_hole_cm": 43.9,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN74FATXXN: nederste VESA-hul 23,9 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -20296,12 +20296,12 @@
    "height_cm": 96.1,
    "vesa_w_mm": 400,
    "vesa_h_mm": 400,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 29.7,
+   "upper_hole_cm": 69.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE75QN77FATXXN: nederste VESA-hul 29,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -20316,12 +20316,12 @@
    "height_cm": 83.2,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.4,
+   "upper_hole_cm": 56.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN77FATXXN: nederste VESA-hul 26,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -20336,12 +20336,12 @@
    "height_cm": 70.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.9,
+   "upper_hole_cm": 43.9,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN77FATXXN: nederste VESA-hul 23,9 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -20662,12 +20662,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": 35.6,
-   "upper_hole_cm": 65.6,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto: nederste VESA-hul 35,6 cm fra underkant, målt ud fra VESA 400×300 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 36.3,
+   "upper_hole_cm": 66.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE75QN80HAUXXN: nederste VESA-hul 36,3 cm over underkanten. Erstatter 35,6 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -20686,12 +20686,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.2,
+   "upper_hole_cm": 56.2,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN80HAUXXN: nederste VESA-hul 26,2 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -20710,12 +20710,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 300,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 30.3,
-   "upper_hole_cm": 50.3,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto: nederste VESA-hul 30,3 cm fra underkant, målt ud fra VESA 300×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 31.2,
+   "upper_hole_cm": 51.2,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN80HAUXXN: nederste VESA-hul 31,2 cm over underkanten. Erstatter 30,3 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -20850,12 +20850,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 36.3,
+   "upper_hole_cm": 66.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE75QN82HAUXXN: nederste VESA-hul 36,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -20871,12 +20871,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.2,
+   "upper_hole_cm": 56.2,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN82HAUXXN: nederste VESA-hul 26,2 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -20892,12 +20892,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 300,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 31.2,
+   "upper_hole_cm": 51.2,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN82HAUXXN: nederste VESA-hul 31,2 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -21032,12 +21032,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 36.3,
+   "upper_hole_cm": 66.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE75QN83HAUXXN: nederste VESA-hul 36,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -21052,12 +21052,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.2,
+   "upper_hole_cm": 56.2,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN83HAUXXN: nederste VESA-hul 26,2 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -21072,12 +21072,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 300,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 31.2,
+   "upper_hole_cm": 51.2,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN83HAUXXN: nederste VESA-hul 31,2 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -21132,12 +21132,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 36.3,
+   "upper_hole_cm": 66.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for GQ75QN84HAUXZG: nederste VESA-hul 36,3 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -21152,12 +21152,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.2,
+   "upper_hole_cm": 56.2,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for GQ65QN84HAUXZG: nederste VESA-hul 26,2 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -21172,12 +21172,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 300,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 31.2,
+   "upper_hole_cm": 51.2,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for GQ55QN84HAUXZG: nederste VESA-hul 31,2 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -22172,12 +22172,12 @@
    "height_cm": 70.6,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 26.1,
-   "upper_hole_cm": 46.1,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe55qn90fatxxu): nederste VESA-hul 26,1 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 26.7,
+   "upper_hole_cm": 46.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN90FATXXN: nederste VESA-hul 26,7 cm over underkanten. Erstatter 26,1 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -22195,12 +22195,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 23.2,
-   "upper_hole_cm": 43.2,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe50qn90fatxxu): nederste VESA-hul 23,2 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.6,
+   "upper_hole_cm": 43.6,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE50QN90FATXXN: nederste VESA-hul 23,6 cm over underkanten. Erstatter 23,2 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -22218,12 +22218,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 16.5,
-   "upper_hole_cm": 36.5,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe43qn90fatxxu): nederste VESA-hul 16,5 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 17.0,
+   "upper_hole_cm": 37.0,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE43QN90FATXXN: nederste VESA-hul 17 cm over underkanten. Erstatter 16,5 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -22373,12 +22373,12 @@
    "height_cm": 82.9,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 31.5,
+   "upper_hole_cm": 61.5,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN92DATXXN: nederste VESA-hul 31,5 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -22393,12 +22393,12 @@
    "height_cm": 70.6,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.7,
+   "upper_hole_cm": 46.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN92DATXXN: nederste VESA-hul 26,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -22492,12 +22492,12 @@
    "height_cm": 82.9,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 31.5,
+   "upper_hole_cm": 61.5,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN92FATXXN: nederste VESA-hul 31,5 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -22512,12 +22512,12 @@
    "height_cm": 70.6,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.7,
+   "upper_hole_cm": 46.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN92FATXXN: nederste VESA-hul 26,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -22710,12 +22710,12 @@
    "height_cm": 82.9,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 31.5,
+   "upper_hole_cm": 61.5,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN93DATXXN: nederste VESA-hul 31,5 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -22731,12 +22731,12 @@
    "height_cm": 70.6,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.7,
+   "upper_hole_cm": 46.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN93DATXXN: nederste VESA-hul 26,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -22854,12 +22854,12 @@
    "height_cm": 82.9,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 31.5,
+   "upper_hole_cm": 61.5,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN93FATXXN: nederste VESA-hul 31,5 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -22875,12 +22875,12 @@
    "height_cm": 70.6,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 26.1,
-   "upper_hole_cm": 46.1,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-qe55qn93fatxxu): nederste VESA-hul 26,1 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 26.7,
+   "upper_hole_cm": 46.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN93FATXXN: nederste VESA-hul 26,7 cm over underkanten. Erstatter 26,1 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -22975,12 +22975,12 @@
    "height_cm": 82.9,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 31.5,
+   "upper_hole_cm": 61.5,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for GQ65QN94DATXZG: nederste VESA-hul 31,5 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -22995,12 +22995,12 @@
    "height_cm": 70.6,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.7,
+   "upper_hole_cm": 46.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for GQ55QN94DATXZG: nederste VESA-hul 26,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -23076,12 +23076,12 @@
    "height_cm": 82.9,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 31.5,
+   "upper_hole_cm": 61.5,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE65QN94FATXXN: nederste VESA-hul 31,5 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -23097,12 +23097,12 @@
    "height_cm": 70.6,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.7,
+   "upper_hole_cm": 46.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55QN94FATXXN: nederste VESA-hul 26,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -23277,12 +23277,12 @@
    "height_cm": 82.9,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 31.5,
+   "upper_hole_cm": 61.5,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for GQ65QN95DATXZG: nederste VESA-hul 31,5 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -25496,12 +25496,12 @@
    "height_cm": 70.5,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 26.7,
+   "upper_hole_cm": 46.7,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for QE55LS03DAUXXN: nederste VESA-hul 26,7 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -25558,12 +25558,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": 19.9,
-   "upper_hole_cm": 49.9,
-   "source_type": "model3d",
-   "source_label": "3D-model",
-   "source": "Samsung",
-   "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 19,9 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
+   "lower_hole_cm": 21.1,
+   "upper_hole_cm": 51.1,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE75U7000FUXXN: nederste VESA-hul 21,1 cm over underkanten. Erstatter 19,9 cm fra 3D-model."
   },
   {
    "brand": "Samsung",
@@ -25579,12 +25579,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 22.4,
-   "upper_hole_cm": 42.4,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue65u7000fkxxu): nederste VESA-hul 22,4 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE65U7000FUXXN: nederste VESA-hul 23,4 cm over underkanten. Erstatter 22,4 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -25600,12 +25600,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 22.6,
-   "upper_hole_cm": 42.6,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue55u7000fkxxu): nederste VESA-hul 22,6 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE55U7000FUXXN: nederste VESA-hul 23,4 cm over underkanten. Erstatter 22,6 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -25621,12 +25621,12 @@
    "height_cm": 64.4,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 22.3,
-   "upper_hole_cm": 42.3,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue50u7000fkxxu): nederste VESA-hul 22,3 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE50U7000FUXXN: nederste VESA-hul 23,4 cm over underkanten. Erstatter 22,3 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -25642,12 +25642,12 @@
    "height_cm": 55.9,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": 20.4,
-   "upper_hole_cm": 40.4,
-   "source_type": "image",
-   "source_label": "billedmålt",
-   "source": "Which?",
-   "note": "Billedmålt på Which?-foto (samsung-ue43u7000fkxxu): nederste VESA-hul 20,4 cm fra underkant, målt ud fra VESA 200×200 som skala. Usikkerhed ca. ±1 cm."
+   "lower_hole_cm": 21.3,
+   "upper_hole_cm": 41.3,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE43U7000FUXXN: nederste VESA-hul 21,3 cm over underkanten. Erstatter 20,4 cm fra billede."
   },
   {
    "brand": "Samsung",
@@ -25819,12 +25819,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for TU65U7005FKXXC: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -25838,12 +25838,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for TU55U7005FKXXC: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -26053,12 +26053,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE65U7020FUXXN: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -26072,12 +26072,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE55U7020FUXXN: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -26281,12 +26281,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for TU65U7025FKXXC: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -26300,12 +26300,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for TU55U7025FKXXC: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -26509,12 +26509,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE65U7070FUXXN: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -26528,12 +26528,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE55U7070FUXXN: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -26699,12 +26699,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for GU65U7079FUXZG: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -26718,12 +26718,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for GU55U7079FUXZG: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -26927,12 +26927,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE65U7090FUXXN: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -26946,12 +26946,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for UE55U7090FUXXN: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -27155,12 +27155,12 @@
    "height_cm": 83.1,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for GU65U7099FUXZG: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
@@ -27174,12 +27174,12 @@
    "height_cm": 70.8,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 23.4,
+   "upper_hole_cm": 43.4,
+   "source_type": "official",
+   "source_label": "producentens mål",
+   "source": "Samsungs installationsvejledning",
+   "note": "Samsungs installationsvejledning for GU55U7099FUXZG: nederste VESA-hul 23,4 cm over underkanten."
   },
   {
    "brand": "Samsung",
