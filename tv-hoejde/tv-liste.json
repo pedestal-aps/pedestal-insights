@@ -1,7 +1,7 @@
 {
  "name": "Pedestal TV list: VESA hole positions",
- "updated": "17/11-2026",
- "count": 1534,
+ "updated": "18/11-2026",
+ "count": 1538,
  "how_to_use": "Bottom edge of the TV on a stand = the stand's top hole height - (position - 1) * 2.5 cm - upper_hole_cm. Top edge = bottom edge + height_cm.",
  "fields": {
   "brand": "Brand",
@@ -10852,6 +10852,25 @@
   },
   {
    "brand": "Philips",
+   "series": "OLED708",
+   "name": "OLED708",
+   "codes": [
+    "55OLED708/12"
+   ],
+   "inch": 55,
+   "year": null,
+   "height_cm": 74.0,
+   "vesa_w_mm": 300,
+   "vesa_h_mm": 300,
+   "lower_hole_cm": 10.0,
+   "upper_hole_cm": 40.0,
+   "source_type": "measured",
+   "source_label": "kundemålt",
+   "source": null,
+   "note": "Kundemålt 9/10-2026: nederste VESA-hul 10 cm fra underkant."
+  },
+  {
+   "brand": "Philips",
    "series": "OLED809",
    "name": "OLED 4K Ambilight OLED809",
    "codes": [
@@ -11477,6 +11496,25 @@
    "source_label": "estimat",
    "source": null,
    "note": "Højde og VESA fra producentens specifikationer (Pedestals egen liste)."
+  },
+  {
+   "brand": "Philips",
+   "series": "PUS8209",
+   "name": "PUS8209",
+   "codes": [
+    "43PUS8209"
+   ],
+   "inch": 43,
+   "year": null,
+   "height_cm": 55.5,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 100,
+   "lower_hole_cm": 31.5,
+   "upper_hole_cm": 41.5,
+   "source_type": "measured",
+   "source_label": "kundemålt",
+   "source": null,
+   "note": "Kundemålt 2/11-2026: nederste VESA-hul 31,5 cm fra underkant."
   },
   {
    "brand": "Philips",
@@ -15443,7 +15481,7 @@
    "source_type": "official",
    "source_label": "producentens mål",
    "source": "Samsungs installationsvejledning",
-   "note": "Samsungs installationsvejledning for QE55LS03FAUXXN: nederste VESA-hul 26,7 cm over underkanten."
+   "note": "Samsungs installationsvejledning for QE55LS03FAUXXN: nederste VESA-hul 26,7 cm over underkanten. Kundekontrol 6/11-2026: 26,7 cm."
   },
   {
    "brand": "Samsung",
@@ -15693,7 +15731,8 @@
     "UE50M1EHAUXXN",
     "TU50M1EHBUXNA",
     "GU50M1EHAUXZG",
-    "UE50M1EHAUXZT"
+    "UE50M1EHAUXZT",
+    "TU50M1EHAUXXC"
    ],
    "inch": 50,
    "year": 2026,
@@ -15716,7 +15755,8 @@
     "UE43M1EHAUXXN",
     "TU43M1EHBUXNA",
     "GU43M1EHAUXZG",
-    "UE43M1EHAUXZT"
+    "UE43M1EHAUXZT",
+    "TU43M1EHAUXXC"
    ],
    "inch": 43,
    "year": 2026,
@@ -16550,6 +16590,25 @@
    "source_label": "estimat",
    "source": null,
    "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "MU7000",
+   "name": "MU7000",
+   "codes": [
+    "UE49MU7000"
+   ],
+   "inch": 49,
+   "year": null,
+   "height_cm": 63.0,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 400,
+   "lower_hole_cm": 12.0,
+   "upper_hole_cm": 52.0,
+   "source_type": "measured",
+   "source_label": "kundemålt",
+   "source": null,
+   "note": "Kundemålt 3/11-2026: nederste VESA-hul 12 cm fra underkant."
   },
   {
    "brand": "Samsung",
@@ -21449,12 +21508,12 @@
    "height_cm": 70.6,
    "vesa_w_mm": 200,
    "vesa_h_mm": 200,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
+   "lower_hole_cm": 25.5,
+   "upper_hole_cm": 45.5,
+   "source_type": "measured",
+   "source_label": "kundemålt",
    "source": null,
-   "note": ""
+   "note": "Kundemålt 25/10-2026: nederste VESA-hul 25,5 cm fra underkant."
   },
   {
    "brand": "Samsung",
@@ -23483,19 +23542,20 @@
    "codes": [
     "QE65QNX1DATXXU",
     "TQ65QNX1DATXXC",
-    "GQ65QNX1DATXZG"
+    "GQ65QNX1DATXZG",
+    "QN65QNX1DATXXN"
    ],
    "inch": 65,
    "year": 2024,
    "height_cm": 83.0,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
+   "lower_hole_cm": 31.0,
+   "upper_hole_cm": 61.0,
+   "source_type": "measured",
+   "source_label": "kundemålt",
    "source": null,
-   "note": ""
+   "note": "Kundemålt 15/11-2026: nederste VESA-hul 31 cm fra underkant."
   },
   {
    "brand": "Samsung",
@@ -23536,6 +23596,25 @@
    "source_label": "estimat",
    "source": null,
    "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "RU8000",
+   "name": "RU8000",
+   "codes": [
+    "UE55RU8000UXZT"
+   ],
+   "inch": 55,
+   "year": null,
+   "height_cm": 70.0,
+   "vesa_w_mm": 200,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": 30.0,
+   "upper_hole_cm": 50.0,
+   "source_type": "measured",
+   "source_label": "kundemålt",
+   "source": null,
+   "note": "Kundemålt 23/9-2026: nederste VESA-hul 30 cm fra underkant."
   },
   {
    "brand": "Samsung",
@@ -30266,12 +30345,12 @@
    "height_cm": 70.7,
    "vesa_w_mm": 300,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
+   "lower_hole_cm": 9.0,
+   "upper_hole_cm": 39.0,
+   "source_type": "measured",
+   "source_label": "kundemålt",
    "source": null,
-   "note": "Højde og VESA fra producentens specifikationer (Pedestals egen liste)."
+   "note": "Kundemålt 15/11-2026: nederste VESA-hul 9 cm fra underkant."
   },
   {
    "brand": "Sony",
