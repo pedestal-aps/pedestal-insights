@@ -1,7 +1,7 @@
 {
  "name": "Pedestal TV list: VESA hole positions",
- "updated": "18/11-2026",
- "count": 1538,
+ "updated": "25/11-2026",
+ "count": 1540,
  "how_to_use": "Bottom edge of the TV on a stand = the stand's top hole height - (position - 1) * 2.5 cm - upper_hole_cm. Top edge = bottom edge + height_cm.",
  "fields": {
   "brand": "Brand",
@@ -16640,7 +16640,8 @@
    "codes": [
     "QE40Q5FAAUXXU",
     "GQ40Q5FAAUXZG",
-    "QE40Q5FAAUXZT"
+    "QE40Q5FAAUXZT",
+    "TQ40Q5FAAUXXC"
    ],
    "inch": 40,
    "year": 2025,
@@ -24442,6 +24443,25 @@
   {
    "brand": "Samsung",
    "series": "S92H",
+   "name": "S92H",
+   "codes": [
+    "QE48S92H"
+   ],
+   "inch": 48,
+   "year": 2026,
+   "height_cm": 62.0,
+   "vesa_w_mm": 300,
+   "vesa_h_mm": 200,
+   "lower_hole_cm": 9.5,
+   "upper_hole_cm": 29.5,
+   "source_type": "measured",
+   "source_label": "kundemålt",
+   "source": null,
+   "note": "Kundemålt 20/11-2026: nederste VESA-hul 9,5 cm fra underkant."
+  },
+  {
+   "brand": "Samsung",
+   "series": "S92H",
    "name": "42” OLED 4K Vision AI Smart TV S92H (2026)",
    "codes": [
     "QE42S92HAEXXN",
@@ -25535,6 +25555,25 @@
    "source_label": "estimat",
    "source": null,
    "note": ""
+  },
+  {
+   "brand": "Samsung",
+   "series": "TU8305",
+   "name": "TU8305",
+   "codes": [
+    "UE65TU8305KXXC"
+   ],
+   "inch": 65,
+   "year": 2020,
+   "height_cm": 83.5,
+   "vesa_w_mm": 400,
+   "vesa_h_mm": 400,
+   "lower_hole_cm": 30.0,
+   "upper_hole_cm": 70.0,
+   "source_type": "measured",
+   "source_label": "kundemålt",
+   "source": null,
+   "note": "Kundemålt 23/11-2026: nederste VESA-hul 30 cm fra underkant."
   },
   {
    "brand": "Samsung",
@@ -27918,12 +27957,12 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 19.8,
+   "upper_hole_cm": 49.8,
+   "source_type": "model3d",
+   "source_label": "3D-model",
+   "source": "Samsung",
+   "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 19,8 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
   },
   {
    "brand": "Samsung",
@@ -27938,12 +27977,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 19.9,
+   "upper_hole_cm": 49.9,
+   "source_type": "model3d",
+   "source_label": "3D-model",
+   "source": "Samsung",
+   "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 19,9 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
   },
   {
    "brand": "Samsung",
@@ -28578,12 +28617,12 @@
    "height_cm": 108.3,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 19.8,
+   "upper_hole_cm": 49.8,
+   "source_type": "model3d",
+   "source_label": "3D-model",
+   "source": "Samsung",
+   "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 19,8 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
   },
   {
    "brand": "Samsung",
@@ -28598,12 +28637,12 @@
    "height_cm": 95.8,
    "vesa_w_mm": 400,
    "vesa_h_mm": 300,
-   "lower_hole_cm": null,
-   "upper_hole_cm": null,
-   "source_type": "estimate",
-   "source_label": "estimat",
-   "source": null,
-   "note": ""
+   "lower_hole_cm": 19.9,
+   "upper_hole_cm": 49.9,
+   "source_type": "model3d",
+   "source_label": "3D-model",
+   "source": "Samsung",
+   "note": "Målt på Samsungs 3D-model af tv'et fra samsung.com: nederste VESA-hul 19,9 cm fra underkant. Metoden ramte 11 kendte mål med højst 1,2 cm afvigelse. Usikkerhed ca. ±1,5 cm."
   },
   {
    "brand": "Samsung",
